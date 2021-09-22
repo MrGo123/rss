@@ -4,7 +4,17 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1",
+          "author": null,
+          "description": "Fixed: Unexpected nested element in author field crashes the parser\nThank you @ad-m",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1",
+          "publishedOn": "2021-09-16T06:39:32.000Z",
+          "wordCount": 343,
+          "title": "v1.11.1"
+        }
+      ]
     },
     {
       "title": "酷 壳 – CoolShell",
@@ -23,10 +33,172 @@
       ]
     },
     {
-      "title": "开发者头条:星期二 2021-09-14",
+      "title": "开发者头条:今日头条 2021-09-22",
       "feedUrl": "https://rsshub.app/toutiao/today",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/h8rg2ec",
+          "author": null,
+          "description": "[推荐] 基于 K8s 的集群稳定架构",
+          "link": "https://toutiao.io/k/h8rg2ec",
+          "publishedOn": "2021-09-22T00:49:46.112Z",
+          "wordCount": null,
+          "title": "[推荐] 基于 K8s 的集群稳定架构"
+        },
+        {
+          "id": "https://toutiao.io/k/8ef0b5i",
+          "author": null,
+          "description": "JUC 常用 4 大并发工具类",
+          "link": "https://toutiao.io/k/8ef0b5i",
+          "publishedOn": "2021-09-22T00:49:08.979Z",
+          "wordCount": 1899,
+          "title": "JUC 常用 4 大并发工具类"
+        },
+        {
+          "id": "https://toutiao.io/k/75rtacx",
+          "author": null,
+          "description": "Redis 字符串命令不止 SET 与 GET",
+          "link": "https://toutiao.io/k/75rtacx",
+          "publishedOn": "2021-09-22T00:49:08.894Z",
+          "wordCount": 86,
+          "title": "Redis 字符串命令不止 SET 与 GET"
+        },
+        {
+          "id": "https://toutiao.io/k/ql650fu",
+          "author": null,
+          "description": "[推荐] 这 5 个 GitHub 项目 + 3 个网站，助你一飞冲天",
+          "link": "https://toutiao.io/k/ql650fu",
+          "publishedOn": "2021-09-22T00:49:08.826Z",
+          "wordCount": 189,
+          "title": "[推荐] 这 5 个 GitHub 项目 + 3 个网站，助你一飞冲天"
+        },
+        {
+          "id": "https://toutiao.io/k/gisvlmp",
+          "author": null,
+          "description": "[推荐] 浅谈订单重构之 MySQL 分库分表实战篇",
+          "link": "https://toutiao.io/k/gisvlmp",
+          "publishedOn": "2021-09-22T00:49:08.752Z",
+          "wordCount": 853,
+          "title": "[推荐] 浅谈订单重构之 MySQL 分库分表实战篇"
+        },
+        {
+          "id": "https://toutiao.io/k/s122yjk",
+          "author": null,
+          "description": "[推荐] 这可能是 8 月 GitHub 最火热的开源项目",
+          "link": "https://toutiao.io/k/s122yjk",
+          "publishedOn": "2021-09-22T00:49:08.672Z",
+          "wordCount": 181,
+          "title": "[推荐] 这可能是 8 月 GitHub 最火热的开源项目"
+        },
+        {
+          "id": "https://toutiao.io/k/vsf8leu",
+          "author": null,
+          "description": "使用稀疏推理加速移动和 Web 上的神经网络",
+          "link": "https://toutiao.io/k/vsf8leu",
+          "publishedOn": "2021-09-22T00:49:08.587Z",
+          "wordCount": 187,
+          "title": "使用稀疏推理加速移动和 Web 上的神经网络"
+        },
+        {
+          "id": "https://toutiao.io/k/ex5k7x0",
+          "author": null,
+          "description": "大数据之分布式协调神器：Zookeeper 选举",
+          "link": "https://toutiao.io/k/ex5k7x0",
+          "publishedOn": "2021-09-22T00:49:08.505Z",
+          "wordCount": 149,
+          "title": "大数据之分布式协调神器：Zookeeper 选举"
+        },
+        {
+          "id": "https://toutiao.io/k/holtdra",
+          "author": null,
+          "description": "MaaS 出行即服务",
+          "link": "https://toutiao.io/k/holtdra",
+          "publishedOn": "2021-09-22T00:49:08.407Z",
+          "wordCount": 135,
+          "title": "MaaS 出行即服务"
+        },
+        {
+          "id": "https://toutiao.io/k/r6p3osc",
+          "author": null,
+          "description": "Go 语言如何操纵 Kafka 保证无消息丢失",
+          "link": "https://toutiao.io/k/r6p3osc",
+          "publishedOn": "2021-09-22T00:49:08.331Z",
+          "wordCount": 296,
+          "title": "Go 语言如何操纵 Kafka 保证无消息丢失"
+        },
+        {
+          "id": "https://toutiao.io/k/w9197y4",
+          "author": null,
+          "description": "写给互联网工程师的 5G 书（一）： 简介",
+          "link": "https://toutiao.io/k/w9197y4",
+          "publishedOn": "2021-09-22T00:49:08.257Z",
+          "wordCount": 178,
+          "title": "写给互联网工程师的 5G 书（一）： 简介"
+        },
+        {
+          "id": "https://toutiao.io/k/pn0vd3w",
+          "author": null,
+          "description": "Kafka Connect 构建大规模低延迟的数据管道",
+          "link": "https://toutiao.io/k/pn0vd3w",
+          "publishedOn": "2021-09-22T00:49:08.168Z",
+          "wordCount": 315,
+          "title": "Kafka Connect 构建大规模低延迟的数据管道"
+        },
+        {
+          "id": "https://toutiao.io/k/e1xgixp",
+          "author": null,
+          "description": "建议废弃命令 find，改用 Rust 的这个轮子",
+          "link": "https://toutiao.io/k/e1xgixp",
+          "publishedOn": "2021-09-22T00:49:08.083Z",
+          "wordCount": 277,
+          "title": "建议废弃命令 find，改用 Rust 的这个轮子"
+        },
+        {
+          "id": "https://toutiao.io/k/98uu618",
+          "author": null,
+          "description": "分布式之接口幂等性",
+          "link": "https://toutiao.io/k/98uu618",
+          "publishedOn": "2021-09-22T00:49:08.023Z",
+          "wordCount": 155,
+          "title": "分布式之接口幂等性"
+        },
+        {
+          "id": "https://toutiao.io/k/674el0v",
+          "author": null,
+          "description": "[推荐] 支付宝稳撑双11双12的核心架构设计",
+          "link": "https://toutiao.io/k/674el0v",
+          "publishedOn": "2021-09-22T00:49:07.920Z",
+          "wordCount": 88,
+          "title": "[推荐] 支付宝稳撑双11双12的核心架构设计"
+        },
+        {
+          "id": "https://toutiao.io/k/d1kkieu",
+          "author": null,
+          "description": "[推荐] 求你了，别再说数据库锁的只是索引了",
+          "link": "https://toutiao.io/k/d1kkieu",
+          "publishedOn": "2021-09-22T00:49:06.628Z",
+          "wordCount": 427,
+          "title": "[推荐] 求你了，别再说数据库锁的只是索引了"
+        },
+        {
+          "id": "https://toutiao.io/k/nidzr35",
+          "author": null,
+          "description": "[推荐] 当下分布式文件系统架构对比",
+          "link": "https://toutiao.io/k/nidzr35",
+          "publishedOn": "2021-09-22T00:49:05.278Z",
+          "wordCount": 279,
+          "title": "[推荐] 当下分布式文件系统架构对比"
+        },
+        {
+          "id": "https://toutiao.io/k/qm12f64",
+          "author": null,
+          "description": "升级 Java 17 问题记录",
+          "link": "https://toutiao.io/k/qm12f64",
+          "publishedOn": "2021-09-22T00:49:01.273Z",
+          "wordCount": 233,
+          "title": "升级 Java 17 问题记录"
+        },
         {
           "id": "https://toutiao.io/k/0zrngt8",
           "author": null,
@@ -631,5 +803,5 @@
       ]
     }
   ],
-  "cliVersion": "1.11.0"
+  "cliVersion": "1.11.1"
 }
