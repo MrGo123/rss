@@ -6,6 +6,15 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
+          "author": null,
+          "description": "Fixed: unicode characters in URL caused download error\nFixed: project root npm install error\nAdded: unit test library\nChore: Dependency updates\nThank you: @CaptNo1",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
+          "publishedOn": "2021-09-26T18:45:39.000Z",
+          "wordCount": 354,
+          "title": "v1.11.2"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1",
           "author": null,
           "description": "Fixed: Unexpected nested element in author field crashes the parser\nThank you @ad-m",
@@ -33,10 +42,91 @@
       ]
     },
     {
-      "title": "开发者头条:今日头条 2021-09-22",
+      "title": "开发者头条:今日头条 2021-09-29",
       "feedUrl": "https://rsshub.app/toutiao/today",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/di7llvb",
+          "author": null,
+          "description": "[推荐] 近期人类高质量 GitHub 项目",
+          "link": "https://toutiao.io/k/di7llvb",
+          "publishedOn": "2021-09-29T00:45:59.414Z",
+          "wordCount": 209,
+          "title": "[推荐] 近期人类高质量 GitHub 项目"
+        },
+        {
+          "id": "https://toutiao.io/k/88px9ws",
+          "author": null,
+          "description": "[推荐] 一文教你如何学会写 Shell 脚本",
+          "link": "https://toutiao.io/k/88px9ws",
+          "publishedOn": "2021-09-29T00:45:59.341Z",
+          "wordCount": 430,
+          "title": "[推荐] 一文教你如何学会写 Shell 脚本"
+        },
+        {
+          "id": "https://toutiao.io/k/uunmint",
+          "author": null,
+          "description": "[推荐] 如何入门技术写作？",
+          "link": "https://toutiao.io/k/uunmint",
+          "publishedOn": "2021-09-29T00:45:59.252Z",
+          "wordCount": 126,
+          "title": "[推荐] 如何入门技术写作？"
+        },
+        {
+          "id": "https://toutiao.io/k/bynegiy",
+          "author": null,
+          "description": "[推荐] 16 张图解锁 Spring 的整体脉络",
+          "link": "https://toutiao.io/k/bynegiy",
+          "publishedOn": "2021-09-29T00:45:59.137Z",
+          "wordCount": 447,
+          "title": "[推荐] 16 张图解锁 Spring 的整体脉络"
+        },
+        {
+          "id": "https://toutiao.io/k/z6w8vl5",
+          "author": null,
+          "description": "[推荐] 《架构之道》读书笔记：架构设计的新思路",
+          "link": "https://toutiao.io/k/z6w8vl5",
+          "publishedOn": "2021-09-29T00:45:59.063Z",
+          "wordCount": 280,
+          "title": "[推荐] 《架构之道》读书笔记：架构设计的新思路"
+        },
+        {
+          "id": "https://toutiao.io/k/2ci0ez3",
+          "author": null,
+          "description": "[推荐] 源码面前没有秘密，推荐 9 个带你阅读源码的开源项目",
+          "link": "https://toutiao.io/k/2ci0ez3",
+          "publishedOn": "2021-09-29T00:45:58.976Z",
+          "wordCount": 177,
+          "title": "[推荐] 源码面前没有秘密，推荐 9 个带你阅读源码的开源项目"
+        },
+        {
+          "id": "https://toutiao.io/k/dsr2yzw",
+          "author": null,
+          "description": "[推荐] 教您 10 分钟搭建一个内网穿透服务",
+          "link": "https://toutiao.io/k/dsr2yzw",
+          "publishedOn": "2021-09-29T00:45:58.838Z",
+          "wordCount": 158,
+          "title": "[推荐] 教您 10 分钟搭建一个内网穿透服务"
+        },
+        {
+          "id": "https://toutiao.io/k/qm04a3h",
+          "author": null,
+          "description": "[推荐] 开源｜bilibili 开源的，基于 AST 和 Golang 语言实现的规则引擎",
+          "link": "https://toutiao.io/k/qm04a3h",
+          "publishedOn": "2021-09-29T00:45:58.785Z",
+          "wordCount": 102,
+          "title": "[推荐] 开源｜bilibili 开源的，基于 AST 和 Golang 语言实现的规则引擎"
+        },
+        {
+          "id": "https://toutiao.io/k/jqs1x8f",
+          "author": null,
+          "description": "[推荐] 开源浪潮下程序员的职业规划和成长",
+          "link": "https://toutiao.io/k/jqs1x8f",
+          "publishedOn": "2021-09-29T00:45:56.374Z",
+          "wordCount": 214,
+          "title": "[推荐] 开源浪潮下程序员的职业规划和成长"
+        },
         {
           "id": "https://toutiao.io/k/h8rg2ec",
           "author": null,
@@ -790,18 +880,8 @@
       "title": "ShanSan",
       "feedUrl": "https://shansan.top/rss2.xml",
       "siteUrl": "https://yeshan333.github.io/",
-      "articles": [
-        {
-          "id": "https://yeshan333.github.io/2021/08/28/prometheus-federation/",
-          "author": null,
-          "description": "一不小心就八月末了，我敲，最近大部分的时间都在了解 Prometheus，一直想“搂”篇文章出来，奈何一直在墨迹，是时候了，不然就九月了，完不成博客的 Flag 了，233333。\n前言\n本篇文章主要介绍了 Promethues Federation 集群化机制 & 基于 Docker 搭建一个最小化的 Prometheus Federation 集群娱乐环境的相关操作。不是 Step By Step 的。",
-          "link": "https://yeshan333.github.io/2021/08/28/prometheus-federation/",
-          "publishedOn": "2021-08-28T17:25:18.000Z",
-          "wordCount": 836,
-          "title": "基于 Docker 搭建一个最小化的 Prometheus Federation「联邦」集群"
-        }
-      ]
+      "articles": []
     }
   ],
-  "cliVersion": "1.11.1"
+  "cliVersion": "1.11.2"
 }
