@@ -42,10 +42,109 @@
       ]
     },
     {
-      "title": "开发者头条:今日头条 2021-09-29",
+      "title": "开发者头条:今日头条 2021-10-01",
       "feedUrl": "https://rsshub.app/toutiao/today",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/01lhd6r",
+          "author": null,
+          "description": "深入 iOS 静态链接器（一）：ld64",
+          "link": "https://toutiao.io/k/01lhd6r",
+          "publishedOn": "2021-10-01T00:51:32.933Z",
+          "wordCount": 2341,
+          "title": "深入 iOS 静态链接器（一）：ld64"
+        },
+        {
+          "id": "https://toutiao.io/k/razs9sg",
+          "author": null,
+          "description": "ASM 与 Presto 动态代码生成简介",
+          "link": "https://toutiao.io/k/razs9sg",
+          "publishedOn": "2021-10-01T00:51:32.782Z",
+          "wordCount": 1088,
+          "title": "ASM 与 Presto 动态代码生成简介"
+        },
+        {
+          "id": "https://toutiao.io/k/e17erwk",
+          "author": null,
+          "description": "[推荐] 聊聊 Redis 分布式锁的 8 大坑",
+          "link": "https://toutiao.io/k/e17erwk",
+          "publishedOn": "2021-10-01T00:51:32.500Z",
+          "wordCount": 474,
+          "title": "[推荐] 聊聊 Redis 分布式锁的 8 大坑"
+        },
+        {
+          "id": "https://toutiao.io/k/l2sw9ji",
+          "author": null,
+          "description": "[推荐] 十个现象，识别程序员的 “水份”",
+          "link": "https://toutiao.io/k/l2sw9ji",
+          "publishedOn": "2021-10-01T00:51:32.217Z",
+          "wordCount": 95,
+          "title": "[推荐] 十个现象，识别程序员的 “水份”"
+        },
+        {
+          "id": "https://toutiao.io/k/e2ipbrc",
+          "author": null,
+          "description": "你们要的环球影城攻略，来了",
+          "link": "https://toutiao.io/k/e2ipbrc",
+          "publishedOn": "2021-10-01T00:51:32.141Z",
+          "wordCount": 99,
+          "title": "你们要的环球影城攻略，来了"
+        },
+        {
+          "id": "https://toutiao.io/k/p2sogse",
+          "author": null,
+          "description": "Golang 调试分析的高阶技巧",
+          "link": "https://toutiao.io/k/p2sogse",
+          "publishedOn": "2021-10-01T00:51:32.052Z",
+          "wordCount": 738,
+          "title": "Golang 调试分析的高阶技巧"
+        },
+        {
+          "id": "https://toutiao.io/k/6k5ve1v",
+          "author": null,
+          "description": "ToTTo：受控表到文本生成数据集",
+          "link": "https://toutiao.io/k/6k5ve1v",
+          "publishedOn": "2021-10-01T00:51:31.896Z",
+          "wordCount": 230,
+          "title": "ToTTo：受控表到文本生成数据集"
+        },
+        {
+          "id": "https://toutiao.io/k/aazub7e",
+          "author": null,
+          "description": "[推荐] MySQL 那点破事！索引、SQL 调优、事务、B+树、分表",
+          "link": "https://toutiao.io/k/aazub7e",
+          "publishedOn": "2021-10-01T00:51:31.807Z",
+          "wordCount": 193,
+          "title": "[推荐] MySQL 那点破事！索引、SQL 调优、事务、B+树、分表"
+        },
+        {
+          "id": "https://toutiao.io/k/8pbs9cx",
+          "author": null,
+          "description": "十一长假干嘛呢？快来吧！",
+          "link": "https://toutiao.io/k/8pbs9cx",
+          "publishedOn": "2021-10-01T00:51:31.394Z",
+          "wordCount": 83,
+          "title": "十一长假干嘛呢？快来吧！"
+        },
+        {
+          "id": "https://toutiao.io/k/zz67p1j",
+          "author": null,
+          "description": "[推荐] 走近 DDD",
+          "link": "https://toutiao.io/k/zz67p1j",
+          "publishedOn": "2021-10-01T00:51:29.751Z",
+          "wordCount": null,
+          "title": "[推荐] 走近 DDD"
+        },
+        {
+          "id": "https://toutiao.io/k/tm5eo26",
+          "author": null,
+          "description": "一顿操作，我把 Table 组件性能提升了十倍",
+          "link": "https://toutiao.io/k/tm5eo26",
+          "publishedOn": "2021-10-01T00:51:28.685Z",
+          "wordCount": 1265,
+          "title": "一顿操作，我把 Table 组件性能提升了十倍"
+        },
         {
           "id": "https://toutiao.io/k/di7llvb",
           "author": null,
@@ -126,6 +225,15 @@
           "publishedOn": "2021-09-29T00:45:56.374Z",
           "wordCount": 214,
           "title": "[推荐] 开源浪潮下程序员的职业规划和成长"
+        },
+        {
+          "id": "https://toutiao.io/k/bue7e8t",
+          "author": null,
+          "description": "如何合理地选型工具",
+          "link": "https://toutiao.io/k/bue7e8t",
+          "publishedOn": "2021-09-23T07:33:08.000Z",
+          "wordCount": 193,
+          "title": "如何合理地选型工具"
         },
         {
           "id": "https://toutiao.io/k/h8rg2ec",
