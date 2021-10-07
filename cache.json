@@ -26,26 +26,118 @@
       ]
     },
     {
-      "title": "酷 壳 – CoolShell",
-      "feedUrl": "https://coolshell.cn/feed",
-      "siteUrl": "https://coolshell.cn",
-      "articles": [
-        {
-          "id": "https://coolshell.cn/?p=21615",
-          "author": "陈皓",
-          "description": "Go语言的1.17版本发布了，其中开始正式支持泛型了。虽然还有一些限制（比如，不能把泛型函数export），但是，可以体验了。我的这个《Go编程模式》的系列终于...\n Read More  Read More\nGo编程模式 ： 泛型编程 first appeared on 酷 壳 - CoolShell.",
-          "link": "https://coolshell.cn/articles/21615.html",
-          "publishedOn": "2021-09-04T05:44:02.000Z",
-          "wordCount": 1858,
-          "title": "Go编程模式 ： 泛型编程"
-        }
-      ]
-    },
-    {
-      "title": "开发者头条:今日头条 2021-10-01",
+      "title": "开发者头条:今日头条 2021-10-07",
       "feedUrl": "https://rsshub.app/toutiao/today",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/ou37ua8",
+          "author": null,
+          "description": "字节跳动是如何落地微前端的",
+          "link": "https://toutiao.io/k/ou37ua8",
+          "publishedOn": "2021-10-07T14:06:01.296Z",
+          "wordCount": 717,
+          "title": "字节跳动是如何落地微前端的"
+        },
+        {
+          "id": "https://toutiao.io/k/oi7zdzy",
+          "author": null,
+          "description": "[推荐] 推荐几个开源类库，超好用，远离 996",
+          "link": "https://toutiao.io/k/oi7zdzy",
+          "publishedOn": "2021-10-07T14:06:01.161Z",
+          "wordCount": 339,
+          "title": "[推荐] 推荐几个开源类库，超好用，远离 996"
+        },
+        {
+          "id": "https://toutiao.io/k/wn672me",
+          "author": null,
+          "description": "极狐 GitLab SaaS 内测轻度体验",
+          "link": "https://toutiao.io/k/wn672me",
+          "publishedOn": "2021-10-07T14:06:01.071Z",
+          "wordCount": 287,
+          "title": "极狐 GitLab SaaS 内测轻度体验"
+        },
+        {
+          "id": "https://toutiao.io/k/bkhel3q",
+          "author": null,
+          "description": "浅析数据库事务隔离级别",
+          "link": "https://toutiao.io/k/bkhel3q",
+          "publishedOn": "2021-10-07T14:06:00.960Z",
+          "wordCount": 95,
+          "title": "浅析数据库事务隔离级别"
+        },
+        {
+          "id": "https://toutiao.io/k/skbdvsx",
+          "author": null,
+          "description": "写给互联网工程师的 5G 书（六）：参考实现",
+          "link": "https://toutiao.io/k/skbdvsx",
+          "publishedOn": "2021-10-07T14:06:00.878Z",
+          "wordCount": 121,
+          "title": "写给互联网工程师的 5G 书（六）：参考实现"
+        },
+        {
+          "id": "https://toutiao.io/k/0d4bxmx",
+          "author": null,
+          "description": "[推荐] 发票总库 DDD 实践",
+          "link": "https://toutiao.io/k/0d4bxmx",
+          "publishedOn": "2021-10-07T14:06:00.775Z",
+          "wordCount": 63,
+          "title": "[推荐] 发票总库 DDD 实践"
+        },
+        {
+          "id": "https://toutiao.io/k/vb8v22x",
+          "author": null,
+          "description": "升级到 Java 17：密封类",
+          "link": "https://toutiao.io/k/vb8v22x",
+          "publishedOn": "2021-10-07T14:06:00.614Z",
+          "wordCount": 254,
+          "title": "升级到 Java 17：密封类"
+        },
+        {
+          "id": "https://toutiao.io/k/ys08f63",
+          "author": null,
+          "description": "[推荐] 如何通过项目复盘来加速个人成长",
+          "link": "https://toutiao.io/k/ys08f63",
+          "publishedOn": "2021-10-07T14:06:00.518Z",
+          "wordCount": 119,
+          "title": "[推荐] 如何通过项目复盘来加速个人成长"
+        },
+        {
+          "id": "https://toutiao.io/k/z43chab",
+          "author": null,
+          "description": "并发编程：SIMD 介绍",
+          "link": "https://toutiao.io/k/z43chab",
+          "publishedOn": "2021-10-07T14:06:00.430Z",
+          "wordCount": 522,
+          "title": "并发编程：SIMD 介绍"
+        },
+        {
+          "id": "https://toutiao.io/k/derylod",
+          "author": null,
+          "description": "领导为什么不听我的汇报和授权方法",
+          "link": "https://toutiao.io/k/derylod",
+          "publishedOn": "2021-10-07T14:06:00.332Z",
+          "wordCount": 55,
+          "title": "领导为什么不听我的汇报和授权方法"
+        },
+        {
+          "id": "https://toutiao.io/k/b447c39",
+          "author": null,
+          "description": "使用 Jenkins 共享库对流水线进行扩展",
+          "link": "https://toutiao.io/k/b447c39",
+          "publishedOn": "2021-10-07T14:06:00.163Z",
+          "wordCount": 145,
+          "title": "使用 Jenkins 共享库对流水线进行扩展"
+        },
+        {
+          "id": "https://toutiao.io/k/21wnwdq",
+          "author": null,
+          "description": "[推荐] 彻底弄懂 base64 的编码与解码原理",
+          "link": "https://toutiao.io/k/21wnwdq",
+          "publishedOn": "2021-10-07T14:05:57.674Z",
+          "wordCount": 1337,
+          "title": "[推荐] 彻底弄懂 base64 的编码与解码原理"
+        },
         {
           "id": "https://toutiao.io/k/01lhd6r",
           "author": null,
@@ -398,6 +490,15 @@
           "title": "升级 Java 17 问题记录"
         },
         {
+          "id": "https://toutiao.io/k/9gpfegt",
+          "author": null,
+          "description": "Elasticsearch 基础之相关性介绍",
+          "link": "https://toutiao.io/k/9gpfegt",
+          "publishedOn": "2021-09-19T04:12:01.000Z",
+          "wordCount": 224,
+          "title": "Elasticsearch 基础之相关性介绍"
+        },
+        {
           "id": "https://toutiao.io/k/0zrngt8",
           "author": null,
           "description": "初识 containerd",
@@ -684,303 +785,6 @@
           "publishedOn": "2021-09-15T00:46:02.877Z",
           "wordCount": 590,
           "title": "微前端拆分实践"
-        },
-        {
-          "id": "https://toutiao.io/k/zlvt91d",
-          "author": null,
-          "description": "[推荐] 万字长文说透分布式锁",
-          "link": "https://toutiao.io/k/zlvt91d",
-          "publishedOn": "2021-09-08T00:44:35.917Z",
-          "wordCount": 860,
-          "title": "[推荐] 万字长文说透分布式锁"
-        },
-        {
-          "id": "https://toutiao.io/k/3kvcfbi",
-          "author": null,
-          "description": "实现 LRU 缓存机制",
-          "link": "https://toutiao.io/k/3kvcfbi",
-          "publishedOn": "2021-09-08T00:44:34.314Z",
-          "wordCount": 458,
-          "title": "实现 LRU 缓存机制"
-        },
-        {
-          "id": "https://toutiao.io/k/6fc4wg2",
-          "author": null,
-          "description": "微服务架构下的熔断框架：hystrix-go",
-          "link": "https://toutiao.io/k/6fc4wg2",
-          "publishedOn": "2021-09-08T00:44:34.251Z",
-          "wordCount": 1197,
-          "title": "微服务架构下的熔断框架：hystrix-go"
-        },
-        {
-          "id": "https://toutiao.io/k/jmqq86o",
-          "author": null,
-          "description": "服务运行过程中磁盘坏道引起的思考",
-          "link": "https://toutiao.io/k/jmqq86o",
-          "publishedOn": "2021-09-08T00:44:34.168Z",
-          "wordCount": 59,
-          "title": "服务运行过程中磁盘坏道引起的思考"
-        },
-        {
-          "id": "https://toutiao.io/k/ldwacnk",
-          "author": null,
-          "description": "[推荐] 一个后端朋友面试一个月的经验总结",
-          "link": "https://toutiao.io/k/ldwacnk",
-          "publishedOn": "2021-09-08T00:44:34.082Z",
-          "wordCount": 76,
-          "title": "[推荐] 一个后端朋友面试一个月的经验总结"
-        },
-        {
-          "id": "https://toutiao.io/k/4cytviq",
-          "author": null,
-          "description": "说说 Flutter：Skia、Dart 及其历史",
-          "link": "https://toutiao.io/k/4cytviq",
-          "publishedOn": "2021-09-08T00:44:34.011Z",
-          "wordCount": 367,
-          "title": "说说 Flutter：Skia、Dart 及其历史"
-        },
-        {
-          "id": "https://toutiao.io/k/e4uv4is",
-          "author": null,
-          "description": "[推荐] Go 整洁架构模版，建议收藏",
-          "link": "https://toutiao.io/k/e4uv4is",
-          "publishedOn": "2021-09-08T00:44:33.949Z",
-          "wordCount": 676,
-          "title": "[推荐] Go 整洁架构模版，建议收藏"
-        },
-        {
-          "id": "https://toutiao.io/k/a6zi7f5",
-          "author": null,
-          "description": "十大基本排序，一次搞定",
-          "link": "https://toutiao.io/k/a6zi7f5",
-          "publishedOn": "2021-09-08T00:44:33.844Z",
-          "wordCount": 1525,
-          "title": "十大基本排序，一次搞定"
-        },
-        {
-          "id": "https://toutiao.io/k/8eqeeh0",
-          "author": null,
-          "description": "[推荐] 深度长文：从 bio 到 nio 到 aio，再到响应式编程",
-          "link": "https://toutiao.io/k/8eqeeh0",
-          "publishedOn": "2021-09-08T00:44:33.727Z",
-          "wordCount": 536,
-          "title": "[推荐] 深度长文：从 bio 到 nio 到 aio，再到响应式编程"
-        },
-        {
-          "id": "https://toutiao.io/k/6qkwv3g",
-          "author": null,
-          "description": "[推荐] Java 中的锁居然有这么多",
-          "link": "https://toutiao.io/k/6qkwv3g",
-          "publishedOn": "2021-09-08T00:44:33.655Z",
-          "wordCount": 279,
-          "title": "[推荐] Java 中的锁居然有这么多"
-        },
-        {
-          "id": "https://toutiao.io/k/1xldt8h",
-          "author": null,
-          "description": "[推荐] 成为高效工程师的四步法则",
-          "link": "https://toutiao.io/k/1xldt8h",
-          "publishedOn": "2021-09-08T00:44:33.573Z",
-          "wordCount": 75,
-          "title": "[推荐] 成为高效工程师的四步法则"
-        },
-        {
-          "id": "https://toutiao.io/k/q603aou",
-          "author": null,
-          "description": "为开源项目 go-gin-api 增加后台任务模块",
-          "link": "https://toutiao.io/k/q603aou",
-          "publishedOn": "2021-09-08T00:44:33.499Z",
-          "wordCount": 252,
-          "title": "为开源项目 go-gin-api 增加后台任务模块"
-        },
-        {
-          "id": "https://toutiao.io/k/8urc6ku",
-          "author": null,
-          "description": "[推荐] InnoDB 是如何存数据的？yyds",
-          "link": "https://toutiao.io/k/8urc6ku",
-          "publishedOn": "2021-09-08T00:44:33.449Z",
-          "wordCount": 78,
-          "title": "[推荐] InnoDB 是如何存数据的？yyds"
-        },
-        {
-          "id": "https://toutiao.io/k/r43yh0i",
-          "author": null,
-          "description": "系统调用跟踪：分析（一）",
-          "link": "https://toutiao.io/k/r43yh0i",
-          "publishedOn": "2021-09-08T00:44:33.367Z",
-          "wordCount": 121,
-          "title": "系统调用跟踪：分析（一）"
-        },
-        {
-          "id": "https://toutiao.io/k/2beczyw",
-          "author": null,
-          "description": "[推荐] 这 2 个工作流自动化工具  yyds",
-          "link": "https://toutiao.io/k/2beczyw",
-          "publishedOn": "2021-09-08T00:44:33.303Z",
-          "wordCount": 119,
-          "title": "[推荐] 这 2 个工作流自动化工具  yyds"
-        },
-        {
-          "id": "https://toutiao.io/k/ne5dy4u",
-          "author": null,
-          "description": "TQL，模型融合方法详解",
-          "link": "https://toutiao.io/k/ne5dy4u",
-          "publishedOn": "2021-09-08T00:44:33.239Z",
-          "wordCount": 181,
-          "title": "TQL，模型融合方法详解"
-        },
-        {
-          "id": "https://toutiao.io/k/4t8lwxs",
-          "author": null,
-          "description": "[推荐] 分布式事务实战，用 Go 轻松完成一个 TCC",
-          "link": "https://toutiao.io/k/4t8lwxs",
-          "publishedOn": "2021-09-08T00:44:33.145Z",
-          "wordCount": 351,
-          "title": "[推荐] 分布式事务实战，用 Go 轻松完成一个 TCC"
-        },
-        {
-          "id": "https://toutiao.io/k/f9wmnb8",
-          "author": null,
-          "description": "[推荐] 使用 Rancher 部署 k8s 集群",
-          "link": "https://toutiao.io/k/f9wmnb8",
-          "publishedOn": "2021-09-08T00:44:33.080Z",
-          "wordCount": 344,
-          "title": "[推荐] 使用 Rancher 部署 k8s 集群"
-        },
-        {
-          "id": "https://toutiao.io/k/ble9d1s",
-          "author": null,
-          "description": "fail-safe 和 fail-fast 硬核解析，让你和面试官多聊十分钟",
-          "link": "https://toutiao.io/k/ble9d1s",
-          "publishedOn": "2021-09-08T00:44:32.996Z",
-          "wordCount": 478,
-          "title": "fail-safe 和 fail-fast 硬核解析，让你和面试官多聊十分钟"
-        },
-        {
-          "id": "https://toutiao.io/k/6r8vmz2",
-          "author": null,
-          "description": "[推荐] 实战篇：断点续传？文件秒传？手撸大文件上传",
-          "link": "https://toutiao.io/k/6r8vmz2",
-          "publishedOn": "2021-09-08T00:44:32.915Z",
-          "wordCount": 342,
-          "title": "[推荐] 实战篇：断点续传？文件秒传？手撸大文件上传"
-        },
-        {
-          "id": "https://toutiao.io/k/kqb4zku",
-          "author": null,
-          "description": "Kubernetes 云原生监控之 kube-state-metrics 集群资源监控",
-          "link": "https://toutiao.io/k/kqb4zku",
-          "publishedOn": "2021-09-08T00:44:32.846Z",
-          "wordCount": 392,
-          "title": "Kubernetes 云原生监控之 kube-state-metrics 集群资源监控"
-        },
-        {
-          "id": "https://toutiao.io/k/6f8r0m1",
-          "author": null,
-          "description": "后端程序员的 ES6 超简单入门笔记",
-          "link": "https://toutiao.io/k/6f8r0m1",
-          "publishedOn": "2021-09-08T00:44:32.777Z",
-          "wordCount": 482,
-          "title": "后端程序员的 ES6 超简单入门笔记"
-        },
-        {
-          "id": "https://toutiao.io/k/99k02xm",
-          "author": null,
-          "description": "在 Intel SGX 环境下实现 Rust 原生 std 支持",
-          "link": "https://toutiao.io/k/99k02xm",
-          "publishedOn": "2021-09-08T00:44:32.704Z",
-          "wordCount": 207,
-          "title": "在 Intel SGX 环境下实现 Rust 原生 std 支持"
-        },
-        {
-          "id": "https://toutiao.io/k/oqq4xnq",
-          "author": null,
-          "description": "理解 Java 中对象基础 Object 类",
-          "link": "https://toutiao.io/k/oqq4xnq",
-          "publishedOn": "2021-09-08T00:44:32.618Z",
-          "wordCount": 341,
-          "title": "理解 Java 中对象基础 Object 类"
-        },
-        {
-          "id": "https://toutiao.io/k/bq2esjq",
-          "author": null,
-          "description": "Elasticsearch 如何自定义扩展词库？",
-          "link": "https://toutiao.io/k/bq2esjq",
-          "publishedOn": "2021-09-08T00:44:32.549Z",
-          "wordCount": 175,
-          "title": "Elasticsearch 如何自定义扩展词库？"
-        },
-        {
-          "id": "https://toutiao.io/k/epu1m0p",
-          "author": null,
-          "description": "[推荐] 浅谈工作中常用应用软件本地 Docker 化，一键部署它不香吗？",
-          "link": "https://toutiao.io/k/epu1m0p",
-          "publishedOn": "2021-09-08T00:44:32.469Z",
-          "wordCount": 436,
-          "title": "[推荐] 浅谈工作中常用应用软件本地 Docker 化，一键部署它不香吗？"
-        },
-        {
-          "id": "https://toutiao.io/k/70kuvcy",
-          "author": null,
-          "description": "[推荐] 让 JWT 来保护你的接口服务",
-          "link": "https://toutiao.io/k/70kuvcy",
-          "publishedOn": "2021-09-08T00:44:32.403Z",
-          "wordCount": 272,
-          "title": "[推荐] 让 JWT 来保护你的接口服务"
-        },
-        {
-          "id": "https://toutiao.io/k/c8ht5xf",
-          "author": null,
-          "description": "Redis 小功能大用处：replica-ignore-maxmemory",
-          "link": "https://toutiao.io/k/c8ht5xf",
-          "publishedOn": "2021-09-08T00:44:32.297Z",
-          "wordCount": 98,
-          "title": "Redis 小功能大用处：replica-ignore-maxmemory"
-        },
-        {
-          "id": "https://toutiao.io/k/kbrldxv",
-          "author": null,
-          "description": "用 Python 轻松完成一个 Saga 分布式事务，保姆级教程",
-          "link": "https://toutiao.io/k/kbrldxv",
-          "publishedOn": "2021-09-08T00:44:32.227Z",
-          "wordCount": 329,
-          "title": "用 Python 轻松完成一个 Saga 分布式事务，保姆级教程"
-        },
-        {
-          "id": "https://toutiao.io/k/nyc5voq",
-          "author": null,
-          "description": "腾讯开源的，基于 React 开发的移动 Web 调试工具",
-          "link": "https://toutiao.io/k/nyc5voq",
-          "publishedOn": "2021-09-08T00:44:32.154Z",
-          "wordCount": 93,
-          "title": "腾讯开源的，基于 React 开发的移动 Web 调试工具"
-        },
-        {
-          "id": "https://toutiao.io/k/iht4k31",
-          "author": null,
-          "description": "人生重开模拟器（GitHub 热点速览 v.21.36）",
-          "link": "https://toutiao.io/k/iht4k31",
-          "publishedOn": "2021-09-08T00:44:32.084Z",
-          "wordCount": 218,
-          "title": "人生重开模拟器（GitHub 热点速览 v.21.36）"
-        },
-        {
-          "id": "https://toutiao.io/k/vmyvgf0",
-          "author": null,
-          "description": "亿级流量治理系列：常用的限流算法有哪些？",
-          "link": "https://toutiao.io/k/vmyvgf0",
-          "publishedOn": "2021-09-08T00:44:31.867Z",
-          "wordCount": 146,
-          "title": "亿级流量治理系列：常用的限流算法有哪些？"
-        },
-        {
-          "id": "https://toutiao.io/k/r4c3nmq",
-          "author": null,
-          "description": "K8S 原理架构与实战（基础篇）",
-          "link": "https://toutiao.io/k/r4c3nmq",
-          "publishedOn": "2021-09-08T00:44:30.603Z",
-          "wordCount": 2089,
-          "title": "K8S 原理架构与实战（基础篇）"
         }
       ]
     },
@@ -988,7 +792,26 @@
       "title": "ShanSan",
       "feedUrl": "https://shansan.top/rss2.xml",
       "siteUrl": "https://yeshan333.github.io/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://yeshan333.github.io/2021/10/07/io-bound-cpu-bound-with-average-load/",
+          "author": null,
+          "description": "在排查性能问题的时候，我们经常会使用 top 或者 uptime 两个 Linux 命令，top 命令和 uptime 命令都会给出最近机器 1 min，5 min，15 min 的平均负载情况，一般平均负载值（Average Load）接近甚至超出 CPU cores",
+          "link": "https://yeshan333.github.io/2021/10/07/io-bound-cpu-bound-with-average-load/",
+          "publishedOn": "2021-10-07T16:12:38.000Z",
+          "wordCount": 773,
+          "title": "从平均负载开始，这进程是 CPU Bound 还是 IO Bound 的？"
+        },
+        {
+          "id": "https://yeshan333.github.io/2021/09/25/common-use-linux-network-command/",
+          "author": null,
+          "description": "水文警告⚠😂，最近这些玩意用得多，微微记录一下，目前写的比较水，后面应该会补点实践经验🚩。",
+          "link": "https://yeshan333.github.io/2021/09/25/common-use-linux-network-command/",
+          "publishedOn": "2021-09-25T16:34:52.000Z",
+          "wordCount": 424,
+          "title": "常用的 Linux 网络相关的命令"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.2"
