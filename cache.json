@@ -26,10 +26,19 @@
       ]
     },
     {
-      "title": "开发者头条:今日头条 2021-10-07",
+      "title": "开发者头条:星期四 2021-10-07",
       "feedUrl": "https://rsshub.app/toutiao/today",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/zg31kv0",
+          "author": null,
+          "description": "[推荐] 一站搞定各种开发文档",
+          "link": "https://toutiao.io/k/zg31kv0",
+          "publishedOn": "2021-10-08T00:52:39.945Z",
+          "wordCount": 128,
+          "title": "[推荐] 一站搞定各种开发文档"
+        },
         {
           "id": "https://toutiao.io/k/ou37ua8",
           "author": null,
