@@ -2,10 +2,262 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-15T00:51:54.774Z</updated>
-    <generator>osmosfeed 1.11.2</generator>
+    <updated>2021-10-22T00:55:13.582Z</updated>
+    <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Java 进阶之深入理解负载均衡的 5 种算法实现原理]]></title>
+        <id>https://toutiao.io/k/zdp512f</id>
+        <link href="https://toutiao.io/k/zdp512f"/>
+        <updated>2021-10-22T00:55:13.553Z</updated>
+        <summary type="html"><![CDATA[Java 进阶之深入理解负载均衡的 5 种算法实现原理]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] 亿级流量架构演进实战：从零构建亿级流量 API 网关（一）]]></title>
+        <id>https://toutiao.io/k/gez059v</id>
+        <link href="https://toutiao.io/k/gez059v"/>
+        <updated>2021-10-22T00:55:13.261Z</updated>
+        <summary type="html"><![CDATA[[推荐] 亿级流量架构演进实战：从零构建亿级流量 API 网关（一）]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再谈 TCP 拥塞控制]]></title>
+        <id>https://toutiao.io/k/1rzyidu</id>
+        <link href="https://toutiao.io/k/1rzyidu"/>
+        <updated>2021-10-22T00:55:13.157Z</updated>
+        <summary type="html"><![CDATA[再谈 TCP 拥塞控制]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[怎样快速地构建正确的软件产品？]]></title>
+        <id>https://toutiao.io/k/oozy51z</id>
+        <link href="https://toutiao.io/k/oozy51z"/>
+        <updated>2021-10-22T00:55:13.073Z</updated>
+        <summary type="html"><![CDATA[怎样快速地构建正确的软件产品？]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] 开源｜5 秒内克隆您的声音并生成任意语音内容]]></title>
+        <id>https://toutiao.io/k/87ehz9q</id>
+        <link href="https://toutiao.io/k/87ehz9q"/>
+        <updated>2021-10-22T00:55:13.004Z</updated>
+        <summary type="html"><![CDATA[[推荐] 开源｜5 秒内克隆您的声音并生成任意语音内容]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[单例模式，真不简单]]></title>
+        <id>https://toutiao.io/k/v6oak4s</id>
+        <link href="https://toutiao.io/k/v6oak4s"/>
+        <updated>2021-10-22T00:55:12.936Z</updated>
+        <summary type="html"><![CDATA[单例模式，真不简单]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MPP 架构与 Hadoop 架构是一回事吗？]]></title>
+        <id>https://toutiao.io/k/9qdwtkk</id>
+        <link href="https://toutiao.io/k/9qdwtkk"/>
+        <updated>2021-10-22T00:55:12.844Z</updated>
+        <summary type="html"><![CDATA[MPP 架构与 Hadoop 架构是一回事吗？]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[干货：探秘 WKWebView]]></title>
+        <id>https://toutiao.io/k/o8r38dd</id>
+        <link href="https://toutiao.io/k/o8r38dd"/>
+        <updated>2021-10-22T00:55:12.775Z</updated>
+        <summary type="html"><![CDATA[干货：探秘 WKWebView]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gin 源码阅读（五）：灵活的返回值处理]]></title>
+        <id>https://toutiao.io/k/2jpmi8x</id>
+        <link href="https://toutiao.io/k/2jpmi8x"/>
+        <updated>2021-10-22T00:55:12.676Z</updated>
+        <summary type="html"><![CDATA[Gin 源码阅读（五）：灵活的返回值处理]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊聊刷题中的 “顿悟” 时刻]]></title>
+        <id>https://toutiao.io/k/ypqrcqh</id>
+        <link href="https://toutiao.io/k/ypqrcqh"/>
+        <updated>2021-10-22T00:55:12.551Z</updated>
+        <summary type="html"><![CDATA[聊聊刷题中的 “顿悟” 时刻]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于 BGP 安全那些事儿]]></title>
+        <id>https://toutiao.io/k/x9xhpx8</id>
+        <link href="https://toutiao.io/k/x9xhpx8"/>
+        <updated>2021-10-22T00:55:12.466Z</updated>
+        <summary type="html"><![CDATA[关于 BGP 安全那些事儿]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] Kafka 为什么要放弃 Zookeeper]]></title>
+        <id>https://toutiao.io/k/98g49tv</id>
+        <link href="https://toutiao.io/k/98g49tv"/>
+        <updated>2021-10-22T00:55:12.397Z</updated>
+        <summary type="html"><![CDATA[[推荐] Kafka 为什么要放弃 Zookeeper]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 内核：网络流量限速方案大 PK]]></title>
+        <id>https://toutiao.io/k/3bj0cj6</id>
+        <link href="https://toutiao.io/k/3bj0cj6"/>
+        <updated>2021-10-22T00:55:12.317Z</updated>
+        <summary type="html"><![CDATA[Linux 内核：网络流量限速方案大 PK]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HDFS 底层交互原理，看这篇就够了]]></title>
+        <id>https://toutiao.io/k/1lykrd9</id>
+        <link href="https://toutiao.io/k/1lykrd9"/>
+        <updated>2021-10-22T00:55:12.240Z</updated>
+        <summary type="html"><![CDATA[HDFS 底层交互原理，看这篇就够了]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go 语言设计失误，缺乏远见？]]></title>
+        <id>https://toutiao.io/k/iqm8koq</id>
+        <link href="https://toutiao.io/k/iqm8koq"/>
+        <updated>2021-10-22T00:55:12.154Z</updated>
+        <summary type="html"><![CDATA[Go 语言设计失误，缺乏远见？]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给 MVC 三层架构加一层 Manager 层]]></title>
+        <id>https://toutiao.io/k/kcftpfu</id>
+        <link href="https://toutiao.io/k/kcftpfu"/>
+        <updated>2021-10-22T00:55:12.080Z</updated>
+        <summary type="html"><![CDATA[给 MVC 三层架构加一层 Manager 层]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenGait：首个步态识别框架开源了]]></title>
+        <id>https://toutiao.io/k/ig0mmia</id>
+        <link href="https://toutiao.io/k/ig0mmia"/>
+        <updated>2021-10-22T00:55:11.957Z</updated>
+        <summary type="html"><![CDATA[OpenGait：首个步态识别框架开源了]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面试官：如何实现扫码登录功能？]]></title>
+        <id>https://toutiao.io/k/a6nt24o</id>
+        <link href="https://toutiao.io/k/a6nt24o"/>
+        <updated>2021-10-22T00:55:11.890Z</updated>
+        <summary type="html"><![CDATA[面试官：如何实现扫码登录功能？]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 DDD 到 PaaS 化再到一站式部署：通天塔后端通用版发展之路]]></title>
+        <id>https://toutiao.io/k/y2rictc</id>
+        <link href="https://toutiao.io/k/y2rictc"/>
+        <updated>2021-10-22T00:55:11.586Z</updated>
+        <summary type="html"><![CDATA[从 DDD 到 PaaS 化再到一站式部署：通天塔后端通用版发展之路]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sentinel-Go 源码系列（一）：开篇]]></title>
+        <id>https://toutiao.io/k/u1baj7t</id>
+        <link href="https://toutiao.io/k/u1baj7t"/>
+        <updated>2021-10-22T00:55:11.439Z</updated>
+        <summary type="html"><![CDATA[Sentinel-Go 源码系列（一）：开篇]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[等概率采样最大值的索引（蓄水池采样）]]></title>
+        <id>https://toutiao.io/k/j8ll78q</id>
+        <link href="https://toutiao.io/k/j8ll78q"/>
+        <updated>2021-10-22T00:55:09.495Z</updated>
+        <summary type="html"><![CDATA[等概率采样最大值的索引（蓄水池采样）]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] ElasticSearch 存储成本省 60%，稿定科技干货分享]]></title>
+        <id>https://toutiao.io/k/oy304tv</id>
+        <link href="https://toutiao.io/k/oy304tv"/>
+        <updated>2021-10-22T00:55:09.240Z</updated>
+        <summary type="html"><![CDATA[[推荐] ElasticSearch 存储成本省 60%，稿定科技干货分享]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当前有一套测试库，剩余磁盘空间不多怎么弄]]></title>
+        <id>https://toutiao.io/k/gb9y8um</id>
+        <link href="https://toutiao.io/k/gb9y8um"/>
+        <updated>2021-10-22T00:55:09.177Z</updated>
+        <summary type="html"><![CDATA[当前有一套测试库，剩余磁盘空间不多怎么弄]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] [译] 写给工程师：关于证书和公钥基础设施的一切 (SmallStep, 2018)]]></title>
+        <id>https://toutiao.io/k/qnglkcl</id>
+        <link href="https://toutiao.io/k/qnglkcl"/>
+        <updated>2021-10-22T00:55:08.898Z</updated>
+        <summary type="html"><![CDATA[[推荐] [译] 写给工程师：关于证书和公钥基础设施的一切 (SmallStep, 2018)]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.11.3]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3"/>
+        <updated>2021-10-16T00:01:47.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: broken links in documentation
+Chore: Dependency updates
+Thank you: @hirdot]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[推荐] 面试字节，被操作系统问挂了]]></title>
         <id>https://toutiao.io/k/8r0yjir</id>
@@ -13,7 +265,7 @@
         <updated>2021-10-15T00:51:54.756Z</updated>
         <summary type="html"><![CDATA[[推荐] 面试字节，被操作系统问挂了]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -23,7 +275,7 @@
         <updated>2021-10-15T00:51:54.310Z</updated>
         <summary type="html"><![CDATA[[推荐] 软件架构之原则、风格和实践]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -33,7 +285,7 @@
         <updated>2021-10-15T00:51:54.226Z</updated>
         <summary type="html"><![CDATA[[推荐] 一套优雅的 Go 错误问题解决方案]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -43,7 +295,7 @@
         <updated>2021-10-15T00:51:54.029Z</updated>
         <summary type="html"><![CDATA[[推荐] 聊聊 JVM 调优]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -53,7 +305,7 @@
         <updated>2021-10-08T00:52:39.945Z</updated>
         <summary type="html"><![CDATA[[推荐] 一站搞定各种开发文档]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -73,7 +325,7 @@
         <updated>2021-10-07T14:06:01.296Z</updated>
         <summary type="html"><![CDATA[字节跳动是如何落地微前端的]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -83,7 +335,7 @@
         <updated>2021-10-07T14:06:01.161Z</updated>
         <summary type="html"><![CDATA[[推荐] 推荐几个开源类库，超好用，远离 996]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -93,7 +345,7 @@
         <updated>2021-10-07T14:06:01.071Z</updated>
         <summary type="html"><![CDATA[极狐 GitLab SaaS 内测轻度体验]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -103,7 +355,7 @@
         <updated>2021-10-07T14:06:00.960Z</updated>
         <summary type="html"><![CDATA[浅析数据库事务隔离级别]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -113,7 +365,7 @@
         <updated>2021-10-07T14:06:00.878Z</updated>
         <summary type="html"><![CDATA[写给互联网工程师的 5G 书（六）：参考实现]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -123,7 +375,7 @@
         <updated>2021-10-07T14:06:00.775Z</updated>
         <summary type="html"><![CDATA[[推荐] 发票总库 DDD 实践]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -133,7 +385,7 @@
         <updated>2021-10-07T14:06:00.614Z</updated>
         <summary type="html"><![CDATA[升级到 Java 17：密封类]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -143,7 +395,7 @@
         <updated>2021-10-07T14:06:00.518Z</updated>
         <summary type="html"><![CDATA[[推荐] 如何通过项目复盘来加速个人成长]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -153,7 +405,7 @@
         <updated>2021-10-07T14:06:00.430Z</updated>
         <summary type="html"><![CDATA[并发编程：SIMD 介绍]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -163,7 +415,7 @@
         <updated>2021-10-07T14:06:00.332Z</updated>
         <summary type="html"><![CDATA[领导为什么不听我的汇报和授权方法]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -173,7 +425,7 @@
         <updated>2021-10-07T14:06:00.163Z</updated>
         <summary type="html"><![CDATA[使用 Jenkins 共享库对流水线进行扩展]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -183,7 +435,17 @@
         <updated>2021-10-07T14:05:57.674Z</updated>
         <summary type="html"><![CDATA[[推荐] 彻底弄懂 base64 的编码与解码原理]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ElasticSearch 进阶之多域搜索]]></title>
+        <id>https://toutiao.io/k/2ayn6wv</id>
+        <link href="https://toutiao.io/k/2ayn6wv"/>
+        <updated>2021-10-02T17:25:56.000Z</updated>
+        <summary type="html"><![CDATA[ElasticSearch 进阶之多域搜索]]></summary>
+        <author>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -193,7 +455,7 @@
         <updated>2021-10-01T00:51:32.933Z</updated>
         <summary type="html"><![CDATA[深入 iOS 静态链接器（一）：ld64]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -203,7 +465,7 @@
         <updated>2021-10-01T00:51:32.782Z</updated>
         <summary type="html"><![CDATA[ASM 与 Presto 动态代码生成简介]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -213,7 +475,7 @@
         <updated>2021-10-01T00:51:32.500Z</updated>
         <summary type="html"><![CDATA[[推荐] 聊聊 Redis 分布式锁的 8 大坑]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -223,7 +485,7 @@
         <updated>2021-10-01T00:51:32.217Z</updated>
         <summary type="html"><![CDATA[[推荐] 十个现象，识别程序员的 “水份”]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -233,7 +495,7 @@
         <updated>2021-10-01T00:51:32.141Z</updated>
         <summary type="html"><![CDATA[你们要的环球影城攻略，来了]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -243,7 +505,7 @@
         <updated>2021-10-01T00:51:32.052Z</updated>
         <summary type="html"><![CDATA[Golang 调试分析的高阶技巧]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -253,7 +515,7 @@
         <updated>2021-10-01T00:51:31.896Z</updated>
         <summary type="html"><![CDATA[ToTTo：受控表到文本生成数据集]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -263,7 +525,7 @@
         <updated>2021-10-01T00:51:31.807Z</updated>
         <summary type="html"><![CDATA[[推荐] MySQL 那点破事！索引、SQL 调优、事务、B+树、分表]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -273,7 +535,7 @@
         <updated>2021-10-01T00:51:31.394Z</updated>
         <summary type="html"><![CDATA[十一长假干嘛呢？快来吧！]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -283,7 +545,7 @@
         <updated>2021-10-01T00:51:29.751Z</updated>
         <summary type="html"><![CDATA[[推荐] 走近 DDD]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -293,7 +555,7 @@
         <updated>2021-10-01T00:51:28.685Z</updated>
         <summary type="html"><![CDATA[一顿操作，我把 Table 组件性能提升了十倍]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -303,7 +565,7 @@
         <updated>2021-09-29T00:45:59.414Z</updated>
         <summary type="html"><![CDATA[[推荐] 近期人类高质量 GitHub 项目]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -313,7 +575,7 @@
         <updated>2021-09-29T00:45:59.341Z</updated>
         <summary type="html"><![CDATA[[推荐] 一文教你如何学会写 Shell 脚本]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -323,7 +585,7 @@
         <updated>2021-09-29T00:45:59.252Z</updated>
         <summary type="html"><![CDATA[[推荐] 如何入门技术写作？]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -333,7 +595,7 @@
         <updated>2021-09-29T00:45:59.137Z</updated>
         <summary type="html"><![CDATA[[推荐] 16 张图解锁 Spring 的整体脉络]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -343,7 +605,7 @@
         <updated>2021-09-29T00:45:59.063Z</updated>
         <summary type="html"><![CDATA[[推荐] 《架构之道》读书笔记：架构设计的新思路]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -353,7 +615,7 @@
         <updated>2021-09-29T00:45:58.976Z</updated>
         <summary type="html"><![CDATA[[推荐] 源码面前没有秘密，推荐 9 个带你阅读源码的开源项目]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -363,7 +625,7 @@
         <updated>2021-09-29T00:45:58.838Z</updated>
         <summary type="html"><![CDATA[[推荐] 教您 10 分钟搭建一个内网穿透服务]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -373,7 +635,7 @@
         <updated>2021-09-29T00:45:58.785Z</updated>
         <summary type="html"><![CDATA[[推荐] 开源｜bilibili 开源的，基于 AST 和 Golang 语言实现的规则引擎]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -383,7 +645,7 @@
         <updated>2021-09-29T00:45:56.374Z</updated>
         <summary type="html"><![CDATA[[推荐] 开源浪潮下程序员的职业规划和成长]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
     <entry>
@@ -417,208 +679,7 @@ Thank you: @CaptNo1]]></summary>
         <updated>2021-09-23T07:33:08.000Z</updated>
         <summary type="html"><![CDATA[如何合理地选型工具]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 基于 K8s 的集群稳定架构]]></title>
-        <id>https://toutiao.io/k/h8rg2ec</id>
-        <link href="https://toutiao.io/k/h8rg2ec"/>
-        <updated>2021-09-22T00:49:46.112Z</updated>
-        <summary type="html"><![CDATA[[推荐] 基于 K8s 的集群稳定架构]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JUC 常用 4 大并发工具类]]></title>
-        <id>https://toutiao.io/k/8ef0b5i</id>
-        <link href="https://toutiao.io/k/8ef0b5i"/>
-        <updated>2021-09-22T00:49:08.979Z</updated>
-        <summary type="html"><![CDATA[JUC 常用 4 大并发工具类]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redis 字符串命令不止 SET 与 GET]]></title>
-        <id>https://toutiao.io/k/75rtacx</id>
-        <link href="https://toutiao.io/k/75rtacx"/>
-        <updated>2021-09-22T00:49:08.894Z</updated>
-        <summary type="html"><![CDATA[Redis 字符串命令不止 SET 与 GET]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 这 5 个 GitHub 项目 + 3 个网站，助你一飞冲天]]></title>
-        <id>https://toutiao.io/k/ql650fu</id>
-        <link href="https://toutiao.io/k/ql650fu"/>
-        <updated>2021-09-22T00:49:08.826Z</updated>
-        <summary type="html"><![CDATA[[推荐] 这 5 个 GitHub 项目 + 3 个网站，助你一飞冲天]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 浅谈订单重构之 MySQL 分库分表实战篇]]></title>
-        <id>https://toutiao.io/k/gisvlmp</id>
-        <link href="https://toutiao.io/k/gisvlmp"/>
-        <updated>2021-09-22T00:49:08.752Z</updated>
-        <summary type="html"><![CDATA[[推荐] 浅谈订单重构之 MySQL 分库分表实战篇]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 这可能是 8 月 GitHub 最火热的开源项目]]></title>
-        <id>https://toutiao.io/k/s122yjk</id>
-        <link href="https://toutiao.io/k/s122yjk"/>
-        <updated>2021-09-22T00:49:08.672Z</updated>
-        <summary type="html"><![CDATA[[推荐] 这可能是 8 月 GitHub 最火热的开源项目]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用稀疏推理加速移动和 Web 上的神经网络]]></title>
-        <id>https://toutiao.io/k/vsf8leu</id>
-        <link href="https://toutiao.io/k/vsf8leu"/>
-        <updated>2021-09-22T00:49:08.587Z</updated>
-        <summary type="html"><![CDATA[使用稀疏推理加速移动和 Web 上的神经网络]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大数据之分布式协调神器：Zookeeper 选举]]></title>
-        <id>https://toutiao.io/k/ex5k7x0</id>
-        <link href="https://toutiao.io/k/ex5k7x0"/>
-        <updated>2021-09-22T00:49:08.505Z</updated>
-        <summary type="html"><![CDATA[大数据之分布式协调神器：Zookeeper 选举]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MaaS 出行即服务]]></title>
-        <id>https://toutiao.io/k/holtdra</id>
-        <link href="https://toutiao.io/k/holtdra"/>
-        <updated>2021-09-22T00:49:08.407Z</updated>
-        <summary type="html"><![CDATA[MaaS 出行即服务]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go 语言如何操纵 Kafka 保证无消息丢失]]></title>
-        <id>https://toutiao.io/k/r6p3osc</id>
-        <link href="https://toutiao.io/k/r6p3osc"/>
-        <updated>2021-09-22T00:49:08.331Z</updated>
-        <summary type="html"><![CDATA[Go 语言如何操纵 Kafka 保证无消息丢失]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写给互联网工程师的 5G 书（一）： 简介]]></title>
-        <id>https://toutiao.io/k/w9197y4</id>
-        <link href="https://toutiao.io/k/w9197y4"/>
-        <updated>2021-09-22T00:49:08.257Z</updated>
-        <summary type="html"><![CDATA[写给互联网工程师的 5G 书（一）： 简介]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kafka Connect 构建大规模低延迟的数据管道]]></title>
-        <id>https://toutiao.io/k/pn0vd3w</id>
-        <link href="https://toutiao.io/k/pn0vd3w"/>
-        <updated>2021-09-22T00:49:08.168Z</updated>
-        <summary type="html"><![CDATA[Kafka Connect 构建大规模低延迟的数据管道]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[建议废弃命令 find，改用 Rust 的这个轮子]]></title>
-        <id>https://toutiao.io/k/e1xgixp</id>
-        <link href="https://toutiao.io/k/e1xgixp"/>
-        <updated>2021-09-22T00:49:08.083Z</updated>
-        <summary type="html"><![CDATA[建议废弃命令 find，改用 Rust 的这个轮子]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分布式之接口幂等性]]></title>
-        <id>https://toutiao.io/k/98uu618</id>
-        <link href="https://toutiao.io/k/98uu618"/>
-        <updated>2021-09-22T00:49:08.023Z</updated>
-        <summary type="html"><![CDATA[分布式之接口幂等性]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 支付宝稳撑双11双12的核心架构设计]]></title>
-        <id>https://toutiao.io/k/674el0v</id>
-        <link href="https://toutiao.io/k/674el0v"/>
-        <updated>2021-09-22T00:49:07.920Z</updated>
-        <summary type="html"><![CDATA[[推荐] 支付宝稳撑双11双12的核心架构设计]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 求你了，别再说数据库锁的只是索引了]]></title>
-        <id>https://toutiao.io/k/d1kkieu</id>
-        <link href="https://toutiao.io/k/d1kkieu"/>
-        <updated>2021-09-22T00:49:06.628Z</updated>
-        <summary type="html"><![CDATA[[推荐] 求你了，别再说数据库锁的只是索引了]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 当下分布式文件系统架构对比]]></title>
-        <id>https://toutiao.io/k/nidzr35</id>
-        <link href="https://toutiao.io/k/nidzr35"/>
-        <updated>2021-09-22T00:49:05.278Z</updated>
-        <summary type="html"><![CDATA[[推荐] 当下分布式文件系统架构对比]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[升级 Java 17 问题记录]]></title>
-        <id>https://toutiao.io/k/qm12f64</id>
-        <link href="https://toutiao.io/k/qm12f64"/>
-        <updated>2021-09-22T00:49:01.273Z</updated>
-        <summary type="html"><![CDATA[升级 Java 17 问题记录]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elasticsearch 基础之相关性介绍]]></title>
-        <id>https://toutiao.io/k/9gpfegt</id>
-        <link href="https://toutiao.io/k/9gpfegt"/>
-        <updated>2021-09-19T04:12:01.000Z</updated>
-        <summary type="html"><![CDATA[Elasticsearch 基础之相关性介绍]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-10-15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.11.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1"/>
-        <updated>2021-09-16T06:39:32.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Unexpected nested element in author field crashes the parser
-Thank you @ad-m]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
+            <name>开发者头条:星期四 2021-10-21</name>
         </author>
     </entry>
 </feed>

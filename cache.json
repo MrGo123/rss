@@ -6,6 +6,15 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3",
+          "author": null,
+          "description": "Fixed: broken links in documentation\nChore: Dependency updates\nThank you: @hirdot",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3",
+          "publishedOn": "2021-10-16T00:01:47.000Z",
+          "wordCount": 299,
+          "title": "v1.11.3"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
           "author": null,
           "description": "Fixed: unicode characters in URL caused download error\nFixed: project root npm install error\nAdded: unit test library\nChore: Dependency updates\nThank you: @CaptNo1",
@@ -13,23 +22,230 @@
           "publishedOn": "2021-09-26T18:45:39.000Z",
           "wordCount": 354,
           "title": "v1.11.2"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1",
-          "author": null,
-          "description": "Fixed: Unexpected nested element in author field crashes the parser\nThank you @ad-m",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1",
-          "publishedOn": "2021-09-16T06:39:32.000Z",
-          "wordCount": 343,
-          "title": "v1.11.1"
         }
       ]
     },
     {
-      "title": "开发者头条:今日头条 2021-10-15",
+      "title": "开发者头条:星期四 2021-10-21",
       "feedUrl": "https://rsshub.app/toutiao/today",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/zdp512f",
+          "author": null,
+          "description": "Java 进阶之深入理解负载均衡的 5 种算法实现原理",
+          "link": "https://toutiao.io/k/zdp512f",
+          "publishedOn": "2021-10-22T00:55:13.553Z",
+          "wordCount": 453,
+          "title": "Java 进阶之深入理解负载均衡的 5 种算法实现原理"
+        },
+        {
+          "id": "https://toutiao.io/k/gez059v",
+          "author": null,
+          "description": "[推荐] 亿级流量架构演进实战：从零构建亿级流量 API 网关（一）",
+          "link": "https://toutiao.io/k/gez059v",
+          "publishedOn": "2021-10-22T00:55:13.261Z",
+          "wordCount": 295,
+          "title": "[推荐] 亿级流量架构演进实战：从零构建亿级流量 API 网关（一）"
+        },
+        {
+          "id": "https://toutiao.io/k/1rzyidu",
+          "author": null,
+          "description": "再谈 TCP 拥塞控制",
+          "link": "https://toutiao.io/k/1rzyidu",
+          "publishedOn": "2021-10-22T00:55:13.157Z",
+          "wordCount": 428,
+          "title": "再谈 TCP 拥塞控制"
+        },
+        {
+          "id": "https://toutiao.io/k/oozy51z",
+          "author": null,
+          "description": "怎样快速地构建正确的软件产品？",
+          "link": "https://toutiao.io/k/oozy51z",
+          "publishedOn": "2021-10-22T00:55:13.073Z",
+          "wordCount": 72,
+          "title": "怎样快速地构建正确的软件产品？"
+        },
+        {
+          "id": "https://toutiao.io/k/87ehz9q",
+          "author": null,
+          "description": "[推荐] 开源｜5 秒内克隆您的声音并生成任意语音内容",
+          "link": "https://toutiao.io/k/87ehz9q",
+          "publishedOn": "2021-10-22T00:55:13.004Z",
+          "wordCount": 88,
+          "title": "[推荐] 开源｜5 秒内克隆您的声音并生成任意语音内容"
+        },
+        {
+          "id": "https://toutiao.io/k/v6oak4s",
+          "author": null,
+          "description": "单例模式，真不简单",
+          "link": "https://toutiao.io/k/v6oak4s",
+          "publishedOn": "2021-10-22T00:55:12.936Z",
+          "wordCount": 1319,
+          "title": "单例模式，真不简单"
+        },
+        {
+          "id": "https://toutiao.io/k/9qdwtkk",
+          "author": null,
+          "description": "MPP 架构与 Hadoop 架构是一回事吗？",
+          "link": "https://toutiao.io/k/9qdwtkk",
+          "publishedOn": "2021-10-22T00:55:12.844Z",
+          "wordCount": 77,
+          "title": "MPP 架构与 Hadoop 架构是一回事吗？"
+        },
+        {
+          "id": "https://toutiao.io/k/o8r38dd",
+          "author": null,
+          "description": "干货：探秘 WKWebView",
+          "link": "https://toutiao.io/k/o8r38dd",
+          "publishedOn": "2021-10-22T00:55:12.775Z",
+          "wordCount": 470,
+          "title": "干货：探秘 WKWebView"
+        },
+        {
+          "id": "https://toutiao.io/k/2jpmi8x",
+          "author": null,
+          "description": "Gin 源码阅读（五）：灵活的返回值处理",
+          "link": "https://toutiao.io/k/2jpmi8x",
+          "publishedOn": "2021-10-22T00:55:12.676Z",
+          "wordCount": 421,
+          "title": "Gin 源码阅读（五）：灵活的返回值处理"
+        },
+        {
+          "id": "https://toutiao.io/k/ypqrcqh",
+          "author": null,
+          "description": "聊聊刷题中的 “顿悟” 时刻",
+          "link": "https://toutiao.io/k/ypqrcqh",
+          "publishedOn": "2021-10-22T00:55:12.551Z",
+          "wordCount": 431,
+          "title": "聊聊刷题中的 “顿悟” 时刻"
+        },
+        {
+          "id": "https://toutiao.io/k/x9xhpx8",
+          "author": null,
+          "description": "关于 BGP 安全那些事儿",
+          "link": "https://toutiao.io/k/x9xhpx8",
+          "publishedOn": "2021-10-22T00:55:12.466Z",
+          "wordCount": 108,
+          "title": "关于 BGP 安全那些事儿"
+        },
+        {
+          "id": "https://toutiao.io/k/98g49tv",
+          "author": null,
+          "description": "[推荐] Kafka 为什么要放弃 Zookeeper",
+          "link": "https://toutiao.io/k/98g49tv",
+          "publishedOn": "2021-10-22T00:55:12.397Z",
+          "wordCount": 100,
+          "title": "[推荐] Kafka 为什么要放弃 Zookeeper"
+        },
+        {
+          "id": "https://toutiao.io/k/3bj0cj6",
+          "author": null,
+          "description": "Linux 内核：网络流量限速方案大 PK",
+          "link": "https://toutiao.io/k/3bj0cj6",
+          "publishedOn": "2021-10-22T00:55:12.317Z",
+          "wordCount": 848,
+          "title": "Linux 内核：网络流量限速方案大 PK"
+        },
+        {
+          "id": "https://toutiao.io/k/1lykrd9",
+          "author": null,
+          "description": "HDFS 底层交互原理，看这篇就够了",
+          "link": "https://toutiao.io/k/1lykrd9",
+          "publishedOn": "2021-10-22T00:55:12.240Z",
+          "wordCount": 1214,
+          "title": "HDFS 底层交互原理，看这篇就够了"
+        },
+        {
+          "id": "https://toutiao.io/k/iqm8koq",
+          "author": null,
+          "description": "Go 语言设计失误，缺乏远见？",
+          "link": "https://toutiao.io/k/iqm8koq",
+          "publishedOn": "2021-10-22T00:55:12.154Z",
+          "wordCount": 472,
+          "title": "Go 语言设计失误，缺乏远见？"
+        },
+        {
+          "id": "https://toutiao.io/k/kcftpfu",
+          "author": null,
+          "description": "给 MVC 三层架构加一层 Manager 层",
+          "link": "https://toutiao.io/k/kcftpfu",
+          "publishedOn": "2021-10-22T00:55:12.080Z",
+          "wordCount": 289,
+          "title": "给 MVC 三层架构加一层 Manager 层"
+        },
+        {
+          "id": "https://toutiao.io/k/ig0mmia",
+          "author": null,
+          "description": "OpenGait：首个步态识别框架开源了",
+          "link": "https://toutiao.io/k/ig0mmia",
+          "publishedOn": "2021-10-22T00:55:11.957Z",
+          "wordCount": 62,
+          "title": "OpenGait：首个步态识别框架开源了"
+        },
+        {
+          "id": "https://toutiao.io/k/a6nt24o",
+          "author": null,
+          "description": "面试官：如何实现扫码登录功能？",
+          "link": "https://toutiao.io/k/a6nt24o",
+          "publishedOn": "2021-10-22T00:55:11.890Z",
+          "wordCount": 94,
+          "title": "面试官：如何实现扫码登录功能？"
+        },
+        {
+          "id": "https://toutiao.io/k/y2rictc",
+          "author": null,
+          "description": "从 DDD 到 PaaS 化再到一站式部署：通天塔后端通用版发展之路",
+          "link": "https://toutiao.io/k/y2rictc",
+          "publishedOn": "2021-10-22T00:55:11.586Z",
+          "wordCount": 60,
+          "title": "从 DDD 到 PaaS 化再到一站式部署：通天塔后端通用版发展之路"
+        },
+        {
+          "id": "https://toutiao.io/k/u1baj7t",
+          "author": null,
+          "description": "Sentinel-Go 源码系列（一）：开篇",
+          "link": "https://toutiao.io/k/u1baj7t",
+          "publishedOn": "2021-10-22T00:55:11.439Z",
+          "wordCount": 231,
+          "title": "Sentinel-Go 源码系列（一）：开篇"
+        },
+        {
+          "id": "https://toutiao.io/k/j8ll78q",
+          "author": null,
+          "description": "等概率采样最大值的索引（蓄水池采样）",
+          "link": "https://toutiao.io/k/j8ll78q",
+          "publishedOn": "2021-10-22T00:55:09.495Z",
+          "wordCount": 427,
+          "title": "等概率采样最大值的索引（蓄水池采样）"
+        },
+        {
+          "id": "https://toutiao.io/k/oy304tv",
+          "author": null,
+          "description": "[推荐] ElasticSearch 存储成本省 60%，稿定科技干货分享",
+          "link": "https://toutiao.io/k/oy304tv",
+          "publishedOn": "2021-10-22T00:55:09.240Z",
+          "wordCount": 244,
+          "title": "[推荐] ElasticSearch 存储成本省 60%，稿定科技干货分享"
+        },
+        {
+          "id": "https://toutiao.io/k/gb9y8um",
+          "author": null,
+          "description": "当前有一套测试库，剩余磁盘空间不多怎么弄",
+          "link": "https://toutiao.io/k/gb9y8um",
+          "publishedOn": "2021-10-22T00:55:09.177Z",
+          "wordCount": 273,
+          "title": "当前有一套测试库，剩余磁盘空间不多怎么弄"
+        },
+        {
+          "id": "https://toutiao.io/k/qnglkcl",
+          "author": null,
+          "description": "[推荐] [译] 写给工程师：关于证书和公钥基础设施的一切 (SmallStep, 2018)",
+          "link": "https://toutiao.io/k/qnglkcl",
+          "publishedOn": "2021-10-22T00:55:08.898Z",
+          "wordCount": 3872,
+          "title": "[推荐] [译] 写给工程师：关于证书和公钥基础设施的一切 (SmallStep, 2018)"
+        },
         {
           "id": "https://toutiao.io/k/8r0yjir",
           "author": null,
@@ -182,6 +398,15 @@
           "publishedOn": "2021-10-07T14:05:57.674Z",
           "wordCount": 1337,
           "title": "[推荐] 彻底弄懂 base64 的编码与解码原理"
+        },
+        {
+          "id": "https://toutiao.io/k/2ayn6wv",
+          "author": null,
+          "description": "ElasticSearch 进阶之多域搜索",
+          "link": "https://toutiao.io/k/2ayn6wv",
+          "publishedOn": "2021-10-02T17:25:56.000Z",
+          "wordCount": 242,
+          "title": "ElasticSearch 进阶之多域搜索"
         },
         {
           "id": "https://toutiao.io/k/01lhd6r",
@@ -371,177 +596,6 @@
           "publishedOn": "2021-09-23T07:33:08.000Z",
           "wordCount": 193,
           "title": "如何合理地选型工具"
-        },
-        {
-          "id": "https://toutiao.io/k/h8rg2ec",
-          "author": null,
-          "description": "[推荐] 基于 K8s 的集群稳定架构",
-          "link": "https://toutiao.io/k/h8rg2ec",
-          "publishedOn": "2021-09-22T00:49:46.112Z",
-          "wordCount": null,
-          "title": "[推荐] 基于 K8s 的集群稳定架构"
-        },
-        {
-          "id": "https://toutiao.io/k/8ef0b5i",
-          "author": null,
-          "description": "JUC 常用 4 大并发工具类",
-          "link": "https://toutiao.io/k/8ef0b5i",
-          "publishedOn": "2021-09-22T00:49:08.979Z",
-          "wordCount": 1899,
-          "title": "JUC 常用 4 大并发工具类"
-        },
-        {
-          "id": "https://toutiao.io/k/75rtacx",
-          "author": null,
-          "description": "Redis 字符串命令不止 SET 与 GET",
-          "link": "https://toutiao.io/k/75rtacx",
-          "publishedOn": "2021-09-22T00:49:08.894Z",
-          "wordCount": 86,
-          "title": "Redis 字符串命令不止 SET 与 GET"
-        },
-        {
-          "id": "https://toutiao.io/k/ql650fu",
-          "author": null,
-          "description": "[推荐] 这 5 个 GitHub 项目 + 3 个网站，助你一飞冲天",
-          "link": "https://toutiao.io/k/ql650fu",
-          "publishedOn": "2021-09-22T00:49:08.826Z",
-          "wordCount": 189,
-          "title": "[推荐] 这 5 个 GitHub 项目 + 3 个网站，助你一飞冲天"
-        },
-        {
-          "id": "https://toutiao.io/k/gisvlmp",
-          "author": null,
-          "description": "[推荐] 浅谈订单重构之 MySQL 分库分表实战篇",
-          "link": "https://toutiao.io/k/gisvlmp",
-          "publishedOn": "2021-09-22T00:49:08.752Z",
-          "wordCount": 853,
-          "title": "[推荐] 浅谈订单重构之 MySQL 分库分表实战篇"
-        },
-        {
-          "id": "https://toutiao.io/k/s122yjk",
-          "author": null,
-          "description": "[推荐] 这可能是 8 月 GitHub 最火热的开源项目",
-          "link": "https://toutiao.io/k/s122yjk",
-          "publishedOn": "2021-09-22T00:49:08.672Z",
-          "wordCount": 181,
-          "title": "[推荐] 这可能是 8 月 GitHub 最火热的开源项目"
-        },
-        {
-          "id": "https://toutiao.io/k/vsf8leu",
-          "author": null,
-          "description": "使用稀疏推理加速移动和 Web 上的神经网络",
-          "link": "https://toutiao.io/k/vsf8leu",
-          "publishedOn": "2021-09-22T00:49:08.587Z",
-          "wordCount": 187,
-          "title": "使用稀疏推理加速移动和 Web 上的神经网络"
-        },
-        {
-          "id": "https://toutiao.io/k/ex5k7x0",
-          "author": null,
-          "description": "大数据之分布式协调神器：Zookeeper 选举",
-          "link": "https://toutiao.io/k/ex5k7x0",
-          "publishedOn": "2021-09-22T00:49:08.505Z",
-          "wordCount": 149,
-          "title": "大数据之分布式协调神器：Zookeeper 选举"
-        },
-        {
-          "id": "https://toutiao.io/k/holtdra",
-          "author": null,
-          "description": "MaaS 出行即服务",
-          "link": "https://toutiao.io/k/holtdra",
-          "publishedOn": "2021-09-22T00:49:08.407Z",
-          "wordCount": 135,
-          "title": "MaaS 出行即服务"
-        },
-        {
-          "id": "https://toutiao.io/k/r6p3osc",
-          "author": null,
-          "description": "Go 语言如何操纵 Kafka 保证无消息丢失",
-          "link": "https://toutiao.io/k/r6p3osc",
-          "publishedOn": "2021-09-22T00:49:08.331Z",
-          "wordCount": 296,
-          "title": "Go 语言如何操纵 Kafka 保证无消息丢失"
-        },
-        {
-          "id": "https://toutiao.io/k/w9197y4",
-          "author": null,
-          "description": "写给互联网工程师的 5G 书（一）： 简介",
-          "link": "https://toutiao.io/k/w9197y4",
-          "publishedOn": "2021-09-22T00:49:08.257Z",
-          "wordCount": 178,
-          "title": "写给互联网工程师的 5G 书（一）： 简介"
-        },
-        {
-          "id": "https://toutiao.io/k/pn0vd3w",
-          "author": null,
-          "description": "Kafka Connect 构建大规模低延迟的数据管道",
-          "link": "https://toutiao.io/k/pn0vd3w",
-          "publishedOn": "2021-09-22T00:49:08.168Z",
-          "wordCount": 315,
-          "title": "Kafka Connect 构建大规模低延迟的数据管道"
-        },
-        {
-          "id": "https://toutiao.io/k/e1xgixp",
-          "author": null,
-          "description": "建议废弃命令 find，改用 Rust 的这个轮子",
-          "link": "https://toutiao.io/k/e1xgixp",
-          "publishedOn": "2021-09-22T00:49:08.083Z",
-          "wordCount": 277,
-          "title": "建议废弃命令 find，改用 Rust 的这个轮子"
-        },
-        {
-          "id": "https://toutiao.io/k/98uu618",
-          "author": null,
-          "description": "分布式之接口幂等性",
-          "link": "https://toutiao.io/k/98uu618",
-          "publishedOn": "2021-09-22T00:49:08.023Z",
-          "wordCount": 155,
-          "title": "分布式之接口幂等性"
-        },
-        {
-          "id": "https://toutiao.io/k/674el0v",
-          "author": null,
-          "description": "[推荐] 支付宝稳撑双11双12的核心架构设计",
-          "link": "https://toutiao.io/k/674el0v",
-          "publishedOn": "2021-09-22T00:49:07.920Z",
-          "wordCount": 88,
-          "title": "[推荐] 支付宝稳撑双11双12的核心架构设计"
-        },
-        {
-          "id": "https://toutiao.io/k/d1kkieu",
-          "author": null,
-          "description": "[推荐] 求你了，别再说数据库锁的只是索引了",
-          "link": "https://toutiao.io/k/d1kkieu",
-          "publishedOn": "2021-09-22T00:49:06.628Z",
-          "wordCount": 427,
-          "title": "[推荐] 求你了，别再说数据库锁的只是索引了"
-        },
-        {
-          "id": "https://toutiao.io/k/nidzr35",
-          "author": null,
-          "description": "[推荐] 当下分布式文件系统架构对比",
-          "link": "https://toutiao.io/k/nidzr35",
-          "publishedOn": "2021-09-22T00:49:05.278Z",
-          "wordCount": 279,
-          "title": "[推荐] 当下分布式文件系统架构对比"
-        },
-        {
-          "id": "https://toutiao.io/k/qm12f64",
-          "author": null,
-          "description": "升级 Java 17 问题记录",
-          "link": "https://toutiao.io/k/qm12f64",
-          "publishedOn": "2021-09-22T00:49:01.273Z",
-          "wordCount": 233,
-          "title": "升级 Java 17 问题记录"
-        },
-        {
-          "id": "https://toutiao.io/k/9gpfegt",
-          "author": null,
-          "description": "Elasticsearch 基础之相关性介绍",
-          "link": "https://toutiao.io/k/9gpfegt",
-          "publishedOn": "2021-09-19T04:12:01.000Z",
-          "wordCount": 224,
-          "title": "Elasticsearch 基础之相关性介绍"
         }
       ]
     },
@@ -571,5 +625,5 @@
       ]
     }
   ],
-  "cliVersion": "1.11.2"
+  "cliVersion": "1.11.3"
 }
