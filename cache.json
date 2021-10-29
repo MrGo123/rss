@@ -13,23 +13,275 @@
           "publishedOn": "2021-10-16T00:01:47.000Z",
           "wordCount": 299,
           "title": "v1.11.3"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
-          "author": null,
-          "description": "Fixed: unicode characters in URL caused download error\nFixed: project root npm install error\nAdded: unit test library\nChore: Dependency updates\nThank you: @CaptNo1",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
-          "publishedOn": "2021-09-26T18:45:39.000Z",
-          "wordCount": 354,
-          "title": "v1.11.2"
         }
       ]
     },
     {
-      "title": "开发者头条:星期四 2021-10-21",
+      "title": "开发者头条:星期四 2021-10-28",
       "feedUrl": "https://rsshub.app/toutiao/today",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/56161ss",
+          "author": null,
+          "description": "[推荐] 亿级流量架构演进实战：从零构建亿级流量 API 网关（二）",
+          "link": "https://toutiao.io/k/56161ss",
+          "publishedOn": "2021-10-29T00:45:44.410Z",
+          "wordCount": 217,
+          "title": "[推荐] 亿级流量架构演进实战：从零构建亿级流量 API 网关（二）"
+        },
+        {
+          "id": "https://toutiao.io/k/2uor51a",
+          "author": null,
+          "description": "架构师图谱·番外篇之研发效能",
+          "link": "https://toutiao.io/k/2uor51a",
+          "publishedOn": "2021-10-29T00:45:37.600Z",
+          "wordCount": null,
+          "title": "架构师图谱·番外篇之研发效能"
+        },
+        {
+          "id": "https://toutiao.io/k/pne6imx",
+          "author": null,
+          "description": "Android 构建工具：AAPT2 源码解析（一）",
+          "link": "https://toutiao.io/k/pne6imx",
+          "publishedOn": "2021-10-29T00:45:36.443Z",
+          "wordCount": 1823,
+          "title": "Android 构建工具：AAPT2 源码解析（一）"
+        },
+        {
+          "id": "https://toutiao.io/k/epd1pcc",
+          "author": null,
+          "description": "[推荐] 搞懂异地多活，看这篇就够了",
+          "link": "https://toutiao.io/k/epd1pcc",
+          "publishedOn": "2021-10-29T00:45:36.355Z",
+          "wordCount": 459,
+          "title": "[推荐] 搞懂异地多活，看这篇就够了"
+        },
+        {
+          "id": "https://toutiao.io/k/ymngkw7",
+          "author": null,
+          "description": "亿级流量架构演进实战：架构演进构建 TCP 长连接网关（三）",
+          "link": "https://toutiao.io/k/ymngkw7",
+          "publishedOn": "2021-10-29T00:45:36.220Z",
+          "wordCount": 664,
+          "title": "亿级流量架构演进实战：架构演进构建 TCP 长连接网关（三）"
+        },
+        {
+          "id": "https://toutiao.io/k/4hr4ykg",
+          "author": null,
+          "description": "[推荐] Go 业务开发中常用的几个开源库",
+          "link": "https://toutiao.io/k/4hr4ykg",
+          "publishedOn": "2021-10-29T00:45:36.148Z",
+          "wordCount": 161,
+          "title": "[推荐] Go 业务开发中常用的几个开源库"
+        },
+        {
+          "id": "https://toutiao.io/k/zc4cuah",
+          "author": null,
+          "description": "[推荐] 技术人必备的 6 种思维",
+          "link": "https://toutiao.io/k/zc4cuah",
+          "publishedOn": "2021-10-29T00:45:36.076Z",
+          "wordCount": 111,
+          "title": "[推荐] 技术人必备的 6 种思维"
+        },
+        {
+          "id": "https://toutiao.io/k/170b14g",
+          "author": null,
+          "description": "[推荐] 面试官问：你参与的项目有什么亮点？怎么回答",
+          "link": "https://toutiao.io/k/170b14g",
+          "publishedOn": "2021-10-29T00:45:35.998Z",
+          "wordCount": 142,
+          "title": "[推荐] 面试官问：你参与的项目有什么亮点？怎么回答"
+        },
+        {
+          "id": "https://toutiao.io/k/135ujiu",
+          "author": null,
+          "description": "[推荐] 团队管理那点破事！OKR 绩效、核心人才、面试、技术分享、研发流程",
+          "link": "https://toutiao.io/k/135ujiu",
+          "publishedOn": "2021-10-29T00:45:35.921Z",
+          "wordCount": 101,
+          "title": "[推荐] 团队管理那点破事！OKR 绩效、核心人才、面试、技术分享、研发流程"
+        },
+        {
+          "id": "https://toutiao.io/k/1z0g74b",
+          "author": null,
+          "description": "Webshell 检测小结与实例分析",
+          "link": "https://toutiao.io/k/1z0g74b",
+          "publishedOn": "2021-10-29T00:45:35.847Z",
+          "wordCount": 137,
+          "title": "Webshell 检测小结与实例分析"
+        },
+        {
+          "id": "https://toutiao.io/k/r3voblm",
+          "author": null,
+          "description": "阿里二面：为什么要分库分表？",
+          "link": "https://toutiao.io/k/r3voblm",
+          "publishedOn": "2021-10-29T00:45:35.764Z",
+          "wordCount": 101,
+          "title": "阿里二面：为什么要分库分表？"
+        },
+        {
+          "id": "https://toutiao.io/k/wjwu1nn",
+          "author": null,
+          "description": "Lerna 停止维护后，Monorepo 发包新方案 Changesets 快了解一下",
+          "link": "https://toutiao.io/k/wjwu1nn",
+          "publishedOn": "2021-10-29T00:45:35.695Z",
+          "wordCount": 432,
+          "title": "Lerna 停止维护后，Monorepo 发包新方案 Changesets 快了解一下"
+        },
+        {
+          "id": "https://toutiao.io/k/xta0xu8",
+          "author": null,
+          "description": "真正运行容器的工具：深入了解 runc 和 OCI 规范",
+          "link": "https://toutiao.io/k/xta0xu8",
+          "publishedOn": "2021-10-29T00:45:35.627Z",
+          "wordCount": 506,
+          "title": "真正运行容器的工具：深入了解 runc 和 OCI 规范"
+        },
+        {
+          "id": "https://toutiao.io/k/kd9j9ur",
+          "author": null,
+          "description": "[推荐] 推荐 14 款常用的测试开发工具",
+          "link": "https://toutiao.io/k/kd9j9ur",
+          "publishedOn": "2021-10-29T00:45:35.542Z",
+          "wordCount": 161,
+          "title": "[推荐] 推荐 14 款常用的测试开发工具"
+        },
+        {
+          "id": "https://toutiao.io/k/1sw9dxz",
+          "author": null,
+          "description": "Chrome 插件（扩展）开发全攻略 2.6w 字，看这篇就够了",
+          "link": "https://toutiao.io/k/1sw9dxz",
+          "publishedOn": "2021-10-29T00:45:35.459Z",
+          "wordCount": 1252,
+          "title": "Chrome 插件（扩展）开发全攻略 2.6w 字，看这篇就够了"
+        },
+        {
+          "id": "https://toutiao.io/k/1dwl7ih",
+          "author": null,
+          "description": "iOS 模块化方案及实施",
+          "link": "https://toutiao.io/k/1dwl7ih",
+          "publishedOn": "2021-10-29T00:45:35.345Z",
+          "wordCount": 758,
+          "title": "iOS 模块化方案及实施"
+        },
+        {
+          "id": "https://toutiao.io/k/6teeplo",
+          "author": null,
+          "description": "[推荐] 架构师之路：HTTPS 底层原理",
+          "link": "https://toutiao.io/k/6teeplo",
+          "publishedOn": "2021-10-29T00:45:35.263Z",
+          "wordCount": 62,
+          "title": "[推荐] 架构师之路：HTTPS 底层原理"
+        },
+        {
+          "id": "https://toutiao.io/k/30cqdv2",
+          "author": null,
+          "description": "Flutter 之美",
+          "link": "https://toutiao.io/k/30cqdv2",
+          "publishedOn": "2021-10-29T00:45:35.190Z",
+          "wordCount": 262,
+          "title": "Flutter 之美"
+        },
+        {
+          "id": "https://toutiao.io/k/l2p8876",
+          "author": null,
+          "description": "全面了解 Vue.js 函数式组件",
+          "link": "https://toutiao.io/k/l2p8876",
+          "publishedOn": "2021-10-29T00:45:35.102Z",
+          "wordCount": 1320,
+          "title": "全面了解 Vue.js 函数式组件"
+        },
+        {
+          "id": "https://toutiao.io/k/vc4h6jh",
+          "author": null,
+          "description": "神器 Celery 源码解析（三）",
+          "link": "https://toutiao.io/k/vc4h6jh",
+          "publishedOn": "2021-10-29T00:45:35.020Z",
+          "wordCount": 1794,
+          "title": "神器 Celery 源码解析（三）"
+        },
+        {
+          "id": "https://toutiao.io/k/j6pd97e",
+          "author": null,
+          "description": "使用 grpcurl 通过命令行访问 gRPC 服务",
+          "link": "https://toutiao.io/k/j6pd97e",
+          "publishedOn": "2021-10-29T00:45:34.938Z",
+          "wordCount": 356,
+          "title": "使用 grpcurl 通过命令行访问 gRPC 服务"
+        },
+        {
+          "id": "https://toutiao.io/k/2anxp0e",
+          "author": null,
+          "description": "高并发 HTTP 请求实践",
+          "link": "https://toutiao.io/k/2anxp0e",
+          "publishedOn": "2021-10-29T00:45:34.851Z",
+          "wordCount": 979,
+          "title": "高并发 HTTP 请求实践"
+        },
+        {
+          "id": "https://toutiao.io/k/2zu76w1",
+          "author": null,
+          "description": "分布式系统一致性测试框架 Jepsen 在女娲的实践应用",
+          "link": "https://toutiao.io/k/2zu76w1",
+          "publishedOn": "2021-10-29T00:45:34.767Z",
+          "wordCount": 170,
+          "title": "分布式系统一致性测试框架 Jepsen 在女娲的实践应用"
+        },
+        {
+          "id": "https://toutiao.io/k/z3i5kuu",
+          "author": null,
+          "description": "用手写一个工具的过程讲清楚 Go 反射的使用方法和应用场景",
+          "link": "https://toutiao.io/k/z3i5kuu",
+          "publishedOn": "2021-10-29T00:45:34.694Z",
+          "wordCount": 630,
+          "title": "用手写一个工具的过程讲清楚 Go 反射的使用方法和应用场景"
+        },
+        {
+          "id": "https://toutiao.io/k/0ew2e9e",
+          "author": null,
+          "description": "YouTube 故事中的视听语音增强",
+          "link": "https://toutiao.io/k/0ew2e9e",
+          "publishedOn": "2021-10-29T00:45:34.551Z",
+          "wordCount": 153,
+          "title": "YouTube 故事中的视听语音增强"
+        },
+        {
+          "id": "https://toutiao.io/k/0venjhy",
+          "author": null,
+          "description": "数据中台实战（三）：用户分析（产品设计篇）",
+          "link": "https://toutiao.io/k/0venjhy",
+          "publishedOn": "2021-10-29T00:45:34.482Z",
+          "wordCount": 65,
+          "title": "数据中台实战（三）：用户分析（产品设计篇）"
+        },
+        {
+          "id": "https://toutiao.io/k/dhgbq9y",
+          "author": null,
+          "description": "如何接入 K8s 持久化存储？K8s CSI 实现机制浅析",
+          "link": "https://toutiao.io/k/dhgbq9y",
+          "publishedOn": "2021-10-29T00:45:34.378Z",
+          "wordCount": 1148,
+          "title": "如何接入 K8s 持久化存储？K8s CSI 实现机制浅析"
+        },
+        {
+          "id": "https://toutiao.io/k/ws2do5o",
+          "author": null,
+          "description": "[推荐] 如何高效刷 LeetCode",
+          "link": "https://toutiao.io/k/ws2do5o",
+          "publishedOn": "2021-10-29T00:45:32.856Z",
+          "wordCount": 441,
+          "title": "[推荐] 如何高效刷 LeetCode"
+        },
+        {
+          "id": "https://toutiao.io/k/33q3o9v",
+          "author": null,
+          "description": "对抗 link rot",
+          "link": "https://toutiao.io/k/33q3o9v",
+          "publishedOn": "2021-10-29T00:45:31.836Z",
+          "wordCount": 324,
+          "title": "对抗 link rot"
+        },
         {
           "id": "https://toutiao.io/k/zdp512f",
           "author": null,
@@ -506,96 +758,6 @@
           "publishedOn": "2021-10-01T00:51:28.685Z",
           "wordCount": 1265,
           "title": "一顿操作，我把 Table 组件性能提升了十倍"
-        },
-        {
-          "id": "https://toutiao.io/k/di7llvb",
-          "author": null,
-          "description": "[推荐] 近期人类高质量 GitHub 项目",
-          "link": "https://toutiao.io/k/di7llvb",
-          "publishedOn": "2021-09-29T00:45:59.414Z",
-          "wordCount": 209,
-          "title": "[推荐] 近期人类高质量 GitHub 项目"
-        },
-        {
-          "id": "https://toutiao.io/k/88px9ws",
-          "author": null,
-          "description": "[推荐] 一文教你如何学会写 Shell 脚本",
-          "link": "https://toutiao.io/k/88px9ws",
-          "publishedOn": "2021-09-29T00:45:59.341Z",
-          "wordCount": 430,
-          "title": "[推荐] 一文教你如何学会写 Shell 脚本"
-        },
-        {
-          "id": "https://toutiao.io/k/uunmint",
-          "author": null,
-          "description": "[推荐] 如何入门技术写作？",
-          "link": "https://toutiao.io/k/uunmint",
-          "publishedOn": "2021-09-29T00:45:59.252Z",
-          "wordCount": 126,
-          "title": "[推荐] 如何入门技术写作？"
-        },
-        {
-          "id": "https://toutiao.io/k/bynegiy",
-          "author": null,
-          "description": "[推荐] 16 张图解锁 Spring 的整体脉络",
-          "link": "https://toutiao.io/k/bynegiy",
-          "publishedOn": "2021-09-29T00:45:59.137Z",
-          "wordCount": 447,
-          "title": "[推荐] 16 张图解锁 Spring 的整体脉络"
-        },
-        {
-          "id": "https://toutiao.io/k/z6w8vl5",
-          "author": null,
-          "description": "[推荐] 《架构之道》读书笔记：架构设计的新思路",
-          "link": "https://toutiao.io/k/z6w8vl5",
-          "publishedOn": "2021-09-29T00:45:59.063Z",
-          "wordCount": 280,
-          "title": "[推荐] 《架构之道》读书笔记：架构设计的新思路"
-        },
-        {
-          "id": "https://toutiao.io/k/2ci0ez3",
-          "author": null,
-          "description": "[推荐] 源码面前没有秘密，推荐 9 个带你阅读源码的开源项目",
-          "link": "https://toutiao.io/k/2ci0ez3",
-          "publishedOn": "2021-09-29T00:45:58.976Z",
-          "wordCount": 177,
-          "title": "[推荐] 源码面前没有秘密，推荐 9 个带你阅读源码的开源项目"
-        },
-        {
-          "id": "https://toutiao.io/k/dsr2yzw",
-          "author": null,
-          "description": "[推荐] 教您 10 分钟搭建一个内网穿透服务",
-          "link": "https://toutiao.io/k/dsr2yzw",
-          "publishedOn": "2021-09-29T00:45:58.838Z",
-          "wordCount": 158,
-          "title": "[推荐] 教您 10 分钟搭建一个内网穿透服务"
-        },
-        {
-          "id": "https://toutiao.io/k/qm04a3h",
-          "author": null,
-          "description": "[推荐] 开源｜bilibili 开源的，基于 AST 和 Golang 语言实现的规则引擎",
-          "link": "https://toutiao.io/k/qm04a3h",
-          "publishedOn": "2021-09-29T00:45:58.785Z",
-          "wordCount": 102,
-          "title": "[推荐] 开源｜bilibili 开源的，基于 AST 和 Golang 语言实现的规则引擎"
-        },
-        {
-          "id": "https://toutiao.io/k/jqs1x8f",
-          "author": null,
-          "description": "[推荐] 开源浪潮下程序员的职业规划和成长",
-          "link": "https://toutiao.io/k/jqs1x8f",
-          "publishedOn": "2021-09-29T00:45:56.374Z",
-          "wordCount": 214,
-          "title": "[推荐] 开源浪潮下程序员的职业规划和成长"
-        },
-        {
-          "id": "https://toutiao.io/k/bue7e8t",
-          "author": null,
-          "description": "如何合理地选型工具",
-          "link": "https://toutiao.io/k/bue7e8t",
-          "publishedOn": "2021-09-23T07:33:08.000Z",
-          "wordCount": 193,
-          "title": "如何合理地选型工具"
         }
       ]
     },
@@ -605,6 +767,15 @@
       "siteUrl": "https://yeshan333.github.io/",
       "articles": [
         {
+          "id": "https://yeshan333.github.io/2021/10/24/create-k8s-cluster/",
+          "author": null,
+          "description": "前言\nYY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一不小心剁了个手😎😢，2 Cores，4G RAM 还是阔以的，既然买了，那不能不用呀🚩，之前一直想着搭建个 k8s 集群玩玩，本地开发机虽然起了个 k8s（拿 Docker Desktop 起的，不 dei 劲），但就一个 Node，不爽，对 k8s 的体验不到位😒，1024，是时候用起来了，折腾一下，顺便让最近浮躁的心冷静一下。\n这次拿官方的 Kubeadm 耍一下，以阿里云的轻量级应用服务器为 Control 节点，腾讯云的轻量级应用服务器为 Worker 节点，说干就干。",
+          "link": "https://yeshan333.github.io/2021/10/24/create-k8s-cluster/",
+          "publishedOn": "2021-10-24T13:51:19.000Z",
+          "wordCount": 627,
+          "title": "使用 Kubeadm 搭建个公网 k8s 集群（单控制平面集群）"
+        },
+        {
           "id": "https://yeshan333.github.io/2021/10/07/io-bound-cpu-bound-with-average-load/",
           "author": null,
           "description": "在排查性能问题的时候，我们经常会使用 top 或者 uptime 两个 Linux 命令，top 命令和 uptime 命令都会给出最近机器 1 min，5 min，15 min 的平均负载情况，一般平均负载值（Average Load）接近甚至超出 CPU cores",
@@ -612,15 +783,6 @@
           "publishedOn": "2021-10-07T16:12:38.000Z",
           "wordCount": 773,
           "title": "从平均负载开始，这进程是 CPU Bound 还是 IO Bound 的？"
-        },
-        {
-          "id": "https://yeshan333.github.io/2021/09/25/common-use-linux-network-command/",
-          "author": null,
-          "description": "水文警告⚠😂，最近这些玩意用得多，微微记录一下，目前写的比较水，后面应该会补点实践经验🚩。",
-          "link": "https://yeshan333.github.io/2021/09/25/common-use-linux-network-command/",
-          "publishedOn": "2021-09-25T16:34:52.000Z",
-          "wordCount": 424,
-          "title": "常用的 Linux 网络相关的命令"
         }
       ]
     }
