@@ -17,10 +17,136 @@
       ]
     },
     {
-      "title": "开发者头条:星期四 2021-10-28",
+      "title": "开发者头条:星期日 2021-10-31",
       "feedUrl": "https://rsshub.app/toutiao/today",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/7tctele",
+          "author": null,
+          "description": "[推荐] 吃透负载均衡",
+          "link": "https://toutiao.io/k/7tctele",
+          "publishedOn": "2021-11-01T00:49:59.866Z",
+          "wordCount": 281,
+          "title": "[推荐] 吃透负载均衡"
+        },
+        {
+          "id": "https://toutiao.io/k/1z7yov3",
+          "author": null,
+          "description": "精读《web streams》",
+          "link": "https://toutiao.io/k/1z7yov3",
+          "publishedOn": "2021-11-01T00:49:59.780Z",
+          "wordCount": 654,
+          "title": "精读《web streams》"
+        },
+        {
+          "id": "https://toutiao.io/k/oyacwl5",
+          "author": null,
+          "description": "[推荐] 你分库分表的姿势对么？：详谈水平分库分表",
+          "link": "https://toutiao.io/k/oyacwl5",
+          "publishedOn": "2021-11-01T00:49:59.685Z",
+          "wordCount": 435,
+          "title": "[推荐] 你分库分表的姿势对么？：详谈水平分库分表"
+        },
+        {
+          "id": "https://toutiao.io/k/rlhre5x",
+          "author": null,
+          "description": "[推荐] 亿级流量实验平台设计实践",
+          "link": "https://toutiao.io/k/rlhre5x",
+          "publishedOn": "2021-11-01T00:49:59.596Z",
+          "wordCount": 122,
+          "title": "[推荐] 亿级流量实验平台设计实践"
+        },
+        {
+          "id": "https://toutiao.io/k/z19lsln",
+          "author": null,
+          "description": "数据中台实战（四）：商品分析（产品设计篇）",
+          "link": "https://toutiao.io/k/z19lsln",
+          "publishedOn": "2021-11-01T00:49:59.515Z",
+          "wordCount": 60,
+          "title": "数据中台实战（四）：商品分析（产品设计篇）"
+        },
+        {
+          "id": "https://toutiao.io/k/ir654rd",
+          "author": null,
+          "description": "使用 sync.Pool 来减少 GC 压力",
+          "link": "https://toutiao.io/k/ir654rd",
+          "publishedOn": "2021-11-01T00:49:59.431Z",
+          "wordCount": 171,
+          "title": "使用 sync.Pool 来减少 GC 压力"
+        },
+        {
+          "id": "https://toutiao.io/k/5w9elxh",
+          "author": null,
+          "description": "深入了解 Flink 的可扩展性状态",
+          "link": "https://toutiao.io/k/5w9elxh",
+          "publishedOn": "2021-11-01T00:49:59.363Z",
+          "wordCount": 471,
+          "title": "深入了解 Flink 的可扩展性状态"
+        },
+        {
+          "id": "https://toutiao.io/k/omhltye",
+          "author": null,
+          "description": "《HelloGitHub》第 67 期",
+          "link": "https://toutiao.io/k/omhltye",
+          "publishedOn": "2021-11-01T00:49:59.259Z",
+          "wordCount": 358,
+          "title": "《HelloGitHub》第 67 期"
+        },
+        {
+          "id": "https://toutiao.io/k/vykwkmg",
+          "author": null,
+          "description": "[推荐] 生成唯一 ID，为什么 NanoID 会取代 UUID？",
+          "link": "https://toutiao.io/k/vykwkmg",
+          "publishedOn": "2021-11-01T00:49:59.109Z",
+          "wordCount": 209,
+          "title": "[推荐] 生成唯一 ID，为什么 NanoID 会取代 UUID？"
+        },
+        {
+          "id": "https://toutiao.io/k/gi028co",
+          "author": null,
+          "description": "为视频会议开发实时、自动的手语检测",
+          "link": "https://toutiao.io/k/gi028co",
+          "publishedOn": "2021-11-01T00:49:59.025Z",
+          "wordCount": 110,
+          "title": "为视频会议开发实时、自动的手语检测"
+        },
+        {
+          "id": "https://toutiao.io/k/f430jea",
+          "author": null,
+          "description": "2021 年仅剩 2 个月啦！抓紧啦！",
+          "link": "https://toutiao.io/k/f430jea",
+          "publishedOn": "2021-11-01T00:49:58.936Z",
+          "wordCount": 86,
+          "title": "2021 年仅剩 2 个月啦！抓紧啦！"
+        },
+        {
+          "id": "https://toutiao.io/k/qv6mpuj",
+          "author": null,
+          "description": "幂等设计详解",
+          "link": "https://toutiao.io/k/qv6mpuj",
+          "publishedOn": "2021-11-01T00:49:58.680Z",
+          "wordCount": 118,
+          "title": "幂等设计详解"
+        },
+        {
+          "id": "https://toutiao.io/k/2odttqb",
+          "author": null,
+          "description": "漫画图解 SSH",
+          "link": "https://toutiao.io/k/2odttqb",
+          "publishedOn": "2021-11-01T00:49:57.221Z",
+          "wordCount": 126,
+          "title": "漫画图解 SSH"
+        },
+        {
+          "id": "https://toutiao.io/k/u7klht6",
+          "author": null,
+          "description": "用状态机实现《394. 字符串解码》",
+          "link": "https://toutiao.io/k/u7klht6",
+          "publishedOn": "2021-11-01T00:49:56.858Z",
+          "wordCount": 472,
+          "title": "用状态机实现《394. 字符串解码》"
+        },
         {
           "id": "https://toutiao.io/k/56161ss",
           "author": null,
@@ -659,105 +785,6 @@
           "publishedOn": "2021-10-02T17:25:56.000Z",
           "wordCount": 242,
           "title": "ElasticSearch 进阶之多域搜索"
-        },
-        {
-          "id": "https://toutiao.io/k/01lhd6r",
-          "author": null,
-          "description": "深入 iOS 静态链接器（一）：ld64",
-          "link": "https://toutiao.io/k/01lhd6r",
-          "publishedOn": "2021-10-01T00:51:32.933Z",
-          "wordCount": 2341,
-          "title": "深入 iOS 静态链接器（一）：ld64"
-        },
-        {
-          "id": "https://toutiao.io/k/razs9sg",
-          "author": null,
-          "description": "ASM 与 Presto 动态代码生成简介",
-          "link": "https://toutiao.io/k/razs9sg",
-          "publishedOn": "2021-10-01T00:51:32.782Z",
-          "wordCount": 1088,
-          "title": "ASM 与 Presto 动态代码生成简介"
-        },
-        {
-          "id": "https://toutiao.io/k/e17erwk",
-          "author": null,
-          "description": "[推荐] 聊聊 Redis 分布式锁的 8 大坑",
-          "link": "https://toutiao.io/k/e17erwk",
-          "publishedOn": "2021-10-01T00:51:32.500Z",
-          "wordCount": 474,
-          "title": "[推荐] 聊聊 Redis 分布式锁的 8 大坑"
-        },
-        {
-          "id": "https://toutiao.io/k/l2sw9ji",
-          "author": null,
-          "description": "[推荐] 十个现象，识别程序员的 “水份”",
-          "link": "https://toutiao.io/k/l2sw9ji",
-          "publishedOn": "2021-10-01T00:51:32.217Z",
-          "wordCount": 95,
-          "title": "[推荐] 十个现象，识别程序员的 “水份”"
-        },
-        {
-          "id": "https://toutiao.io/k/e2ipbrc",
-          "author": null,
-          "description": "你们要的环球影城攻略，来了",
-          "link": "https://toutiao.io/k/e2ipbrc",
-          "publishedOn": "2021-10-01T00:51:32.141Z",
-          "wordCount": 99,
-          "title": "你们要的环球影城攻略，来了"
-        },
-        {
-          "id": "https://toutiao.io/k/p2sogse",
-          "author": null,
-          "description": "Golang 调试分析的高阶技巧",
-          "link": "https://toutiao.io/k/p2sogse",
-          "publishedOn": "2021-10-01T00:51:32.052Z",
-          "wordCount": 738,
-          "title": "Golang 调试分析的高阶技巧"
-        },
-        {
-          "id": "https://toutiao.io/k/6k5ve1v",
-          "author": null,
-          "description": "ToTTo：受控表到文本生成数据集",
-          "link": "https://toutiao.io/k/6k5ve1v",
-          "publishedOn": "2021-10-01T00:51:31.896Z",
-          "wordCount": 230,
-          "title": "ToTTo：受控表到文本生成数据集"
-        },
-        {
-          "id": "https://toutiao.io/k/aazub7e",
-          "author": null,
-          "description": "[推荐] MySQL 那点破事！索引、SQL 调优、事务、B+树、分表",
-          "link": "https://toutiao.io/k/aazub7e",
-          "publishedOn": "2021-10-01T00:51:31.807Z",
-          "wordCount": 193,
-          "title": "[推荐] MySQL 那点破事！索引、SQL 调优、事务、B+树、分表"
-        },
-        {
-          "id": "https://toutiao.io/k/8pbs9cx",
-          "author": null,
-          "description": "十一长假干嘛呢？快来吧！",
-          "link": "https://toutiao.io/k/8pbs9cx",
-          "publishedOn": "2021-10-01T00:51:31.394Z",
-          "wordCount": 83,
-          "title": "十一长假干嘛呢？快来吧！"
-        },
-        {
-          "id": "https://toutiao.io/k/zz67p1j",
-          "author": null,
-          "description": "[推荐] 走近 DDD",
-          "link": "https://toutiao.io/k/zz67p1j",
-          "publishedOn": "2021-10-01T00:51:29.751Z",
-          "wordCount": null,
-          "title": "[推荐] 走近 DDD"
-        },
-        {
-          "id": "https://toutiao.io/k/tm5eo26",
-          "author": null,
-          "description": "一顿操作，我把 Table 组件性能提升了十倍",
-          "link": "https://toutiao.io/k/tm5eo26",
-          "publishedOn": "2021-10-01T00:51:28.685Z",
-          "wordCount": 1265,
-          "title": "一顿操作，我把 Table 组件性能提升了十倍"
         }
       ]
     },
