@@ -17,10 +17,127 @@
       ]
     },
     {
-      "title": "开发者头条:星期日 2021-10-31",
+      "title": "开发者头条:星期日 2021-11-07",
       "feedUrl": "https://rsshub.app/toutiao/today",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/s48j8ku",
+          "author": null,
+          "description": "[推荐] 七步制作精简镜像，So easy",
+          "link": "https://toutiao.io/k/s48j8ku",
+          "publishedOn": "2021-11-08T00:48:23.279Z",
+          "wordCount": 790,
+          "title": "[推荐] 七步制作精简镜像，So easy"
+        },
+        {
+          "id": "https://toutiao.io/k/4zi9xn3",
+          "author": null,
+          "description": "无需 Dockerfile 的镜像构建：BuildPack vs Dockerfile",
+          "link": "https://toutiao.io/k/4zi9xn3",
+          "publishedOn": "2021-11-08T00:48:23.197Z",
+          "wordCount": 719,
+          "title": "无需 Dockerfile 的镜像构建：BuildPack vs Dockerfile"
+        },
+        {
+          "id": "https://toutiao.io/k/3l64knj",
+          "author": null,
+          "description": "[推荐] 最近很火火火火的 GitHub 项目",
+          "link": "https://toutiao.io/k/3l64knj",
+          "publishedOn": "2021-11-08T00:48:23.103Z",
+          "wordCount": 137,
+          "title": "[推荐] 最近很火火火火的 GitHub 项目"
+        },
+        {
+          "id": "https://toutiao.io/k/16653vv",
+          "author": null,
+          "description": "数据中台实战（六）：交易分析",
+          "link": "https://toutiao.io/k/16653vv",
+          "publishedOn": "2021-11-08T00:48:23.022Z",
+          "wordCount": 79,
+          "title": "数据中台实战（六）：交易分析"
+        },
+        {
+          "id": "https://toutiao.io/k/3nkgnj9",
+          "author": null,
+          "description": "[推荐] 高并发场景下 JVM 调优实践之路",
+          "link": "https://toutiao.io/k/3nkgnj9",
+          "publishedOn": "2021-11-08T00:48:22.895Z",
+          "wordCount": 329,
+          "title": "[推荐] 高并发场景下 JVM 调优实践之路"
+        },
+        {
+          "id": "https://toutiao.io/k/fx6kwau",
+          "author": null,
+          "description": "Flutter PlatformView 在闲鱼直播业务中的实践",
+          "link": "https://toutiao.io/k/fx6kwau",
+          "publishedOn": "2021-11-08T00:48:22.788Z",
+          "wordCount": 432,
+          "title": "Flutter PlatformView 在闲鱼直播业务中的实践"
+        },
+        {
+          "id": "https://toutiao.io/k/uzxxk42",
+          "author": null,
+          "description": "Dubbo 配置 loadbalance 不生效？撸一把源码",
+          "link": "https://toutiao.io/k/uzxxk42",
+          "publishedOn": "2021-11-08T00:48:22.705Z",
+          "wordCount": 434,
+          "title": "Dubbo 配置 loadbalance 不生效？撸一把源码"
+        },
+        {
+          "id": "https://toutiao.io/k/m924zeo",
+          "author": null,
+          "description": "Python Shell 如何不重启做到热重载模块？",
+          "link": "https://toutiao.io/k/m924zeo",
+          "publishedOn": "2021-11-08T00:48:22.622Z",
+          "wordCount": 94,
+          "title": "Python Shell 如何不重启做到热重载模块？"
+        },
+        {
+          "id": "https://toutiao.io/k/ikanpmp",
+          "author": null,
+          "description": "如何设计出完美的动画技术架构？",
+          "link": "https://toutiao.io/k/ikanpmp",
+          "publishedOn": "2021-11-08T00:48:22.525Z",
+          "wordCount": 294,
+          "title": "如何设计出完美的动画技术架构？"
+        },
+        {
+          "id": "https://toutiao.io/k/84f5zio",
+          "author": null,
+          "description": "万字入门推荐系统",
+          "link": "https://toutiao.io/k/84f5zio",
+          "publishedOn": "2021-11-08T00:48:22.454Z",
+          "wordCount": 80,
+          "title": "万字入门推荐系统"
+        },
+        {
+          "id": "https://toutiao.io/k/99x82s5",
+          "author": null,
+          "description": "Modern.js: Hello, World!",
+          "link": "https://toutiao.io/k/99x82s5",
+          "publishedOn": "2021-11-08T00:48:20.579Z",
+          "wordCount": 2165,
+          "title": "Modern.js: Hello, World!"
+        },
+        {
+          "id": "https://toutiao.io/k/o5vgdx3",
+          "author": null,
+          "description": "Room & Kotlin 符号的处理",
+          "link": "https://toutiao.io/k/o5vgdx3",
+          "publishedOn": "2021-11-08T00:48:20.043Z",
+          "wordCount": 735,
+          "title": "Room & Kotlin 符号的处理"
+        },
+        {
+          "id": "https://toutiao.io/k/78q70gv",
+          "author": null,
+          "description": "答应我，别再用 print 调试代码了，好么？",
+          "link": "https://toutiao.io/k/78q70gv",
+          "publishedOn": "2021-11-08T00:48:19.810Z",
+          "wordCount": 342,
+          "title": "答应我，别再用 print 调试代码了，好么？"
+        },
         {
           "id": "https://toutiao.io/k/7tctele",
           "author": null,
@@ -659,132 +776,6 @@
           "publishedOn": "2021-10-15T00:51:54.029Z",
           "wordCount": 116,
           "title": "[推荐] 聊聊 JVM 调优"
-        },
-        {
-          "id": "https://toutiao.io/k/zg31kv0",
-          "author": null,
-          "description": "[推荐] 一站搞定各种开发文档",
-          "link": "https://toutiao.io/k/zg31kv0",
-          "publishedOn": "2021-10-08T00:52:39.945Z",
-          "wordCount": 128,
-          "title": "[推荐] 一站搞定各种开发文档"
-        },
-        {
-          "id": "https://toutiao.io/k/ou37ua8",
-          "author": null,
-          "description": "字节跳动是如何落地微前端的",
-          "link": "https://toutiao.io/k/ou37ua8",
-          "publishedOn": "2021-10-07T14:06:01.296Z",
-          "wordCount": 717,
-          "title": "字节跳动是如何落地微前端的"
-        },
-        {
-          "id": "https://toutiao.io/k/oi7zdzy",
-          "author": null,
-          "description": "[推荐] 推荐几个开源类库，超好用，远离 996",
-          "link": "https://toutiao.io/k/oi7zdzy",
-          "publishedOn": "2021-10-07T14:06:01.161Z",
-          "wordCount": 339,
-          "title": "[推荐] 推荐几个开源类库，超好用，远离 996"
-        },
-        {
-          "id": "https://toutiao.io/k/wn672me",
-          "author": null,
-          "description": "极狐 GitLab SaaS 内测轻度体验",
-          "link": "https://toutiao.io/k/wn672me",
-          "publishedOn": "2021-10-07T14:06:01.071Z",
-          "wordCount": 287,
-          "title": "极狐 GitLab SaaS 内测轻度体验"
-        },
-        {
-          "id": "https://toutiao.io/k/bkhel3q",
-          "author": null,
-          "description": "浅析数据库事务隔离级别",
-          "link": "https://toutiao.io/k/bkhel3q",
-          "publishedOn": "2021-10-07T14:06:00.960Z",
-          "wordCount": 95,
-          "title": "浅析数据库事务隔离级别"
-        },
-        {
-          "id": "https://toutiao.io/k/skbdvsx",
-          "author": null,
-          "description": "写给互联网工程师的 5G 书（六）：参考实现",
-          "link": "https://toutiao.io/k/skbdvsx",
-          "publishedOn": "2021-10-07T14:06:00.878Z",
-          "wordCount": 121,
-          "title": "写给互联网工程师的 5G 书（六）：参考实现"
-        },
-        {
-          "id": "https://toutiao.io/k/0d4bxmx",
-          "author": null,
-          "description": "[推荐] 发票总库 DDD 实践",
-          "link": "https://toutiao.io/k/0d4bxmx",
-          "publishedOn": "2021-10-07T14:06:00.775Z",
-          "wordCount": 63,
-          "title": "[推荐] 发票总库 DDD 实践"
-        },
-        {
-          "id": "https://toutiao.io/k/vb8v22x",
-          "author": null,
-          "description": "升级到 Java 17：密封类",
-          "link": "https://toutiao.io/k/vb8v22x",
-          "publishedOn": "2021-10-07T14:06:00.614Z",
-          "wordCount": 254,
-          "title": "升级到 Java 17：密封类"
-        },
-        {
-          "id": "https://toutiao.io/k/ys08f63",
-          "author": null,
-          "description": "[推荐] 如何通过项目复盘来加速个人成长",
-          "link": "https://toutiao.io/k/ys08f63",
-          "publishedOn": "2021-10-07T14:06:00.518Z",
-          "wordCount": 119,
-          "title": "[推荐] 如何通过项目复盘来加速个人成长"
-        },
-        {
-          "id": "https://toutiao.io/k/z43chab",
-          "author": null,
-          "description": "并发编程：SIMD 介绍",
-          "link": "https://toutiao.io/k/z43chab",
-          "publishedOn": "2021-10-07T14:06:00.430Z",
-          "wordCount": 522,
-          "title": "并发编程：SIMD 介绍"
-        },
-        {
-          "id": "https://toutiao.io/k/derylod",
-          "author": null,
-          "description": "领导为什么不听我的汇报和授权方法",
-          "link": "https://toutiao.io/k/derylod",
-          "publishedOn": "2021-10-07T14:06:00.332Z",
-          "wordCount": 55,
-          "title": "领导为什么不听我的汇报和授权方法"
-        },
-        {
-          "id": "https://toutiao.io/k/b447c39",
-          "author": null,
-          "description": "使用 Jenkins 共享库对流水线进行扩展",
-          "link": "https://toutiao.io/k/b447c39",
-          "publishedOn": "2021-10-07T14:06:00.163Z",
-          "wordCount": 145,
-          "title": "使用 Jenkins 共享库对流水线进行扩展"
-        },
-        {
-          "id": "https://toutiao.io/k/21wnwdq",
-          "author": null,
-          "description": "[推荐] 彻底弄懂 base64 的编码与解码原理",
-          "link": "https://toutiao.io/k/21wnwdq",
-          "publishedOn": "2021-10-07T14:05:57.674Z",
-          "wordCount": 1337,
-          "title": "[推荐] 彻底弄懂 base64 的编码与解码原理"
-        },
-        {
-          "id": "https://toutiao.io/k/2ayn6wv",
-          "author": null,
-          "description": "ElasticSearch 进阶之多域搜索",
-          "link": "https://toutiao.io/k/2ayn6wv",
-          "publishedOn": "2021-10-02T17:25:56.000Z",
-          "wordCount": 242,
-          "title": "ElasticSearch 进阶之多域搜索"
         }
       ]
     },
@@ -801,15 +792,6 @@
           "publishedOn": "2021-10-24T13:51:19.000Z",
           "wordCount": 627,
           "title": "使用 Kubeadm 搭建个公网 k8s 集群（单控制平面集群）"
-        },
-        {
-          "id": "https://yeshan333.github.io/2021/10/07/io-bound-cpu-bound-with-average-load/",
-          "author": null,
-          "description": "在排查性能问题的时候，我们经常会使用 top 或者 uptime 两个 Linux 命令，top 命令和 uptime 命令都会给出最近机器 1 min，5 min，15 min 的平均负载情况，一般平均负载值（Average Load）接近甚至超出 CPU cores",
-          "link": "https://yeshan333.github.io/2021/10/07/io-bound-cpu-bound-with-average-load/",
-          "publishedOn": "2021-10-07T16:12:38.000Z",
-          "wordCount": 773,
-          "title": "从平均负载开始，这进程是 CPU Bound 还是 IO Bound 的？"
         }
       ]
     }
