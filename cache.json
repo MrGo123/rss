@@ -4,23 +4,139 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": [
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3",
-          "author": null,
-          "description": "Fixed: broken links in documentation\nChore: Dependency updates\nThank you: @hirdot",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3",
-          "publishedOn": "2021-10-16T00:01:47.000Z",
-          "wordCount": 299,
-          "title": "v1.11.3"
-        }
-      ]
+      "articles": []
     },
     {
-      "title": "开发者头条:星期日 2021-11-07",
+      "title": "开发者头条:星期日 2021-11-14",
       "feedUrl": "https://rsshub.app/toutiao/today",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/86itcz7",
+          "author": null,
+          "description": "云原生分布式操作系统营造法式：云平台提供商视角",
+          "link": "https://toutiao.io/k/86itcz7",
+          "publishedOn": "2021-11-15T00:47:50.633Z",
+          "wordCount": 70,
+          "title": "云原生分布式操作系统营造法式：云平台提供商视角"
+        },
+        {
+          "id": "https://toutiao.io/k/j5iauc2",
+          "author": null,
+          "description": "[推荐] Kafka 知识体系保姆级教程宝典",
+          "link": "https://toutiao.io/k/j5iauc2",
+          "publishedOn": "2021-11-15T00:47:49.431Z",
+          "wordCount": 1401,
+          "title": "[推荐] Kafka 知识体系保姆级教程宝典"
+        },
+        {
+          "id": "https://toutiao.io/k/rby5frf",
+          "author": null,
+          "description": "[译] 在嵌入式系统中运行 eBPF",
+          "link": "https://toutiao.io/k/rby5frf",
+          "publishedOn": "2021-11-15T00:47:48.886Z",
+          "wordCount": 785,
+          "title": "[译] 在嵌入式系统中运行 eBPF"
+        },
+        {
+          "id": "https://toutiao.io/k/mcc46wh",
+          "author": null,
+          "description": "网易开源运维诊断框架 KubeDiag 技术解析",
+          "link": "https://toutiao.io/k/mcc46wh",
+          "publishedOn": "2021-11-15T00:47:48.808Z",
+          "wordCount": 1216,
+          "title": "网易开源运维诊断框架 KubeDiag 技术解析"
+        },
+        {
+          "id": "https://toutiao.io/k/7o8m67l",
+          "author": null,
+          "description": "[推荐] 如何写好年度总结 PPT？",
+          "link": "https://toutiao.io/k/7o8m67l",
+          "publishedOn": "2021-11-15T00:47:48.709Z",
+          "wordCount": 84,
+          "title": "[推荐] 如何写好年度总结 PPT？"
+        },
+        {
+          "id": "https://toutiao.io/k/zcql3fl",
+          "author": null,
+          "description": "[推荐] 高并发系统建设经验总结",
+          "link": "https://toutiao.io/k/zcql3fl",
+          "publishedOn": "2021-11-15T00:47:48.638Z",
+          "wordCount": 335,
+          "title": "[推荐] 高并发系统建设经验总结"
+        },
+        {
+          "id": "https://toutiao.io/k/xsdoi2k",
+          "author": null,
+          "description": "脑洞：让页面白屏的 8 种方式和防御方法",
+          "link": "https://toutiao.io/k/xsdoi2k",
+          "publishedOn": "2021-11-15T00:47:48.568Z",
+          "wordCount": 344,
+          "title": "脑洞：让页面白屏的 8 种方式和防御方法"
+        },
+        {
+          "id": "https://toutiao.io/k/w79d4wj",
+          "author": null,
+          "description": "[推荐] 认识 MySQL 和 Redis 的数据一致性问题",
+          "link": "https://toutiao.io/k/w79d4wj",
+          "publishedOn": "2021-11-15T00:47:48.496Z",
+          "wordCount": 356,
+          "title": "[推荐] 认识 MySQL 和 Redis 的数据一致性问题"
+        },
+        {
+          "id": "https://toutiao.io/k/jjix6xq",
+          "author": null,
+          "description": "大前端开发中的路由管理（三）：Android 篇",
+          "link": "https://toutiao.io/k/jjix6xq",
+          "publishedOn": "2021-11-15T00:47:48.419Z",
+          "wordCount": 224,
+          "title": "大前端开发中的路由管理（三）：Android 篇"
+        },
+        {
+          "id": "https://toutiao.io/k/hb0m0f7",
+          "author": null,
+          "description": "requestAnimationFrame 执行机制探索",
+          "link": "https://toutiao.io/k/hb0m0f7",
+          "publishedOn": "2021-11-15T00:47:48.323Z",
+          "wordCount": 636,
+          "title": "requestAnimationFrame 执行机制探索"
+        },
+        {
+          "id": "https://toutiao.io/k/71t4gxq",
+          "author": null,
+          "description": "反驳：Rust 是 Go 应该成为的样子？",
+          "link": "https://toutiao.io/k/71t4gxq",
+          "publishedOn": "2021-11-15T00:47:48.248Z",
+          "wordCount": 140,
+          "title": "反驳：Rust 是 Go 应该成为的样子？"
+        },
+        {
+          "id": "https://toutiao.io/k/63xmx6j",
+          "author": null,
+          "description": "一增两减，助力深度学习在实时推理场景中的应用",
+          "link": "https://toutiao.io/k/63xmx6j",
+          "publishedOn": "2021-11-15T00:47:48.166Z",
+          "wordCount": 244,
+          "title": "一增两减，助力深度学习在实时推理场景中的应用"
+        },
+        {
+          "id": "https://toutiao.io/k/icfytjy",
+          "author": null,
+          "description": "设计师都开始内卷了：用 Processing 模拟视频号和 Facebook 新 Logo",
+          "link": "https://toutiao.io/k/icfytjy",
+          "publishedOn": "2021-11-15T00:47:48.093Z",
+          "wordCount": 184,
+          "title": "设计师都开始内卷了：用 Processing 模拟视频号和 Facebook 新 Logo"
+        },
+        {
+          "id": "https://toutiao.io/k/ftrvm6v",
+          "author": null,
+          "description": "项目中怎样做技术选型？",
+          "link": "https://toutiao.io/k/ftrvm6v",
+          "publishedOn": "2021-11-15T00:47:47.903Z",
+          "wordCount": 63,
+          "title": "项目中怎样做技术选型？"
+        },
         {
           "id": "https://toutiao.io/k/s48j8ku",
           "author": null,
@@ -740,42 +856,6 @@
           "publishedOn": "2021-10-22T00:55:08.898Z",
           "wordCount": 3872,
           "title": "[推荐] [译] 写给工程师：关于证书和公钥基础设施的一切 (SmallStep, 2018)"
-        },
-        {
-          "id": "https://toutiao.io/k/8r0yjir",
-          "author": null,
-          "description": "[推荐] 面试字节，被操作系统问挂了",
-          "link": "https://toutiao.io/k/8r0yjir",
-          "publishedOn": "2021-10-15T00:51:54.756Z",
-          "wordCount": 317,
-          "title": "[推荐] 面试字节，被操作系统问挂了"
-        },
-        {
-          "id": "https://toutiao.io/k/24c1qgi",
-          "author": null,
-          "description": "[推荐] 软件架构之原则、风格和实践",
-          "link": "https://toutiao.io/k/24c1qgi",
-          "publishedOn": "2021-10-15T00:51:54.310Z",
-          "wordCount": 117,
-          "title": "[推荐] 软件架构之原则、风格和实践"
-        },
-        {
-          "id": "https://toutiao.io/k/8qf7wmi",
-          "author": null,
-          "description": "[推荐] 一套优雅的 Go 错误问题解决方案",
-          "link": "https://toutiao.io/k/8qf7wmi",
-          "publishedOn": "2021-10-15T00:51:54.226Z",
-          "wordCount": 697,
-          "title": "[推荐] 一套优雅的 Go 错误问题解决方案"
-        },
-        {
-          "id": "https://toutiao.io/k/tbiemos",
-          "author": null,
-          "description": "[推荐] 聊聊 JVM 调优",
-          "link": "https://toutiao.io/k/tbiemos",
-          "publishedOn": "2021-10-15T00:51:54.029Z",
-          "wordCount": 116,
-          "title": "[推荐] 聊聊 JVM 调优"
         }
       ]
     },
@@ -784,6 +864,15 @@
       "feedUrl": "https://shansan.top/rss2.xml",
       "siteUrl": "https://yeshan333.github.io/",
       "articles": [
+        {
+          "id": "https://yeshan333.github.io/2021/11/14/back-to-october/",
+          "author": null,
+          "description": "前言\n不知不觉，离开校园将近四个月了，正式工作（摸🐟~）也差不多四个多月了，最近经历了很多事，头发也掉了不少😂",
+          "link": "https://yeshan333.github.io/2021/11/14/back-to-october/",
+          "publishedOn": "2021-11-14T10:21:37.000Z",
+          "wordCount": 212,
+          "title": "回到十月-生活中的一点儿小确幸"
+        },
         {
           "id": "https://yeshan333.github.io/2021/10/24/create-k8s-cluster/",
           "author": null,

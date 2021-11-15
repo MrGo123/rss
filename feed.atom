@@ -2,10 +2,161 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-08T00:48:23.309Z</updated>
+    <updated>2021-11-15T00:47:50.652Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[云原生分布式操作系统营造法式：云平台提供商视角]]></title>
+        <id>https://toutiao.io/k/86itcz7</id>
+        <link href="https://toutiao.io/k/86itcz7"/>
+        <updated>2021-11-15T00:47:50.633Z</updated>
+        <summary type="html"><![CDATA[云原生分布式操作系统营造法式：云平台提供商视角]]></summary>
+        <author>
+            <name>开发者头条:星期日 2021-11-14</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] Kafka 知识体系保姆级教程宝典]]></title>
+        <id>https://toutiao.io/k/j5iauc2</id>
+        <link href="https://toutiao.io/k/j5iauc2"/>
+        <updated>2021-11-15T00:47:49.431Z</updated>
+        <summary type="html"><![CDATA[[推荐] Kafka 知识体系保姆级教程宝典]]></summary>
+        <author>
+            <name>开发者头条:星期日 2021-11-14</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[译] 在嵌入式系统中运行 eBPF]]></title>
+        <id>https://toutiao.io/k/rby5frf</id>
+        <link href="https://toutiao.io/k/rby5frf"/>
+        <updated>2021-11-15T00:47:48.886Z</updated>
+        <summary type="html"><![CDATA[[译] 在嵌入式系统中运行 eBPF]]></summary>
+        <author>
+            <name>开发者头条:星期日 2021-11-14</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网易开源运维诊断框架 KubeDiag 技术解析]]></title>
+        <id>https://toutiao.io/k/mcc46wh</id>
+        <link href="https://toutiao.io/k/mcc46wh"/>
+        <updated>2021-11-15T00:47:48.808Z</updated>
+        <summary type="html"><![CDATA[网易开源运维诊断框架 KubeDiag 技术解析]]></summary>
+        <author>
+            <name>开发者头条:星期日 2021-11-14</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] 如何写好年度总结 PPT？]]></title>
+        <id>https://toutiao.io/k/7o8m67l</id>
+        <link href="https://toutiao.io/k/7o8m67l"/>
+        <updated>2021-11-15T00:47:48.709Z</updated>
+        <summary type="html"><![CDATA[[推荐] 如何写好年度总结 PPT？]]></summary>
+        <author>
+            <name>开发者头条:星期日 2021-11-14</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] 高并发系统建设经验总结]]></title>
+        <id>https://toutiao.io/k/zcql3fl</id>
+        <link href="https://toutiao.io/k/zcql3fl"/>
+        <updated>2021-11-15T00:47:48.638Z</updated>
+        <summary type="html"><![CDATA[[推荐] 高并发系统建设经验总结]]></summary>
+        <author>
+            <name>开发者头条:星期日 2021-11-14</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脑洞：让页面白屏的 8 种方式和防御方法]]></title>
+        <id>https://toutiao.io/k/xsdoi2k</id>
+        <link href="https://toutiao.io/k/xsdoi2k"/>
+        <updated>2021-11-15T00:47:48.568Z</updated>
+        <summary type="html"><![CDATA[脑洞：让页面白屏的 8 种方式和防御方法]]></summary>
+        <author>
+            <name>开发者头条:星期日 2021-11-14</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] 认识 MySQL 和 Redis 的数据一致性问题]]></title>
+        <id>https://toutiao.io/k/w79d4wj</id>
+        <link href="https://toutiao.io/k/w79d4wj"/>
+        <updated>2021-11-15T00:47:48.496Z</updated>
+        <summary type="html"><![CDATA[[推荐] 认识 MySQL 和 Redis 的数据一致性问题]]></summary>
+        <author>
+            <name>开发者头条:星期日 2021-11-14</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大前端开发中的路由管理（三）：Android 篇]]></title>
+        <id>https://toutiao.io/k/jjix6xq</id>
+        <link href="https://toutiao.io/k/jjix6xq"/>
+        <updated>2021-11-15T00:47:48.419Z</updated>
+        <summary type="html"><![CDATA[大前端开发中的路由管理（三）：Android 篇]]></summary>
+        <author>
+            <name>开发者头条:星期日 2021-11-14</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[requestAnimationFrame 执行机制探索]]></title>
+        <id>https://toutiao.io/k/hb0m0f7</id>
+        <link href="https://toutiao.io/k/hb0m0f7"/>
+        <updated>2021-11-15T00:47:48.323Z</updated>
+        <summary type="html"><![CDATA[requestAnimationFrame 执行机制探索]]></summary>
+        <author>
+            <name>开发者头条:星期日 2021-11-14</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[反驳：Rust 是 Go 应该成为的样子？]]></title>
+        <id>https://toutiao.io/k/71t4gxq</id>
+        <link href="https://toutiao.io/k/71t4gxq"/>
+        <updated>2021-11-15T00:47:48.248Z</updated>
+        <summary type="html"><![CDATA[反驳：Rust 是 Go 应该成为的样子？]]></summary>
+        <author>
+            <name>开发者头条:星期日 2021-11-14</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一增两减，助力深度学习在实时推理场景中的应用]]></title>
+        <id>https://toutiao.io/k/63xmx6j</id>
+        <link href="https://toutiao.io/k/63xmx6j"/>
+        <updated>2021-11-15T00:47:48.166Z</updated>
+        <summary type="html"><![CDATA[一增两减，助力深度学习在实时推理场景中的应用]]></summary>
+        <author>
+            <name>开发者头条:星期日 2021-11-14</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[设计师都开始内卷了：用 Processing 模拟视频号和 Facebook 新 Logo]]></title>
+        <id>https://toutiao.io/k/icfytjy</id>
+        <link href="https://toutiao.io/k/icfytjy"/>
+        <updated>2021-11-15T00:47:48.093Z</updated>
+        <summary type="html"><![CDATA[设计师都开始内卷了：用 Processing 模拟视频号和 Facebook 新 Logo]]></summary>
+        <author>
+            <name>开发者头条:星期日 2021-11-14</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[项目中怎样做技术选型？]]></title>
+        <id>https://toutiao.io/k/ftrvm6v</id>
+        <link href="https://toutiao.io/k/ftrvm6v"/>
+        <updated>2021-11-15T00:47:47.903Z</updated>
+        <summary type="html"><![CDATA[项目中怎样做技术选型？]]></summary>
+        <author>
+            <name>开发者头条:星期日 2021-11-14</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[回到十月-生活中的一点儿小确幸]]></title>
+        <id>https://yeshan333.github.io/2021/11/14/back-to-october/</id>
+        <link href="https://yeshan333.github.io/2021/11/14/back-to-october/"/>
+        <updated>2021-11-14T10:21:37.000Z</updated>
+        <summary type="html"><![CDATA[前言
+不知不觉，离开校园将近四个月了，正式工作（摸🐟~）也差不多四个多月了，最近经历了很多事，头发也掉了不少😂]]></summary>
+        <author>
+            <name>ShanSan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[推荐] 七步制作精简镜像，So easy]]></title>
         <id>https://toutiao.io/k/s48j8ku</id>
@@ -13,7 +164,7 @@
         <updated>2021-11-08T00:48:23.279Z</updated>
         <summary type="html"><![CDATA[[推荐] 七步制作精简镜像，So easy]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -23,7 +174,7 @@
         <updated>2021-11-08T00:48:23.197Z</updated>
         <summary type="html"><![CDATA[无需 Dockerfile 的镜像构建：BuildPack vs Dockerfile]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -33,7 +184,7 @@
         <updated>2021-11-08T00:48:23.103Z</updated>
         <summary type="html"><![CDATA[[推荐] 最近很火火火火的 GitHub 项目]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -43,7 +194,7 @@
         <updated>2021-11-08T00:48:23.022Z</updated>
         <summary type="html"><![CDATA[数据中台实战（六）：交易分析]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -53,7 +204,7 @@
         <updated>2021-11-08T00:48:22.895Z</updated>
         <summary type="html"><![CDATA[[推荐] 高并发场景下 JVM 调优实践之路]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -63,7 +214,7 @@
         <updated>2021-11-08T00:48:22.788Z</updated>
         <summary type="html"><![CDATA[Flutter PlatformView 在闲鱼直播业务中的实践]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -73,7 +224,7 @@
         <updated>2021-11-08T00:48:22.705Z</updated>
         <summary type="html"><![CDATA[Dubbo 配置 loadbalance 不生效？撸一把源码]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -83,7 +234,7 @@
         <updated>2021-11-08T00:48:22.622Z</updated>
         <summary type="html"><![CDATA[Python Shell 如何不重启做到热重载模块？]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -93,7 +244,7 @@
         <updated>2021-11-08T00:48:22.525Z</updated>
         <summary type="html"><![CDATA[如何设计出完美的动画技术架构？]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -103,7 +254,7 @@
         <updated>2021-11-08T00:48:22.454Z</updated>
         <summary type="html"><![CDATA[万字入门推荐系统]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -113,7 +264,7 @@
         <updated>2021-11-08T00:48:20.579Z</updated>
         <summary type="html"><![CDATA[Modern.js: Hello, World!]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -123,7 +274,7 @@
         <updated>2021-11-08T00:48:20.043Z</updated>
         <summary type="html"><![CDATA[Room & Kotlin 符号的处理]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -133,7 +284,7 @@
         <updated>2021-11-08T00:48:19.810Z</updated>
         <summary type="html"><![CDATA[答应我，别再用 print 调试代码了，好么？]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -143,7 +294,7 @@
         <updated>2021-11-01T00:49:59.866Z</updated>
         <summary type="html"><![CDATA[[推荐] 吃透负载均衡]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -153,7 +304,7 @@
         <updated>2021-11-01T00:49:59.780Z</updated>
         <summary type="html"><![CDATA[精读《web streams》]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -163,7 +314,7 @@
         <updated>2021-11-01T00:49:59.685Z</updated>
         <summary type="html"><![CDATA[[推荐] 你分库分表的姿势对么？：详谈水平分库分表]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -173,7 +324,7 @@
         <updated>2021-11-01T00:49:59.596Z</updated>
         <summary type="html"><![CDATA[[推荐] 亿级流量实验平台设计实践]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -183,7 +334,7 @@
         <updated>2021-11-01T00:49:59.515Z</updated>
         <summary type="html"><![CDATA[数据中台实战（四）：商品分析（产品设计篇）]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -193,7 +344,7 @@
         <updated>2021-11-01T00:49:59.431Z</updated>
         <summary type="html"><![CDATA[使用 sync.Pool 来减少 GC 压力]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -203,7 +354,7 @@
         <updated>2021-11-01T00:49:59.363Z</updated>
         <summary type="html"><![CDATA[深入了解 Flink 的可扩展性状态]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -213,7 +364,7 @@
         <updated>2021-11-01T00:49:59.259Z</updated>
         <summary type="html"><![CDATA[《HelloGitHub》第 67 期]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -223,7 +374,7 @@
         <updated>2021-11-01T00:49:59.109Z</updated>
         <summary type="html"><![CDATA[[推荐] 生成唯一 ID，为什么 NanoID 会取代 UUID？]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -233,7 +384,7 @@
         <updated>2021-11-01T00:49:59.025Z</updated>
         <summary type="html"><![CDATA[为视频会议开发实时、自动的手语检测]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -243,7 +394,7 @@
         <updated>2021-11-01T00:49:58.936Z</updated>
         <summary type="html"><![CDATA[2021 年仅剩 2 个月啦！抓紧啦！]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -253,7 +404,7 @@
         <updated>2021-11-01T00:49:58.680Z</updated>
         <summary type="html"><![CDATA[幂等设计详解]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -263,7 +414,7 @@
         <updated>2021-11-01T00:49:57.221Z</updated>
         <summary type="html"><![CDATA[漫画图解 SSH]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -273,7 +424,7 @@
         <updated>2021-11-01T00:49:56.858Z</updated>
         <summary type="html"><![CDATA[用状态机实现《394. 字符串解码》]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -283,7 +434,7 @@
         <updated>2021-10-29T00:45:44.410Z</updated>
         <summary type="html"><![CDATA[[推荐] 亿级流量架构演进实战：从零构建亿级流量 API 网关（二）]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -293,7 +444,7 @@
         <updated>2021-10-29T00:45:37.600Z</updated>
         <summary type="html"><![CDATA[架构师图谱·番外篇之研发效能]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -303,7 +454,7 @@
         <updated>2021-10-29T00:45:36.443Z</updated>
         <summary type="html"><![CDATA[Android 构建工具：AAPT2 源码解析（一）]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -313,7 +464,7 @@
         <updated>2021-10-29T00:45:36.355Z</updated>
         <summary type="html"><![CDATA[[推荐] 搞懂异地多活，看这篇就够了]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -323,7 +474,7 @@
         <updated>2021-10-29T00:45:36.220Z</updated>
         <summary type="html"><![CDATA[亿级流量架构演进实战：架构演进构建 TCP 长连接网关（三）]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -333,7 +484,7 @@
         <updated>2021-10-29T00:45:36.148Z</updated>
         <summary type="html"><![CDATA[[推荐] Go 业务开发中常用的几个开源库]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -343,7 +494,7 @@
         <updated>2021-10-29T00:45:36.076Z</updated>
         <summary type="html"><![CDATA[[推荐] 技术人必备的 6 种思维]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -353,7 +504,7 @@
         <updated>2021-10-29T00:45:35.998Z</updated>
         <summary type="html"><![CDATA[[推荐] 面试官问：你参与的项目有什么亮点？怎么回答]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -363,7 +514,7 @@
         <updated>2021-10-29T00:45:35.921Z</updated>
         <summary type="html"><![CDATA[[推荐] 团队管理那点破事！OKR 绩效、核心人才、面试、技术分享、研发流程]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -373,7 +524,7 @@
         <updated>2021-10-29T00:45:35.847Z</updated>
         <summary type="html"><![CDATA[Webshell 检测小结与实例分析]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -383,7 +534,7 @@
         <updated>2021-10-29T00:45:35.764Z</updated>
         <summary type="html"><![CDATA[阿里二面：为什么要分库分表？]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -393,7 +544,7 @@
         <updated>2021-10-29T00:45:35.695Z</updated>
         <summary type="html"><![CDATA[Lerna 停止维护后，Monorepo 发包新方案 Changesets 快了解一下]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -403,7 +554,7 @@
         <updated>2021-10-29T00:45:35.627Z</updated>
         <summary type="html"><![CDATA[真正运行容器的工具：深入了解 runc 和 OCI 规范]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -413,7 +564,7 @@
         <updated>2021-10-29T00:45:35.542Z</updated>
         <summary type="html"><![CDATA[[推荐] 推荐 14 款常用的测试开发工具]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -423,7 +574,7 @@
         <updated>2021-10-29T00:45:35.459Z</updated>
         <summary type="html"><![CDATA[Chrome 插件（扩展）开发全攻略 2.6w 字，看这篇就够了]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -433,7 +584,7 @@
         <updated>2021-10-29T00:45:35.345Z</updated>
         <summary type="html"><![CDATA[iOS 模块化方案及实施]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -443,7 +594,7 @@
         <updated>2021-10-29T00:45:35.263Z</updated>
         <summary type="html"><![CDATA[[推荐] 架构师之路：HTTPS 底层原理]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -453,7 +604,7 @@
         <updated>2021-10-29T00:45:35.190Z</updated>
         <summary type="html"><![CDATA[Flutter 之美]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -463,7 +614,7 @@
         <updated>2021-10-29T00:45:35.102Z</updated>
         <summary type="html"><![CDATA[全面了解 Vue.js 函数式组件]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -473,7 +624,7 @@
         <updated>2021-10-29T00:45:35.020Z</updated>
         <summary type="html"><![CDATA[神器 Celery 源码解析（三）]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -483,7 +634,7 @@
         <updated>2021-10-29T00:45:34.938Z</updated>
         <summary type="html"><![CDATA[使用 grpcurl 通过命令行访问 gRPC 服务]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -493,7 +644,7 @@
         <updated>2021-10-29T00:45:34.851Z</updated>
         <summary type="html"><![CDATA[高并发 HTTP 请求实践]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -503,7 +654,7 @@
         <updated>2021-10-29T00:45:34.767Z</updated>
         <summary type="html"><![CDATA[分布式系统一致性测试框架 Jepsen 在女娲的实践应用]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -513,7 +664,7 @@
         <updated>2021-10-29T00:45:34.694Z</updated>
         <summary type="html"><![CDATA[用手写一个工具的过程讲清楚 Go 反射的使用方法和应用场景]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -523,7 +674,7 @@
         <updated>2021-10-29T00:45:34.551Z</updated>
         <summary type="html"><![CDATA[YouTube 故事中的视听语音增强]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -533,7 +684,7 @@
         <updated>2021-10-29T00:45:34.482Z</updated>
         <summary type="html"><![CDATA[数据中台实战（三）：用户分析（产品设计篇）]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -543,7 +694,7 @@
         <updated>2021-10-29T00:45:34.378Z</updated>
         <summary type="html"><![CDATA[如何接入 K8s 持久化存储？K8s CSI 实现机制浅析]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -553,7 +704,7 @@
         <updated>2021-10-29T00:45:32.856Z</updated>
         <summary type="html"><![CDATA[[推荐] 如何高效刷 LeetCode]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -563,7 +714,7 @@
         <updated>2021-10-29T00:45:31.836Z</updated>
         <summary type="html"><![CDATA[对抗 link rot]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -585,7 +736,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:13.553Z</updated>
         <summary type="html"><![CDATA[Java 进阶之深入理解负载均衡的 5 种算法实现原理]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -595,7 +746,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:13.261Z</updated>
         <summary type="html"><![CDATA[[推荐] 亿级流量架构演进实战：从零构建亿级流量 API 网关（一）]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -605,7 +756,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:13.157Z</updated>
         <summary type="html"><![CDATA[再谈 TCP 拥塞控制]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -615,7 +766,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:13.073Z</updated>
         <summary type="html"><![CDATA[怎样快速地构建正确的软件产品？]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -625,7 +776,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:13.004Z</updated>
         <summary type="html"><![CDATA[[推荐] 开源｜5 秒内克隆您的声音并生成任意语音内容]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -635,7 +786,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:12.936Z</updated>
         <summary type="html"><![CDATA[单例模式，真不简单]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -645,7 +796,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:12.844Z</updated>
         <summary type="html"><![CDATA[MPP 架构与 Hadoop 架构是一回事吗？]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -655,7 +806,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:12.775Z</updated>
         <summary type="html"><![CDATA[干货：探秘 WKWebView]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -665,7 +816,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:12.676Z</updated>
         <summary type="html"><![CDATA[Gin 源码阅读（五）：灵活的返回值处理]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -675,7 +826,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:12.551Z</updated>
         <summary type="html"><![CDATA[聊聊刷题中的 “顿悟” 时刻]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -685,7 +836,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:12.466Z</updated>
         <summary type="html"><![CDATA[关于 BGP 安全那些事儿]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -695,7 +846,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:12.397Z</updated>
         <summary type="html"><![CDATA[[推荐] Kafka 为什么要放弃 Zookeeper]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -705,7 +856,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:12.317Z</updated>
         <summary type="html"><![CDATA[Linux 内核：网络流量限速方案大 PK]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -715,7 +866,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:12.240Z</updated>
         <summary type="html"><![CDATA[HDFS 底层交互原理，看这篇就够了]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -725,7 +876,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:12.154Z</updated>
         <summary type="html"><![CDATA[Go 语言设计失误，缺乏远见？]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -735,7 +886,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:12.080Z</updated>
         <summary type="html"><![CDATA[给 MVC 三层架构加一层 Manager 层]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -745,7 +896,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:11.957Z</updated>
         <summary type="html"><![CDATA[OpenGait：首个步态识别框架开源了]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -755,7 +906,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:11.890Z</updated>
         <summary type="html"><![CDATA[面试官：如何实现扫码登录功能？]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -765,7 +916,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:11.586Z</updated>
         <summary type="html"><![CDATA[从 DDD 到 PaaS 化再到一站式部署：通天塔后端通用版发展之路]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -775,7 +926,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:11.439Z</updated>
         <summary type="html"><![CDATA[Sentinel-Go 源码系列（一）：开篇]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -785,7 +936,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:09.495Z</updated>
         <summary type="html"><![CDATA[等概率采样最大值的索引（蓄水池采样）]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -795,7 +946,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:09.240Z</updated>
         <summary type="html"><![CDATA[[推荐] ElasticSearch 存储成本省 60%，稿定科技干货分享]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -805,7 +956,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:09.177Z</updated>
         <summary type="html"><![CDATA[当前有一套测试库，剩余磁盘空间不多怎么弄]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
     <entry>
@@ -815,59 +966,7 @@ YY：国庆的时候趁着阿里云和腾讯云的轻量级服务器做促销一
         <updated>2021-10-22T00:55:08.898Z</updated>
         <summary type="html"><![CDATA[[推荐] [译] 写给工程师：关于证书和公钥基础设施的一切 (SmallStep, 2018)]]></summary>
         <author>
-            <name>开发者头条:星期日 2021-11-07</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.11.3]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3"/>
-        <updated>2021-10-16T00:01:47.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: broken links in documentation
-Chore: Dependency updates
-Thank you: @hirdot]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 面试字节，被操作系统问挂了]]></title>
-        <id>https://toutiao.io/k/8r0yjir</id>
-        <link href="https://toutiao.io/k/8r0yjir"/>
-        <updated>2021-10-15T00:51:54.756Z</updated>
-        <summary type="html"><![CDATA[[推荐] 面试字节，被操作系统问挂了]]></summary>
-        <author>
-            <name>开发者头条:星期日 2021-11-07</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 软件架构之原则、风格和实践]]></title>
-        <id>https://toutiao.io/k/24c1qgi</id>
-        <link href="https://toutiao.io/k/24c1qgi"/>
-        <updated>2021-10-15T00:51:54.310Z</updated>
-        <summary type="html"><![CDATA[[推荐] 软件架构之原则、风格和实践]]></summary>
-        <author>
-            <name>开发者头条:星期日 2021-11-07</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 一套优雅的 Go 错误问题解决方案]]></title>
-        <id>https://toutiao.io/k/8qf7wmi</id>
-        <link href="https://toutiao.io/k/8qf7wmi"/>
-        <updated>2021-10-15T00:51:54.226Z</updated>
-        <summary type="html"><![CDATA[[推荐] 一套优雅的 Go 错误问题解决方案]]></summary>
-        <author>
-            <name>开发者头条:星期日 2021-11-07</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 聊聊 JVM 调优]]></title>
-        <id>https://toutiao.io/k/tbiemos</id>
-        <link href="https://toutiao.io/k/tbiemos"/>
-        <updated>2021-10-15T00:51:54.029Z</updated>
-        <summary type="html"><![CDATA[[推荐] 聊聊 JVM 调优]]></summary>
-        <author>
-            <name>开发者头条:星期日 2021-11-07</name>
+            <name>开发者头条:星期日 2021-11-14</name>
         </author>
     </entry>
 </feed>
