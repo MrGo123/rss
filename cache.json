@@ -7,10 +7,145 @@
       "articles": []
     },
     {
-      "title": "开发者头条:星期日 2021-11-14",
+      "title": "开发者头条:今日头条 2021-11-22",
       "feedUrl": "https://rsshub.app/toutiao/today",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/ol9xtmo",
+          "author": null,
+          "description": "[推荐] 浅析 Web 录屏技术方案与实现",
+          "link": "https://toutiao.io/k/ol9xtmo",
+          "publishedOn": "2021-11-22T00:49:17.611Z",
+          "wordCount": 658,
+          "title": "[推荐] 浅析 Web 录屏技术方案与实现"
+        },
+        {
+          "id": "https://toutiao.io/k/g3u1qkm",
+          "author": null,
+          "description": "[推荐] 面渣逆袭：线程池夺命连环十八问",
+          "link": "https://toutiao.io/k/g3u1qkm",
+          "publishedOn": "2021-11-22T00:49:17.500Z",
+          "wordCount": 602,
+          "title": "[推荐] 面渣逆袭：线程池夺命连环十八问"
+        },
+        {
+          "id": "https://toutiao.io/k/omfqktk",
+          "author": null,
+          "description": "[推荐] 最全的 Git 常用命令速查（2021 版）",
+          "link": "https://toutiao.io/k/omfqktk",
+          "publishedOn": "2021-11-22T00:49:17.390Z",
+          "wordCount": 535,
+          "title": "[推荐] 最全的 Git 常用命令速查（2021 版）"
+        },
+        {
+          "id": "https://toutiao.io/k/rh7pc7w",
+          "author": null,
+          "description": "[推荐] 从 RPC 到服务化框架设计",
+          "link": "https://toutiao.io/k/rh7pc7w",
+          "publishedOn": "2021-11-22T00:49:17.297Z",
+          "wordCount": 398,
+          "title": "[推荐] 从 RPC 到服务化框架设计"
+        },
+        {
+          "id": "https://toutiao.io/k/jf3fksk",
+          "author": null,
+          "description": "Google Wave 的失败教训",
+          "link": "https://toutiao.io/k/jf3fksk",
+          "publishedOn": "2021-11-22T00:49:17.205Z",
+          "wordCount": 150,
+          "title": "Google Wave 的失败教训"
+        },
+        {
+          "id": "https://toutiao.io/k/n0wpt8l",
+          "author": null,
+          "description": "C/C++ 为什么要专门设计个 do…while？",
+          "link": "https://toutiao.io/k/n0wpt8l",
+          "publishedOn": "2021-11-22T00:49:17.116Z",
+          "wordCount": 324,
+          "title": "C/C++ 为什么要专门设计个 do…while？"
+        },
+        {
+          "id": "https://toutiao.io/k/phv9q33",
+          "author": null,
+          "description": "药物研发统计师的一天（试验设计篇）",
+          "link": "https://toutiao.io/k/phv9q33",
+          "publishedOn": "2021-11-22T00:49:16.990Z",
+          "wordCount": 97,
+          "title": "药物研发统计师的一天（试验设计篇）"
+        },
+        {
+          "id": "https://toutiao.io/k/ptbzpm7",
+          "author": null,
+          "description": "[推荐] 字节一面：Redis 主节点的 Key 已过期，但从节点依然读到过期数据",
+          "link": "https://toutiao.io/k/ptbzpm7",
+          "publishedOn": "2021-11-22T00:49:16.873Z",
+          "wordCount": 92,
+          "title": "[推荐] 字节一面：Redis 主节点的 Key 已过期，但从节点依然读到过期数据"
+        },
+        {
+          "id": "https://toutiao.io/k/vo7i0r2",
+          "author": null,
+          "description": "[推荐] 开源微服务 API 网关，单核 2 万 QPS，今年最值得学习的开源项目",
+          "link": "https://toutiao.io/k/vo7i0r2",
+          "publishedOn": "2021-11-22T00:49:16.762Z",
+          "wordCount": 71,
+          "title": "[推荐] 开源微服务 API 网关，单核 2 万 QPS，今年最值得学习的开源项目"
+        },
+        {
+          "id": "https://toutiao.io/k/ekvcpww",
+          "author": null,
+          "description": ".NET 6 新特性试用：Controller 支持 IAsyncDisposable",
+          "link": "https://toutiao.io/k/ekvcpww",
+          "publishedOn": "2021-11-22T00:49:16.631Z",
+          "wordCount": 155,
+          "title": ".NET 6 新特性试用：Controller 支持 IAsyncDisposable"
+        },
+        {
+          "id": "https://toutiao.io/k/q25g5er",
+          "author": null,
+          "description": "架构师三大难：领域划分问题",
+          "link": "https://toutiao.io/k/q25g5er",
+          "publishedOn": "2021-11-22T00:49:16.399Z",
+          "wordCount": 61,
+          "title": "架构师三大难：领域划分问题"
+        },
+        {
+          "id": "https://toutiao.io/k/txy7uyv",
+          "author": null,
+          "description": "[推荐] MySQL 默认隔离级别是 RR，为什么阿里这种大厂会改成 RC？",
+          "link": "https://toutiao.io/k/txy7uyv",
+          "publishedOn": "2021-11-22T00:49:15.879Z",
+          "wordCount": 304,
+          "title": "[推荐] MySQL 默认隔离级别是 RR，为什么阿里这种大厂会改成 RC？"
+        },
+        {
+          "id": "https://toutiao.io/k/nmwgk0i",
+          "author": null,
+          "description": "[推荐] 亿级流量系统架构演进之路",
+          "link": "https://toutiao.io/k/nmwgk0i",
+          "publishedOn": "2021-11-22T00:49:14.746Z",
+          "wordCount": 350,
+          "title": "[推荐] 亿级流量系统架构演进之路"
+        },
+        {
+          "id": "https://toutiao.io/k/48e8g89",
+          "author": null,
+          "description": "[推荐] 聊聊 SQL 优化的 15 个小技巧",
+          "link": "https://toutiao.io/k/48e8g89",
+          "publishedOn": "2021-11-22T00:49:13.674Z",
+          "wordCount": 16,
+          "title": "[推荐] 聊聊 SQL 优化的 15 个小技巧"
+        },
+        {
+          "id": "https://toutiao.io/k/eippx4u",
+          "author": null,
+          "description": "别被你的框架框住了",
+          "link": "https://toutiao.io/k/eippx4u",
+          "publishedOn": "2021-11-22T00:49:12.527Z",
+          "wordCount": 265,
+          "title": "别被你的框架框住了"
+        },
         {
           "id": "https://toutiao.io/k/86itcz7",
           "author": null,
@@ -640,222 +775,6 @@
           "publishedOn": "2021-10-29T00:45:31.836Z",
           "wordCount": 324,
           "title": "对抗 link rot"
-        },
-        {
-          "id": "https://toutiao.io/k/zdp512f",
-          "author": null,
-          "description": "Java 进阶之深入理解负载均衡的 5 种算法实现原理",
-          "link": "https://toutiao.io/k/zdp512f",
-          "publishedOn": "2021-10-22T00:55:13.553Z",
-          "wordCount": 453,
-          "title": "Java 进阶之深入理解负载均衡的 5 种算法实现原理"
-        },
-        {
-          "id": "https://toutiao.io/k/gez059v",
-          "author": null,
-          "description": "[推荐] 亿级流量架构演进实战：从零构建亿级流量 API 网关（一）",
-          "link": "https://toutiao.io/k/gez059v",
-          "publishedOn": "2021-10-22T00:55:13.261Z",
-          "wordCount": 295,
-          "title": "[推荐] 亿级流量架构演进实战：从零构建亿级流量 API 网关（一）"
-        },
-        {
-          "id": "https://toutiao.io/k/1rzyidu",
-          "author": null,
-          "description": "再谈 TCP 拥塞控制",
-          "link": "https://toutiao.io/k/1rzyidu",
-          "publishedOn": "2021-10-22T00:55:13.157Z",
-          "wordCount": 428,
-          "title": "再谈 TCP 拥塞控制"
-        },
-        {
-          "id": "https://toutiao.io/k/oozy51z",
-          "author": null,
-          "description": "怎样快速地构建正确的软件产品？",
-          "link": "https://toutiao.io/k/oozy51z",
-          "publishedOn": "2021-10-22T00:55:13.073Z",
-          "wordCount": 72,
-          "title": "怎样快速地构建正确的软件产品？"
-        },
-        {
-          "id": "https://toutiao.io/k/87ehz9q",
-          "author": null,
-          "description": "[推荐] 开源｜5 秒内克隆您的声音并生成任意语音内容",
-          "link": "https://toutiao.io/k/87ehz9q",
-          "publishedOn": "2021-10-22T00:55:13.004Z",
-          "wordCount": 88,
-          "title": "[推荐] 开源｜5 秒内克隆您的声音并生成任意语音内容"
-        },
-        {
-          "id": "https://toutiao.io/k/v6oak4s",
-          "author": null,
-          "description": "单例模式，真不简单",
-          "link": "https://toutiao.io/k/v6oak4s",
-          "publishedOn": "2021-10-22T00:55:12.936Z",
-          "wordCount": 1319,
-          "title": "单例模式，真不简单"
-        },
-        {
-          "id": "https://toutiao.io/k/9qdwtkk",
-          "author": null,
-          "description": "MPP 架构与 Hadoop 架构是一回事吗？",
-          "link": "https://toutiao.io/k/9qdwtkk",
-          "publishedOn": "2021-10-22T00:55:12.844Z",
-          "wordCount": 77,
-          "title": "MPP 架构与 Hadoop 架构是一回事吗？"
-        },
-        {
-          "id": "https://toutiao.io/k/o8r38dd",
-          "author": null,
-          "description": "干货：探秘 WKWebView",
-          "link": "https://toutiao.io/k/o8r38dd",
-          "publishedOn": "2021-10-22T00:55:12.775Z",
-          "wordCount": 470,
-          "title": "干货：探秘 WKWebView"
-        },
-        {
-          "id": "https://toutiao.io/k/2jpmi8x",
-          "author": null,
-          "description": "Gin 源码阅读（五）：灵活的返回值处理",
-          "link": "https://toutiao.io/k/2jpmi8x",
-          "publishedOn": "2021-10-22T00:55:12.676Z",
-          "wordCount": 421,
-          "title": "Gin 源码阅读（五）：灵活的返回值处理"
-        },
-        {
-          "id": "https://toutiao.io/k/ypqrcqh",
-          "author": null,
-          "description": "聊聊刷题中的 “顿悟” 时刻",
-          "link": "https://toutiao.io/k/ypqrcqh",
-          "publishedOn": "2021-10-22T00:55:12.551Z",
-          "wordCount": 431,
-          "title": "聊聊刷题中的 “顿悟” 时刻"
-        },
-        {
-          "id": "https://toutiao.io/k/x9xhpx8",
-          "author": null,
-          "description": "关于 BGP 安全那些事儿",
-          "link": "https://toutiao.io/k/x9xhpx8",
-          "publishedOn": "2021-10-22T00:55:12.466Z",
-          "wordCount": 108,
-          "title": "关于 BGP 安全那些事儿"
-        },
-        {
-          "id": "https://toutiao.io/k/98g49tv",
-          "author": null,
-          "description": "[推荐] Kafka 为什么要放弃 Zookeeper",
-          "link": "https://toutiao.io/k/98g49tv",
-          "publishedOn": "2021-10-22T00:55:12.397Z",
-          "wordCount": 100,
-          "title": "[推荐] Kafka 为什么要放弃 Zookeeper"
-        },
-        {
-          "id": "https://toutiao.io/k/3bj0cj6",
-          "author": null,
-          "description": "Linux 内核：网络流量限速方案大 PK",
-          "link": "https://toutiao.io/k/3bj0cj6",
-          "publishedOn": "2021-10-22T00:55:12.317Z",
-          "wordCount": 848,
-          "title": "Linux 内核：网络流量限速方案大 PK"
-        },
-        {
-          "id": "https://toutiao.io/k/1lykrd9",
-          "author": null,
-          "description": "HDFS 底层交互原理，看这篇就够了",
-          "link": "https://toutiao.io/k/1lykrd9",
-          "publishedOn": "2021-10-22T00:55:12.240Z",
-          "wordCount": 1214,
-          "title": "HDFS 底层交互原理，看这篇就够了"
-        },
-        {
-          "id": "https://toutiao.io/k/iqm8koq",
-          "author": null,
-          "description": "Go 语言设计失误，缺乏远见？",
-          "link": "https://toutiao.io/k/iqm8koq",
-          "publishedOn": "2021-10-22T00:55:12.154Z",
-          "wordCount": 472,
-          "title": "Go 语言设计失误，缺乏远见？"
-        },
-        {
-          "id": "https://toutiao.io/k/kcftpfu",
-          "author": null,
-          "description": "给 MVC 三层架构加一层 Manager 层",
-          "link": "https://toutiao.io/k/kcftpfu",
-          "publishedOn": "2021-10-22T00:55:12.080Z",
-          "wordCount": 289,
-          "title": "给 MVC 三层架构加一层 Manager 层"
-        },
-        {
-          "id": "https://toutiao.io/k/ig0mmia",
-          "author": null,
-          "description": "OpenGait：首个步态识别框架开源了",
-          "link": "https://toutiao.io/k/ig0mmia",
-          "publishedOn": "2021-10-22T00:55:11.957Z",
-          "wordCount": 62,
-          "title": "OpenGait：首个步态识别框架开源了"
-        },
-        {
-          "id": "https://toutiao.io/k/a6nt24o",
-          "author": null,
-          "description": "面试官：如何实现扫码登录功能？",
-          "link": "https://toutiao.io/k/a6nt24o",
-          "publishedOn": "2021-10-22T00:55:11.890Z",
-          "wordCount": 94,
-          "title": "面试官：如何实现扫码登录功能？"
-        },
-        {
-          "id": "https://toutiao.io/k/y2rictc",
-          "author": null,
-          "description": "从 DDD 到 PaaS 化再到一站式部署：通天塔后端通用版发展之路",
-          "link": "https://toutiao.io/k/y2rictc",
-          "publishedOn": "2021-10-22T00:55:11.586Z",
-          "wordCount": 60,
-          "title": "从 DDD 到 PaaS 化再到一站式部署：通天塔后端通用版发展之路"
-        },
-        {
-          "id": "https://toutiao.io/k/u1baj7t",
-          "author": null,
-          "description": "Sentinel-Go 源码系列（一）：开篇",
-          "link": "https://toutiao.io/k/u1baj7t",
-          "publishedOn": "2021-10-22T00:55:11.439Z",
-          "wordCount": 231,
-          "title": "Sentinel-Go 源码系列（一）：开篇"
-        },
-        {
-          "id": "https://toutiao.io/k/j8ll78q",
-          "author": null,
-          "description": "等概率采样最大值的索引（蓄水池采样）",
-          "link": "https://toutiao.io/k/j8ll78q",
-          "publishedOn": "2021-10-22T00:55:09.495Z",
-          "wordCount": 427,
-          "title": "等概率采样最大值的索引（蓄水池采样）"
-        },
-        {
-          "id": "https://toutiao.io/k/oy304tv",
-          "author": null,
-          "description": "[推荐] ElasticSearch 存储成本省 60%，稿定科技干货分享",
-          "link": "https://toutiao.io/k/oy304tv",
-          "publishedOn": "2021-10-22T00:55:09.240Z",
-          "wordCount": 244,
-          "title": "[推荐] ElasticSearch 存储成本省 60%，稿定科技干货分享"
-        },
-        {
-          "id": "https://toutiao.io/k/gb9y8um",
-          "author": null,
-          "description": "当前有一套测试库，剩余磁盘空间不多怎么弄",
-          "link": "https://toutiao.io/k/gb9y8um",
-          "publishedOn": "2021-10-22T00:55:09.177Z",
-          "wordCount": 273,
-          "title": "当前有一套测试库，剩余磁盘空间不多怎么弄"
-        },
-        {
-          "id": "https://toutiao.io/k/qnglkcl",
-          "author": null,
-          "description": "[推荐] [译] 写给工程师：关于证书和公钥基础设施的一切 (SmallStep, 2018)",
-          "link": "https://toutiao.io/k/qnglkcl",
-          "publishedOn": "2021-10-22T00:55:08.898Z",
-          "wordCount": 3872,
-          "title": "[推荐] [译] 写给工程师：关于证书和公钥基础设施的一切 (SmallStep, 2018)"
         }
       ]
     },
