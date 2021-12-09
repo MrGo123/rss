@@ -2,5 +2,5 @@ cacheUrl: https://MrGo123.github.io/rss/cache.json
 sources:
    - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
    - href: https://coolshell.cn/feed
-   # - href: https://rsshub.app/toutiao/today
    - href: https://shansan.top/rss2.xml
+   # - href: https://rsshub.app/toutiao/today
