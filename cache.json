@@ -1,0 +1,61 @@
+{
+  "sources": [
+    {
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "articles": []
+    },
+    {
+      "title": "酷 壳 – CoolShell",
+      "feedUrl": "https://coolshell.cn/feed",
+      "siteUrl": "https://coolshell.cn",
+      "articles": [
+        {
+          "id": "https://coolshell.cn/?p=21649",
+          "author": "陈皓",
+          "description": "最近，我们在 Github 的 Code Review 中看到 Github 开始出现下面这个 Warning 信息—— “This file contains...\n Read More  Read More\n源代码特洛伊木马攻击 first appeared on 酷 壳 - CoolShell.",
+          "link": "https://coolshell.cn/articles/21649.html",
+          "publishedOn": "2021-11-19T09:02:46.000Z",
+          "wordCount": 995,
+          "title": "源代码特洛伊木马攻击"
+        }
+      ]
+    },
+    {
+      "title": "ShanSan",
+      "feedUrl": "https://shansan.top/rss2.xml",
+      "siteUrl": "https://yeshan333.github.io/",
+      "articles": [
+        {
+          "id": "https://yeshan333.github.io/2021/12/04/deserve/",
+          "author": null,
+          "description": "今天凌晨五点就醒了，积累了好多好多的情绪啊！",
+          "link": "https://yeshan333.github.io/2021/12/04/deserve/",
+          "publishedOn": "2021-12-04T06:49:35.000Z",
+          "wordCount": 101,
+          "title": "Deserve"
+        },
+        {
+          "id": "https://yeshan333.github.io/2021/11/27/loopback-addr/",
+          "author": null,
+          "description": "心血来潮，小水一篇！\n回环地址（loopback address）\n\nloopback 在维基百科上有一段这样的解释：Loopback (also written loop-back) is the routing of electronic signals or digital data streams back to their source without intentional processing or modification. It is primarily a means of testing the communications infrastructure.\n通熟的说就是将由“源”发送出去的数据路由回“源”。",
+          "link": "https://yeshan333.github.io/2021/11/27/loopback-addr/",
+          "publishedOn": "2021-11-27T11:41:50.000Z",
+          "wordCount": 332,
+          "title": "回环地址的一点儿破事"
+        },
+        {
+          "id": "https://yeshan333.github.io/2021/11/14/back-to-october/",
+          "author": null,
+          "description": "<script src=\"/assets/js/APlayer.min.js\"",
+          "link": "https://yeshan333.github.io/2021/11/14/back-to-october/",
+          "publishedOn": "2021-11-14T10:21:37.000Z",
+          "wordCount": 219,
+          "title": "回到十月-生活中的一点儿小确幸"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.11.3"
+}
