@@ -12,13 +12,13 @@
       "siteUrl": "https://coolshell.cn",
       "articles": [
         {
-          "id": "https://coolshell.cn/?p=21649",
+          "id": "https://coolshell.cn/?p=21672",
           "author": "陈皓",
-          "description": "最近，我们在 Github 的 Code Review 中看到 Github 开始出现下面这个 Warning 信息—— “This file contains...\n Read More  Read More\n源代码特洛伊木马攻击 first appeared on 酷 壳 - CoolShell.",
-          "link": "https://coolshell.cn/articles/21649.html",
-          "publishedOn": "2021-11-19T09:02:46.000Z",
-          "wordCount": 995,
-          "title": "源代码特洛伊木马攻击"
+          "description": "工作 20 多年了，这 20 来年看到了很多公司系统架构，也看到了很多问题，在跟这些公司进行交流和讨论的时候，包括进行实施和方案比较的时候，都有很多各种方案的比...\n Read More  Read More\n我做系统架构的一些原则 first appeared on 酷 壳 - CoolShell.",
+          "link": "https://coolshell.cn/articles/21672.html",
+          "publishedOn": "2021-12-21T07:46:41.000Z",
+          "wordCount": 1140,
+          "title": "我做系统架构的一些原则"
         }
       ]
     },
