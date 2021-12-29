@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-22T00:29:43.733Z</updated>
+    <updated>2021-12-29T00:28:15.483Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Git 仓库瘦身与 LFS 大文件存储]]></title>
+        <id>https://yeshan333.github.io/2021/12/26/git-lfs-and-thin-repo/</id>
+        <link href="https://yeshan333.github.io/2021/12/26/git-lfs-and-thin-repo/"/>
+        <updated>2021-12-26T16:26:23.000Z</updated>
+        <summary type="html"><![CDATA[熟悉 Git 的小伙伴应该都知道随着 Git 仓库维护的时间越来越久，追踪的文件越来越多，git 存储的 objects 数量会极其庞大，每次从远程仓库 git clone 的时候都会墨迹很久。如果我们不小心 git add 了一个体积很大的文件，且 git push 到了远程仓库，那么我们 git clone 的时候也会很慢。
+看一下 GitHub 上的 microsoft/vscode 仓库，都有 九万多个 commit 了，可想而知 objects 的数量应该很恐怖，尝试 clone 一下（一百多万个 objects）：]]></summary>
+        <author>
+            <name>ShanSan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做系统架构的一些原则]]></title>
         <id>https://coolshell.cn/?p=21672</id>
@@ -24,20 +35,6 @@
         <link href="https://yeshan333.github.io/2021/12/04/deserve/"/>
         <updated>2021-12-04T06:49:35.000Z</updated>
         <summary type="html"><![CDATA[今天凌晨五点就醒了，积累了好多好多的情绪啊！]]></summary>
-        <author>
-            <name>ShanSan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回环地址的一点儿破事]]></title>
-        <id>https://yeshan333.github.io/2021/11/27/loopback-addr/</id>
-        <link href="https://yeshan333.github.io/2021/11/27/loopback-addr/"/>
-        <updated>2021-11-27T11:41:50.000Z</updated>
-        <summary type="html"><![CDATA[心血来潮，小水一篇！
-回环地址（loopback address）
-
-loopback 在维基百科上有一段这样的解释：Loopback (also written loop-back) is the routing of electronic signals or digital data streams back to their source without intentional processing or modification. It is primarily a means of testing the communications infrastructure.
-通熟的说就是将由“源”发送出去的数据路由回“源”。]]></summary>
         <author>
             <name>ShanSan</name>
         </author>

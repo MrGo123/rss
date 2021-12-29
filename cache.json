@@ -28,6 +28,15 @@
       "siteUrl": "https://yeshan333.github.io/",
       "articles": [
         {
+          "id": "https://yeshan333.github.io/2021/12/26/git-lfs-and-thin-repo/",
+          "author": null,
+          "description": "熟悉 Git 的小伙伴应该都知道随着 Git 仓库维护的时间越来越久，追踪的文件越来越多，git 存储的 objects 数量会极其庞大，每次从远程仓库 git clone 的时候都会墨迹很久。如果我们不小心 git add 了一个体积很大的文件，且 git push 到了远程仓库，那么我们 git clone 的时候也会很慢。\n看一下 GitHub 上的 microsoft/vscode 仓库，都有 九万多个 commit 了，可想而知 objects 的数量应该很恐怖，尝试 clone 一下（一百多万个 objects）：",
+          "link": "https://yeshan333.github.io/2021/12/26/git-lfs-and-thin-repo/",
+          "publishedOn": "2021-12-26T16:26:23.000Z",
+          "wordCount": 734,
+          "title": "Git 仓库瘦身与 LFS 大文件存储"
+        },
+        {
           "id": "https://yeshan333.github.io/2021/12/04/deserve/",
           "author": null,
           "description": "今天凌晨五点就醒了，积累了好多好多的情绪啊！",
@@ -35,15 +44,6 @@
           "publishedOn": "2021-12-04T06:49:35.000Z",
           "wordCount": 101,
           "title": "Deserve"
-        },
-        {
-          "id": "https://yeshan333.github.io/2021/11/27/loopback-addr/",
-          "author": null,
-          "description": "心血来潮，小水一篇！\n回环地址（loopback address）\n\nloopback 在维基百科上有一段这样的解释：Loopback (also written loop-back) is the routing of electronic signals or digital data streams back to their source without intentional processing or modification. It is primarily a means of testing the communications infrastructure.\n通熟的说就是将由“源”发送出去的数据路由回“源”。",
-          "link": "https://yeshan333.github.io/2021/11/27/loopback-addr/",
-          "publishedOn": "2021-11-27T11:41:50.000Z",
-          "wordCount": 332,
-          "title": "回环地址的一点儿破事"
         }
       ]
     }
