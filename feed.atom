@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-01T00:29:44.716Z</updated>
+    <updated>2022-01-08T00:29:41.397Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[网络数字身份认证术]]></title>
+        <id>https://coolshell.cn/?p=21708</id>
+        <link href="https://coolshell.cn/articles/21708.html"/>
+        <updated>2022-01-02T08:38:13.000Z</updated>
+        <summary type="html"><![CDATA[这篇文章是《HTTP API 认证授权术》的姊妹篇，在那篇文章中，主要介绍了 HTTP API 认证和授权技术中用到的 HTTP Basic, Digest A...
+ Read More  Read More
+网络数字身份认证术 first appeared on 酷 壳 - CoolShell.]]></summary>
+        <author>
+            <name>陈皓</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 | 肆意随心]]></title>
+        <id>https://yeshan333.github.io/2022/01/01/2021-annual-reviewed/</id>
+        <link href="https://yeshan333.github.io/2022/01/01/2021-annual-reviewed/"/>
+        <updated>2022-01-01T12:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Yeah
+“兜兜转转”又一年了，又到了该水年度 Review 的时候啦✅❇️。
+算下来，博客三年了，准备开启新的三年了。这篇总结也算是第三篇总结了，3 - 可以说是我很喜欢的数字，挺多网名（ShanSan、yeshan333），还有博客域名（shansan.top、shan333.cn、…）是和“三”有关的（and so on），也算是“谐音梗”啦😎？
+回头看看之前写的几篇总结，还挺有意思的。21 年似乎并没有太多那么刻意去做的事，想到了就去试试了。这一次，不需要那么的有条理性，随手一记。]]></summary>
+        <author>
+            <name>ShanSan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Git 仓库瘦身与 LFS 大文件存储]]></title>
         <id>https://yeshan333.github.io/2021/12/26/git-lfs-and-thin-repo/</id>
@@ -27,16 +52,6 @@
 我做系统架构的一些原则 first appeared on 酷 壳 - CoolShell.]]></summary>
         <author>
             <name>陈皓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deserve]]></title>
-        <id>https://yeshan333.github.io/2021/12/04/deserve/</id>
-        <link href="https://yeshan333.github.io/2021/12/04/deserve/"/>
-        <updated>2021-12-04T06:49:35.000Z</updated>
-        <summary type="html"><![CDATA[今天凌晨五点就醒了，积累了好多好多的情绪啊！]]></summary>
-        <author>
-            <name>ShanSan</name>
         </author>
     </entry>
 </feed>
