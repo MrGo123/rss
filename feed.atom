@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-08T00:29:41.397Z</updated>
-    <generator>osmosfeed 1.11.3</generator>
+    <updated>2022-01-14T13:11:35.503Z</updated>
+    <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 192 期）：最大的机会来自新技术]]></title>
+        <id>http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html"/>
+        <updated>2022-01-14T00:39:50.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.12.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0"/>
+        <updated>2022-01-10T05:25:18.000Z</updated>
+        <summary type="html"><![CDATA[New: When one of the sources download fails, fall back to cache and continue rest of the build.
+Chore: Dependency updates
+Added docs for Netlify deployment
+Fixed #71 #69 #65
+Thank you: @sokomin, @molakirlee, @philippnagel, @tianheg]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 191 期）：一个程序员的财务独立之路]]></title>
+        <id>http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html"/>
+        <updated>2022-01-07T00:34:18.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[网络数字身份认证术]]></title>
         <id>https://coolshell.cn/?p=21708</id>
@@ -29,6 +63,16 @@
 回头看看之前写的几篇总结，还挺有意思的。21 年似乎并没有太多那么刻意去做的事，想到了就去试试了。这一次，不需要那么的有条理性，随手一记。]]></summary>
         <author>
             <name>ShanSan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 190 期）：产品化思维]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html"/>
+        <updated>2021-12-31T00:32:53.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>

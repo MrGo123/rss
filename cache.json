@@ -4,7 +4,17 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0",
+          "author": null,
+          "description": "New: When one of the sources download fails, fall back to cache and continue rest of the build.\nChore: Dependency updates\nAdded docs for Netlify deployment\nFixed #71 #69 #65\nThank you: @sokomin, @molakirlee, @philippnagel, @tianheg",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0",
+          "publishedOn": "2022-01-10T05:25:18.000Z",
+          "wordCount": 310,
+          "title": "v1.12.0"
+        }
+      ]
     },
     {
       "title": "酷 壳 – CoolShell",
@@ -55,7 +65,41 @@
           "title": "Git 仓库瘦身与 LFS 大文件存储"
         }
       ]
+    },
+    {
+      "title": "阮一峰的网络日志",
+      "feedUrl": "https://www.ruanyifeng.com/blog/atom.xml",
+      "siteUrl": "http://www.ruanyifeng.com/blog/",
+      "articles": [
+        {
+          "id": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html",
+          "publishedOn": "2022-01-14T00:39:50.000Z",
+          "wordCount": 797,
+          "title": "科技爱好者周刊（第 192 期）：最大的机会来自新技术"
+        },
+        {
+          "id": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html",
+          "publishedOn": "2022-01-07T00:34:18.000Z",
+          "wordCount": 1087,
+          "title": "科技爱好者周刊（第 191 期）：一个程序员的财务独立之路"
+        },
+        {
+          "id": "http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html",
+          "publishedOn": "2021-12-31T00:32:53.000Z",
+          "wordCount": 1450,
+          "title": "科技爱好者周刊（第 190 期）：产品化思维"
+        }
+      ]
     }
   ],
-  "cliVersion": "1.11.3"
+  "cliVersion": "1.12.0"
 }
