@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-15T00:29:04.421Z</updated>
+    <updated>2022-01-22T00:26:32.599Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 193 期）：前端与后端，谁更难？]]></title>
+        <id>http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html"/>
+        <updated>2022-01-21T00:48:38.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。（[通知] 下周欢度春节，周刊暂停，2月11日恢复。）...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 192 期）：最大的机会来自新技术]]></title>
         <id>http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html</id>
@@ -84,18 +94,6 @@ Thank you: @sokomin, @molakirlee, @philippnagel, @tianheg]]></summary>
 看一下 GitHub 上的 microsoft/vscode 仓库，都有 九万多个 commit 了，可想而知 objects 的数量应该很恐怖，尝试 clone 一下（一百多万个 objects）：]]></summary>
         <author>
             <name>ShanSan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做系统架构的一些原则]]></title>
-        <id>https://coolshell.cn/?p=21672</id>
-        <link href="https://coolshell.cn/articles/21672.html"/>
-        <updated>2021-12-21T07:46:41.000Z</updated>
-        <summary type="html"><![CDATA[工作 20 多年了，这 20 来年看到了很多公司系统架构，也看到了很多问题，在跟这些公司进行交流和讨论的时候，包括进行实施和方案比较的时候，都有很多各种方案的比...
- Read More  Read More
-我做系统架构的一些原则 first appeared on 酷 壳 - CoolShell.]]></summary>
-        <author>
-            <name>陈皓</name>
         </author>
     </entry>
 </feed>

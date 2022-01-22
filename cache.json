@@ -29,15 +29,6 @@
           "publishedOn": "2022-01-02T08:38:13.000Z",
           "wordCount": 976,
           "title": "网络数字身份认证术"
-        },
-        {
-          "id": "https://coolshell.cn/?p=21672",
-          "author": "陈皓",
-          "description": "工作 20 多年了，这 20 来年看到了很多公司系统架构，也看到了很多问题，在跟这些公司进行交流和讨论的时候，包括进行实施和方案比较的时候，都有很多各种方案的比...\n Read More  Read More\n我做系统架构的一些原则 first appeared on 酷 壳 - CoolShell.",
-          "link": "https://coolshell.cn/articles/21672.html",
-          "publishedOn": "2021-12-21T07:46:41.000Z",
-          "wordCount": 1140,
-          "title": "我做系统架构的一些原则"
         }
       ]
     },
@@ -71,6 +62,15 @@
       "feedUrl": "https://www.ruanyifeng.com/blog/atom.xml",
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
+        {
+          "id": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周欢度春节，周刊暂停，2月11日恢复。）...",
+          "link": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html",
+          "publishedOn": "2022-01-21T00:48:38.000Z",
+          "wordCount": 766,
+          "title": "科技爱好者周刊（第 193 期）：前端与后端，谁更难？"
+        },
         {
           "id": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html",
           "author": null,
