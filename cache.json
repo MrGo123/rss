@@ -45,15 +45,6 @@
           "publishedOn": "2022-01-01T12:55:00.000Z",
           "wordCount": 395,
           "title": "2021 | 肆意随心"
-        },
-        {
-          "id": "https://yeshan333.github.io/2021/12/26/git-lfs-and-thin-repo/",
-          "author": null,
-          "description": "熟悉 Git 的小伙伴应该都知道随着 Git 仓库维护的时间越来越久，追踪的文件越来越多，git 存储的 objects 数量会极其庞大，每次从远程仓库 git clone 的时候都会墨迹很久。如果我们不小心 git add 了一个体积很大的文件，且 git push 到了远程仓库，那么我们 git clone 的时候也会很慢。\n看一下 GitHub 上的 microsoft/vscode 仓库，都有 九万多个 commit 了，可想而知 objects 的数量应该很恐怖，尝试 clone 一下（一百多万个 objects）：",
-          "link": "https://yeshan333.github.io/2021/12/26/git-lfs-and-thin-repo/",
-          "publishedOn": "2021-12-26T16:26:23.000Z",
-          "wordCount": 734,
-          "title": "Git 仓库瘦身与 LFS 大文件存储"
         }
       ]
     },
