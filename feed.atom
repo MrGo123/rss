@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-08T00:34:18.792Z</updated>
+    <updated>2022-03-15T00:35:11.335Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
@@ -78,58 +78,6 @@ Fixed: Horizontal overflow on Safari
 Fixed: HTML syntax error in default template]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.13.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0"/>
-        <updated>2022-02-13T05:05:17.000Z</updated>
-        <summary type="html"><![CDATA[New: Thumbnail image display for each article
-New: Improved color, spacing, and typography for easier reading
-New: Click the date to toggle all accordions on that day. Ctrl + Click to toggle all accordions on the entire site.
-Changed: All sections are expanded by default
-Changed: Switched to vitest for easier testing
-Fixed: Long string (e.g. URL) caused horizontal overflow
-Thank you: @naari3, @tianheg]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“一把梭：REST API 全用 POST ”]]></title>
-        <id>https://coolshell.cn/?p=22173</id>
-        <link href="https://coolshell.cn/articles/22173.html"/>
-        <updated>2022-02-13T04:28:47.000Z</updated>
-        <summary type="html"><![CDATA[写这篇文章的原因主要还是因为V2EX上的这个贴子，这个贴子中说—— “对接同事的接口，他定义的所有接口都是 post 请求，理由是 https 用 post 更...
- Read More  Read More
-“一把梭：REST API 全用 POST ” first appeared on 酷 壳 - CoolShell.]]></summary>
-        <author>
-            <name>陈皓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.12.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1"/>
-        <updated>2022-02-12T17:46:42.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Future articles appeared in the feed
-Fxied: Security vulnerability from axios
-Thank you: @naari3]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谈谈公司对员工的监控]]></title>
-        <id>https://coolshell.cn/?p=22157</id>
-        <link href="https://coolshell.cn/articles/22157.html"/>
-        <updated>2022-02-12T07:50:06.000Z</updated>
-        <summary type="html"><![CDATA[今天看到微博上有一个热点事件， 是一个关于某公司做的一个监控员工离职倾向的软件，从截图中可以看到员工访问招聘网站的次数，还有投递的简历以及搜索的关建词等等信息，...
- Read More  Read More
-谈谈公司对员工的监控 first appeared on 酷 壳 - CoolShell.]]></summary>
-        <author>
-            <name>陈皓</name>
         </author>
     </entry>
     <entry>
