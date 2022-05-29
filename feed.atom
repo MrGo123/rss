@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-22T00:44:21.873Z</updated>
+    <updated>2022-05-29T00:48:45.712Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
@@ -16,16 +16,6 @@
 ETCD的内存问题 first appeared on 酷 壳 - CoolShell.]]></summary>
         <author>
             <name>陈皓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(译)理解 Prometheus 的范围向量 (Range Vector)]]></title>
-        <id>https://yeshan333.github.io/2022/04/23/understanding-prometheus-range-vectors/</id>
-        <link href="https://yeshan333.github.io/2022/04/23/understanding-prometheus-range-vectors/"/>
-        <updated>2022-04-23T15:38:37.000Z</updated>
-        <summary type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"]]></summary>
-        <author>
-            <name>ShanSan</name>
         </author>
     </entry>
     <entry>
