@@ -4,7 +4,18 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
+          "author": null,
+          "description": "Added: Resolve relative URLs in item link and media\nAdded: Item thumbnail fallback to channel thumbnail\nChore: Dependency updates\nThank you: @cpwnd",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
+          "publishedOn": "2022-06-18T19:01:33.000Z",
+          "wordCount": 281,
+          "title": "v1.15.0",
+          "imageUrl": "https://opengraph.githubassets.com/ce00272fbcf40921811c2125a0228c3b60c8a0b083dbaf2601960d034cc3be27/osmoscraft/osmosfeed/releases/tag/v1.15.0"
+        }
+      ]
     },
     {
       "title": "酷 壳 – CoolShell",
@@ -16,7 +27,68 @@
       "title": "ShanSan",
       "feedUrl": "https://shansan.top/rss2.xml",
       "siteUrl": "https://yeshan333.github.io/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-6-in-place-code-generation/",
+          "author": null,
+          "description": "<script src=\"/assets/js/APlayer.min.js\"",
+          "link": "https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-6-in-place-code-generation/",
+          "publishedOn": "2022-06-19T17:47:21.000Z",
+          "wordCount": 3463,
+          "title": "(译) Understanding Elixir Macros, Part 6 - In-place Code Generation",
+          "imageUrl": "https://img.vim-cn.com/bb/db444be0b7fda59c69d5c64167f9668b0b66bd.png"
+        },
+        {
+          "id": "https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-5-reshaping-the-ast/",
+          "author": null,
+          "description": "<script src=\"/assets/js/APlayer.min.js\"",
+          "link": "https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-5-reshaping-the-ast/",
+          "publishedOn": "2022-06-19T16:56:29.000Z",
+          "wordCount": 2768,
+          "title": "(译) Understanding Elixir Macros, Part 5 - Reshaping the AST",
+          "imageUrl": "https://img.vim-cn.com/bb/db444be0b7fda59c69d5c64167f9668b0b66bd.png"
+        },
+        {
+          "id": "https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-4-diving-deeper/",
+          "author": null,
+          "description": "<script src=\"/assets/js/APlayer.min.js\"",
+          "link": "https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-4-diving-deeper/",
+          "publishedOn": "2022-06-19T12:02:19.000Z",
+          "wordCount": 2835,
+          "title": "(译) Understanding Elixir Macros, Part 4 - Diving Deeper",
+          "imageUrl": "https://img.vim-cn.com/bb/db444be0b7fda59c69d5c64167f9668b0b66bd.png"
+        },
+        {
+          "id": "https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-3-gettingto-the-ast/",
+          "author": null,
+          "description": "<script src=\"/assets/js/APlayer.min.js\"",
+          "link": "https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-3-gettingto-the-ast/",
+          "publishedOn": "2022-06-19T10:53:07.000Z",
+          "wordCount": 2834,
+          "title": "(译) Understanding Elixir Macros, Part 3 - Getting into the AST",
+          "imageUrl": "https://img.vim-cn.com/bb/db444be0b7fda59c69d5c64167f9668b0b66bd.png"
+        },
+        {
+          "id": "https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-2-macro-theory/",
+          "author": null,
+          "description": "<script src=\"/assets/js/APlayer.min.js\"",
+          "link": "https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-2-macro-theory/",
+          "publishedOn": "2022-06-19T00:36:03.000Z",
+          "wordCount": 3012,
+          "title": "(译) Understanding Elixir Macros, Part 2 - Micro Theory",
+          "imageUrl": "https://img.vim-cn.com/bb/db444be0b7fda59c69d5c64167f9668b0b66bd.png"
+        },
+        {
+          "id": "https://yeshan333.github.io/2022/06/18/understanding-elixir-macros-part-1-basics/",
+          "author": null,
+          "description": "<script src=\"/assets/js/APlayer.min.js\"",
+          "link": "https://yeshan333.github.io/2022/06/18/understanding-elixir-macros-part-1-basics/",
+          "publishedOn": "2022-06-18T14:13:45.000Z",
+          "wordCount": 3232,
+          "title": "(译) Understanding Elixir Macros, Part 1 Basics",
+          "imageUrl": "https://img.vim-cn.com/bb/db444be0b7fda59c69d5c64167f9668b0b66bd.png"
+        }
+      ]
     },
     {
       "title": "阮一峰的网络日志",
@@ -62,5 +134,5 @@
       ]
     }
   ],
-  "cliVersion": "1.14.4"
+  "cliVersion": "1.15.0"
 }
