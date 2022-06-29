@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-22T00:53:20.613Z</updated>
-    <generator>osmosfeed 1.15.0</generator>
+    <updated>2022-06-29T00:47:10.947Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[v1.15.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1"/>
+        <updated>2022-06-22T06:05:35.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: Favicon used as article image]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(译) Understanding Elixir Macros, Part 6 - In-place Code Generation]]></title>
         <id>https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-6-in-place-code-generation/</id>
