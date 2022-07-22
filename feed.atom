@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-15T00:57:03.038Z</updated>
+    <updated>2022-07-22T00:55:07.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
@@ -11,89 +11,6 @@
         <id>https://yeshan333.github.io/2022/06/29/elixir-run-time-code-line-level-coverage-collection/</id>
         <link href="https://yeshan333.github.io/2022/06/29/elixir-run-time-code-line-level-coverage-collection/"/>
         <updated>2022-06-29T23:14:26.000Z</updated>
-        <summary type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"]]></summary>
-        <author>
-            <name>ShanSan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.15.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1"/>
-        <updated>2022-06-22T06:05:35.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Favicon used as article image]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(译) Understanding Elixir Macros, Part 6 - In-place Code Generation]]></title>
-        <id>https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-6-in-place-code-generation/</id>
-        <link href="https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-6-in-place-code-generation/"/>
-        <updated>2022-06-19T17:47:21.000Z</updated>
-        <summary type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"]]></summary>
-        <author>
-            <name>ShanSan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(译) Understanding Elixir Macros, Part 5 - Reshaping the AST]]></title>
-        <id>https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-5-reshaping-the-ast/</id>
-        <link href="https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-5-reshaping-the-ast/"/>
-        <updated>2022-06-19T16:56:29.000Z</updated>
-        <summary type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"]]></summary>
-        <author>
-            <name>ShanSan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(译) Understanding Elixir Macros, Part 4 - Diving Deeper]]></title>
-        <id>https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-4-diving-deeper/</id>
-        <link href="https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-4-diving-deeper/"/>
-        <updated>2022-06-19T12:02:19.000Z</updated>
-        <summary type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"]]></summary>
-        <author>
-            <name>ShanSan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(译) Understanding Elixir Macros, Part 3 - Getting into the AST]]></title>
-        <id>https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-3-gettingto-the-ast/</id>
-        <link href="https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-3-gettingto-the-ast/"/>
-        <updated>2022-06-19T10:53:07.000Z</updated>
-        <summary type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"]]></summary>
-        <author>
-            <name>ShanSan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(译) Understanding Elixir Macros, Part 2 - Micro Theory]]></title>
-        <id>https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-2-macro-theory/</id>
-        <link href="https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-2-macro-theory/"/>
-        <updated>2022-06-19T00:36:03.000Z</updated>
-        <summary type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"]]></summary>
-        <author>
-            <name>ShanSan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.15.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0"/>
-        <updated>2022-06-18T19:01:33.000Z</updated>
-        <summary type="html"><![CDATA[Added: Resolve relative URLs in item link and media
-Added: Item thumbnail fallback to channel thumbnail
-Chore: Dependency updates
-Thank you: @cpwnd]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(译) Understanding Elixir Macros, Part 1 Basics]]></title>
-        <id>https://yeshan333.github.io/2022/06/18/understanding-elixir-macros-part-1-basics/</id>
-        <link href="https://yeshan333.github.io/2022/06/18/understanding-elixir-macros-part-1-basics/"/>
-        <updated>2022-06-18T14:13:45.000Z</updated>
         <summary type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"]]></summary>
         <author>
             <name>ShanSan</name>
