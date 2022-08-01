@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-29T00:53:07.761Z</updated>
+    <updated>2022-08-01T01:00:15.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[Elixir 连续运行时代码覆盖率采集方案]]></title>
-        <id>https://yeshan333.github.io/2022/06/29/elixir-run-time-code-line-level-coverage-collection/</id>
-        <link href="https://yeshan333.github.io/2022/06/29/elixir-run-time-code-line-level-coverage-collection/"/>
-        <updated>2022-06-29T23:14:26.000Z</updated>
-        <summary type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"]]></summary>
-        <author>
-            <name>ShanSan</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 193 期）：前端与后端，谁更难？]]></title>
         <id>http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html</id>

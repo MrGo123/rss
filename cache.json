@@ -16,18 +16,7 @@
       "title": "ShanSan",
       "feedUrl": "https://shansan.top/rss2.xml",
       "siteUrl": "https://yeshan333.github.io/",
-      "articles": [
-        {
-          "id": "https://yeshan333.github.io/2022/06/29/elixir-run-time-code-line-level-coverage-collection/",
-          "author": null,
-          "description": "<script src=\"/assets/js/APlayer.min.js\"",
-          "link": "https://yeshan333.github.io/2022/06/29/elixir-run-time-code-line-level-coverage-collection/",
-          "publishedOn": "2022-06-29T23:14:26.000Z",
-          "wordCount": 3915,
-          "title": "Elixir 连续运行时代码覆盖率采集方案",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "阮一峰的网络日志",
