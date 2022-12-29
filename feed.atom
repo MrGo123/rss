@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-22T00:40:35.262Z</updated>
+    <updated>2022-12-29T00:42:09.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
@@ -28,16 +28,6 @@
 eBPF 介绍 first appeared on 酷 壳 - CoolShell.]]></summary>
         <author>
             <name>陈皓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（译）Elixir Tip: Case vs. With]]></title>
-        <id>https://yeshan333.github.io/2022/11/26/Elixir-Tip-Case-vs-With/</id>
-        <link href="https://yeshan333.github.io/2022/11/26/Elixir-Tip-Case-vs-With/"/>
-        <updated>2022-11-26T23:10:46.000Z</updated>
-        <summary type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"]]></summary>
-        <author>
-            <name>ShanSan</name>
         </author>
     </entry>
     <entry>
