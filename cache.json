@@ -10,7 +10,18 @@
       "title": "酷 壳 – CoolShell",
       "feedUrl": "https://coolshell.cn/feed",
       "siteUrl": "https://coolshell.cn",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://coolshell.cn/?p=22367",
+          "author": "陈皓",
+          "description": "这两天在网络上又有一个东西火了，Twitter 的创始人 @jack 新的社交 iOS App  Damus 上苹果商店（第二天就因为违反中国法律在中国区下架了...\n Read More  Read More\n聊聊 nostr 和 审查 first appeared on 酷 壳 - CoolShell.",
+          "link": "https://coolshell.cn/articles/22367.html",
+          "publishedOn": "2023-02-03T07:46:13.000Z",
+          "wordCount": 1725,
+          "title": "聊聊 nostr 和 审查",
+          "imageUrl": "https://coolshell.cn/wp-content/uploads/2023/02/nostr-aplicacion-descentralizada-1140x570-1-300x150.png"
+        }
+      ]
     },
     {
       "title": "ShanSan",
