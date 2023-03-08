@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-01T00:51:19.111Z</updated>
+    <updated>2023-03-08T00:46:44.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
@@ -24,18 +24,6 @@
         <summary type="html"><![CDATA[两个月前，我试着想用 ChatGPT 帮我写篇文章《eBPF 介绍》，结果错误百出，导致我又要从头改一遍，从那天我觉得 ChatGPT 生成的内容完全不靠谱，所...
  Read More  Read More
 我看ChatGPT: 为啥谷歌掉了千亿美金 first appeared on 酷 壳 - CoolShell.]]></summary>
-        <author>
-            <name>陈皓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊聊 nostr 和 审查]]></title>
-        <id>https://coolshell.cn/?p=22367</id>
-        <link href="https://coolshell.cn/articles/22367.html"/>
-        <updated>2023-02-03T07:46:13.000Z</updated>
-        <summary type="html"><![CDATA[这两天在网络上又有一个东西火了，Twitter 的创始人 @jack 新的社交 iOS App  Damus 上苹果商店（第二天就因为违反中国法律在中国区下架了...
- Read More  Read More
-聊聊 nostr 和 审查 first appeared on 酷 壳 - CoolShell.]]></summary>
         <author>
             <name>陈皓</name>
         </author>
