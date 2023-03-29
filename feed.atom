@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-22T00:40:40.014Z</updated>
+    <updated>2023-03-29T00:46:38.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
@@ -22,16 +22,6 @@
         <link href="https://yeshan333.github.io/2023/03/09/become-a-romantic-muscian/"/>
         <updated>2023-03-09T22:40:24.000Z</updated>
         <summary type="html"><![CDATA[即将开启！]]></summary>
-        <author>
-            <name>ShanSan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 | Summary]]></title>
-        <id>https://yeshan333.github.io/2023/02/26/2022-annual-reviewed/</id>
-        <link href="https://yeshan333.github.io/2023/02/26/2022-annual-reviewed/"/>
-        <updated>2023-02-26T15:59:12.000Z</updated>
-        <summary type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"]]></summary>
         <author>
             <name>ShanSan</name>
         </author>
