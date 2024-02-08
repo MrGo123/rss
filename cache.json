@@ -16,7 +16,18 @@
       "title": "ShanSan",
       "feedUrl": "https://shansan.top/rss2.xml",
       "siteUrl": "https://yeshan333.github.io/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://yeshan333.github.io/2024/02/07/become-a-romantic-muscian/",
+          "author": null,
+          "description": "2023 年搞了台雅马哈 61 键的电子琴，顺手看了下啊 B 的上的课程 <a",
+          "link": "https://yeshan333.github.io/2024/02/07/become-a-romantic-muscian/",
+          "publishedOn": "2024-02-07T18:40:24.000Z",
+          "wordCount": 8294,
+          "title": "乐理通识",
+          "imageUrl": "https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png"
+        }
+      ]
     },
     {
       "title": "阮一峰的网络日志",
