@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-15T00:36:41.980Z</updated>
+    <updated>2024-02-22T00:36:25.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[使用 GitHub Codespaces 加速 Elixir 开发环境工作速度]]></title>
+        <id>https://yeshan333.github.io/2024/02/19/elixir-github-codespace-dev/</id>
+        <link href="https://yeshan333.github.io/2024/02/19/elixir-github-codespace-dev/"/>
+        <updated>2024-02-19T16:29:08.000Z</updated>
+        <summary type="html"><![CDATA[create elixir dev env with github codespaces]]></summary>
+        <author>
+            <name>ShanSan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乐理通识]]></title>
         <id>https://yeshan333.github.io/2024/02/07/become-a-romantic-muscian/</id>
