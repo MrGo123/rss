@@ -18,6 +18,16 @@
       "siteUrl": "https://yeshan333.github.io/",
       "articles": [
         {
+          "id": "https://yeshan333.github.io/2024/02/29/using-ycsb-benchmark-etcd/",
+          "author": null,
+          "description": "using go-ycsb to benchmark etcd.",
+          "link": "https://yeshan333.github.io/2024/02/29/using-ycsb-benchmark-etcd/",
+          "publishedOn": "2024-02-29T14:16:51.000Z",
+          "wordCount": 8536,
+          "title": "使用 go-ycsb 对 etcd 进行基准 (benchmark) 性能测试",
+          "imageUrl": "https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png"
+        },
+        {
           "id": "https://yeshan333.github.io/2024/02/19/elixir-github-codespace-dev/",
           "author": null,
           "description": "create elixir dev env with github codespaces",
