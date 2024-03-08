@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-01T00:41:04.353Z</updated>
+    <updated>2024-03-08T00:36:24.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Awesome Technology Weekly Zh-Hans - 中文技术月/周/日刊一览]]></title>
+        <id>https://yeshan333.github.io/2024/03/04/awesome-tech-weekly-zh/</id>
+        <link href="https://yeshan333.github.io/2024/03/04/awesome-tech-weekly-zh/"/>
+        <updated>2024-03-04T11:14:47.000Z</updated>
+        <summary type="html"><![CDATA[Awesome Technology Weekly Zh-Hans - 中文技术月/周/日刊一览, 文章每三小时刷新]]></summary>
+        <author>
+            <name>ShanSan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用 go-ycsb 对 etcd 进行基准 (benchmark) 性能测试]]></title>
         <id>https://yeshan333.github.io/2024/02/29/using-ycsb-benchmark-etcd/</id>

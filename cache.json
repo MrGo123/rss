@@ -18,6 +18,16 @@
       "siteUrl": "https://yeshan333.github.io/",
       "articles": [
         {
+          "id": "https://yeshan333.github.io/2024/03/04/awesome-tech-weekly-zh/",
+          "author": null,
+          "description": "Awesome Technology Weekly Zh-Hans - 中文技术月/周/日刊一览, 文章每三小时刷新",
+          "link": "https://yeshan333.github.io/2024/03/04/awesome-tech-weekly-zh/",
+          "publishedOn": "2024-03-04T11:14:47.000Z",
+          "wordCount": 8116,
+          "title": "Awesome Technology Weekly Zh-Hans - 中文技术月/周/日刊一览",
+          "imageUrl": "https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png"
+        },
+        {
           "id": "https://yeshan333.github.io/2024/02/29/using-ycsb-benchmark-etcd/",
           "author": null,
           "description": "using go-ycsb to benchmark etcd.",
