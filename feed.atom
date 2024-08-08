@@ -2,50 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-01T00:47:44.620Z</updated>
+    <updated>2024-08-08T00:43:46.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[Awesome Technology Weekly Zh-Hans - 中文技术月/周/日刊一览]]></title>
-        <id>https://yeshan333.github.io/2024/03/04/awesome-tech-weekly-zh/</id>
-        <link href="https://yeshan333.github.io/2024/03/04/awesome-tech-weekly-zh/"/>
-        <updated>2024-03-04T11:14:47.000Z</updated>
-        <summary type="html"><![CDATA[Awesome Technology Weekly Zh-Hans - 中文技术月/周/日刊一览, 文章每三小时刷新]]></summary>
-        <author>
-            <name>ShanSan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 go-ycsb 对 etcd 进行基准 (benchmark) 性能测试]]></title>
-        <id>https://yeshan333.github.io/2024/02/29/using-ycsb-benchmark-etcd/</id>
-        <link href="https://yeshan333.github.io/2024/02/29/using-ycsb-benchmark-etcd/"/>
-        <updated>2024-02-29T14:16:51.000Z</updated>
-        <summary type="html"><![CDATA[using go-ycsb to benchmark etcd.]]></summary>
-        <author>
-            <name>ShanSan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 GitHub Codespaces 加速 Elixir 开发环境工作速度]]></title>
-        <id>https://yeshan333.github.io/2024/02/19/elixir-github-codespace-dev/</id>
-        <link href="https://yeshan333.github.io/2024/02/19/elixir-github-codespace-dev/"/>
-        <updated>2024-02-19T16:29:08.000Z</updated>
-        <summary type="html"><![CDATA[create elixir dev env with github codespaces]]></summary>
-        <author>
-            <name>ShanSan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乐理通识]]></title>
-        <id>https://yeshan333.github.io/2024/02/07/become-a-romantic-muscian/</id>
-        <link href="https://yeshan333.github.io/2024/02/07/become-a-romantic-muscian/"/>
-        <updated>2024-02-07T18:40:24.000Z</updated>
-        <summary type="html"><![CDATA[2023 年搞了台雅马哈 61 键的电子琴，顺手看了下啊 B 的上的课程 <a]]></summary>
-        <author>
-            <name>ShanSan</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 193 期）：前端与后端，谁更难？]]></title>
         <id>http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html</id>
