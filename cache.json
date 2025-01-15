@@ -16,7 +16,18 @@
       "title": "ShanSan",
       "feedUrl": "https://shansan.top/rss2.xml",
       "siteUrl": "https://yeshan333.github.io/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://yeshan333.github.io/2025/01/08/debug-emscripten-wasm-in-vscode/",
+          "author": null,
+          "description": "在 Visual Studio Code 与微信开发者工具中调试 emscripten 生成的 WASM 代码",
+          "link": "https://yeshan333.github.io/2025/01/08/debug-emscripten-wasm-in-vscode/",
+          "publishedOn": "2025-01-08T00:30:39.000Z",
+          "wordCount": 8905,
+          "title": "在 Visual Studio Code 与微信开发者工具中调试 emscripten 生成的 WASM 代码",
+          "imageUrl": "https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png"
+        }
+      ]
     },
     {
       "title": "阮一峰的网络日志",

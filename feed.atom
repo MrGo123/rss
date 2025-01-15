@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-08T00:51:00.475Z</updated>
+    <updated>2025-01-15T00:49:50.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[在 Visual Studio Code 与微信开发者工具中调试 emscripten 生成的 WASM 代码]]></title>
+        <id>https://yeshan333.github.io/2025/01/08/debug-emscripten-wasm-in-vscode/</id>
+        <link href="https://yeshan333.github.io/2025/01/08/debug-emscripten-wasm-in-vscode/"/>
+        <updated>2025-01-08T00:30:39.000Z</updated>
+        <summary type="html"><![CDATA[在 Visual Studio Code 与微信开发者工具中调试 emscripten 生成的 WASM 代码]]></summary>
+        <author>
+            <name>ShanSan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 193 期）：前端与后端，谁更难？]]></title>
         <id>http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html</id>
