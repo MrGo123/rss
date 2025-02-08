@@ -18,13 +18,13 @@
       "siteUrl": "https://yeshan333.github.io/",
       "articles": [
         {
-          "id": "https://yeshan333.github.io/2025/01/08/debug-emscripten-wasm-in-vscode/",
+          "id": "https://yeshan333.github.io/2025/02/06/mongodb-deployment-with-tls-and-mkcert/",
           "author": null,
-          "description": "在 Visual Studio Code 与微信开发者工具中调试 emscripten 生成的 WASM 代码",
-          "link": "https://yeshan333.github.io/2025/01/08/debug-emscripten-wasm-in-vscode/",
-          "publishedOn": "2025-01-08T00:30:39.000Z",
-          "wordCount": 8905,
-          "title": "在 Visual Studio Code 与微信开发者工具中调试 emscripten 生成的 WASM 代码",
+          "description": "使用 mkcert 本地部署启动了 TLS/SSL 加密通讯的 MongoDB 副本集和分片集群",
+          "link": "https://yeshan333.github.io/2025/02/06/mongodb-deployment-with-tls-and-mkcert/",
+          "publishedOn": "2025-02-06T15:40:38.000Z",
+          "wordCount": 9037,
+          "title": "使用 mkcert 本地部署启动了 TLS/SSL 加密通讯的 MongoDB 副本集和分片集群",
           "imageUrl": "https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png"
         }
       ]
