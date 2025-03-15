@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-08T00:41:29.600Z</updated>
+    <updated>2025-03-15T00:52:19.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[使用 mkcert 本地部署启动了 TLS/SSL 加密通讯的 MongoDB 副本集和分片集群]]></title>
-        <id>https://yeshan333.github.io/2025/02/06/mongodb-deployment-with-tls-and-mkcert/</id>
-        <link href="https://yeshan333.github.io/2025/02/06/mongodb-deployment-with-tls-and-mkcert/"/>
-        <updated>2025-02-06T15:40:38.000Z</updated>
-        <summary type="html"><![CDATA[使用 mkcert 本地部署启动了 TLS/SSL 加密通讯的 MongoDB 副本集和分片集群]]></summary>
-        <author>
-            <name>ShanSan</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 193 期）：前端与后端，谁更难？]]></title>
         <id>http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html</id>

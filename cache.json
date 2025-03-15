@@ -16,18 +16,7 @@
       "title": "ShanSan",
       "feedUrl": "https://shansan.top/rss2.xml",
       "siteUrl": "https://yeshan333.github.io/",
-      "articles": [
-        {
-          "id": "https://yeshan333.github.io/2025/02/06/mongodb-deployment-with-tls-and-mkcert/",
-          "author": null,
-          "description": "使用 mkcert 本地部署启动了 TLS/SSL 加密通讯的 MongoDB 副本集和分片集群",
-          "link": "https://yeshan333.github.io/2025/02/06/mongodb-deployment-with-tls-and-mkcert/",
-          "publishedOn": "2025-02-06T15:40:38.000Z",
-          "wordCount": 9037,
-          "title": "使用 mkcert 本地部署启动了 TLS/SSL 加密通讯的 MongoDB 副本集和分片集群",
-          "imageUrl": "https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "阮一峰的网络日志",
