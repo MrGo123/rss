@@ -26,16 +26,6 @@
           "wordCount": 9212,
           "title": "【体验】使用 GitHub Copilot Agent 创建新的 RSSHub 路由",
           "imageUrl": "https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png"
-        },
-        {
-          "id": "https://yeshan333.github.io/2025/03/23/build-agent-with-mcp-agent-and-qwen/",
-          "author": null,
-          "description": "使用 mcp-agent 框架和百炼大模型构建基于 MCP 协议的网页总结智能代理 (agent)",
-          "link": "https://yeshan333.github.io/2025/03/23/build-agent-with-mcp-agent-and-qwen/",
-          "publishedOn": "2025-03-23T17:49:46.000Z",
-          "wordCount": 9616,
-          "title": "使用 mcp-agent 框架和百炼通义千问大模型构建基于 MCP 协议的网页总结智能代理 (agent)",
-          "imageUrl": "https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png"
         }
       ]
     },

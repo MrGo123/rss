@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-22T00:55:50.358Z</updated>
+    <updated>2025-04-29T00:57:13.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
@@ -12,16 +12,6 @@
         <link href="https://yeshan333.github.io/2025/04/20/use-github-copilot-to-create-rsshub-route/"/>
         <updated>2025-04-20T18:54:12.000Z</updated>
         <summary type="html"><![CDATA[使用 GitHub Copilot Agent 创建新的 RSSHub 路由]]></summary>
-        <author>
-            <name>ShanSan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 mcp-agent 框架和百炼通义千问大模型构建基于 MCP 协议的网页总结智能代理 (agent)]]></title>
-        <id>https://yeshan333.github.io/2025/03/23/build-agent-with-mcp-agent-and-qwen/</id>
-        <link href="https://yeshan333.github.io/2025/03/23/build-agent-with-mcp-agent-and-qwen/"/>
-        <updated>2025-03-23T17:49:46.000Z</updated>
-        <summary type="html"><![CDATA[使用 mcp-agent 框架和百炼大模型构建基于 MCP 协议的网页总结智能代理 (agent)]]></summary>
         <author>
             <name>ShanSan</name>
         </author>
