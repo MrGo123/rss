@@ -16,7 +16,18 @@
       "title": "ShanSan",
       "feedUrl": "https://shansan.top/rss2.xml",
       "siteUrl": "https://yeshan333.github.io/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://yeshan333.github.io/2025/07/12/rss-summary-workflow-with-n8n/",
+          "author": null,
+          "description": "使用 n8n 和飞书多维表打造自己的 RSS Feed 订阅管理 & AI 大模型阅读提炼工作流",
+          "link": "https://yeshan333.github.io/2025/07/12/rss-summary-workflow-with-n8n/",
+          "publishedOn": "2025-07-12T23:52:37.000Z",
+          "wordCount": 10157,
+          "title": "使用 n8n 和飞书多维表打造自己的 RSS Feed 订阅管理 & AI 大模型阅读提炼工作流",
+          "imageUrl": "https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png"
+        }
+      ]
     },
     {
       "title": "阮一峰的网络日志",
