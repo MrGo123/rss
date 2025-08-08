@@ -15,8 +15,18 @@
     {
       "title": "ShanSan",
       "feedUrl": "https://shansan.top/rss2.xml",
-      "siteUrl": "https://yeshan333.github.io/",
+      "siteUrl": "https://shansan.top/",
       "articles": [
+        {
+          "id": "https://shansan.top/2025/07/27/claude-code-subagent-for-tech-writing/",
+          "author": null,
+          "description": "使用 Claude Code 的自定义 Sub Agent 完善博客写作体验, 生成文章 banner",
+          "link": "https://shansan.top/2025/07/27/claude-code-subagent-for-tech-writing/",
+          "publishedOn": "2025-07-27T14:44:39.000Z",
+          "wordCount": 2734,
+          "title": "使用 Claude Code 的自定义 Sub Agent 完善博文写作体验",
+          "imageUrl": "https://ospy.shan333.cn/blog/writing-with-ai/agent-gen-banner.jpg"
+        },
         {
           "id": "https://yeshan333.github.io/2025/07/27/claude-code-subagent-for-tech-writing/",
           "author": null,
@@ -28,6 +38,16 @@
           "imageUrl": "https://ospy.shan333.cn/blog/writing-with-ai/agent-gen-banner.jpg"
         },
         {
+          "id": "https://shansan.top/2025/07/27/migrate-theme-to-stellar-with-claude-code/",
+          "author": null,
+          "description": "使用 Claude Code 和 Qwen3 Coder 将博客主题从 Volantis 成功迁移到了 Stellar 🎉",
+          "link": "https://shansan.top/2025/07/27/migrate-theme-to-stellar-with-claude-code/",
+          "publishedOn": "2025-07-27T02:24:40.000Z",
+          "wordCount": 5637,
+          "title": "使用 Claude Code 和 Qwen3 Coder 将博客主题成功迁移到了 Stellar 🎉",
+          "imageUrl": "https://ospy.shan333.cn/blog/migrate-theme/claude-talk-history.jpg"
+        },
+        {
           "id": "https://yeshan333.github.io/2025/07/27/migrate-theme-to-stellar-with-claude-code/",
           "author": null,
           "description": "使用 Claude Code 和 Qwen3 Coder 将博客主题从 Volantis 成功迁移到了 Stellar 🎉",
@@ -36,6 +56,16 @@
           "wordCount": 5636,
           "title": "使用 Claude Code 和 Qwen3 Coder 将博客主题成功迁移到了 Stellar 🎉",
           "imageUrl": "https://ospy.shan333.cn/blog/migrate-theme/claude-talk-history.jpg"
+        },
+        {
+          "id": "https://shansan.top/2025/07/12/rss-summary-workflow-with-n8n/",
+          "author": null,
+          "description": "使用 n8n 和飞书多维表打造自己的 RSS Feed 订阅管理 & AI 大模型阅读提炼工作流",
+          "link": "https://shansan.top/2025/07/12/rss-summary-workflow-with-n8n/",
+          "publishedOn": "2025-07-12T23:52:37.000Z",
+          "wordCount": 4337,
+          "title": "使用 n8n 和飞书多维表打造自己的 RSS Feed 订阅管理 & AI 大模型阅读提炼工作流",
+          "imageUrl": "https://ospy.shan333.cn/blog/n8n_blog_post/rssbot-bug-track.jpg"
         },
         {
           "id": "https://yeshan333.github.io/2025/07/12/rss-summary-workflow-with-n8n/",
