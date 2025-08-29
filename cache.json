@@ -36,46 +36,6 @@
           "wordCount": 3260,
           "title": "使用 iFLOW-CLI GitHub Action 和 Qwen3-Coder 给 GitHub 仓库生成幻灯片风格的文档站点",
           "imageUrl": "https://ospy.shan333.cn/blog/iflow-cli-action/iflow-action-usage-demo.gif"
-        },
-        {
-          "id": "https://shansan.top/2025/07/27/claude-code-subagent-for-tech-writing/",
-          "author": null,
-          "description": "使用 Claude Code 的自定义 Sub Agent 完善博客写作体验, 生成文章 banner",
-          "link": "https://shansan.top/2025/07/27/claude-code-subagent-for-tech-writing/",
-          "publishedOn": "2025-07-27T14:44:39.000Z",
-          "wordCount": 2734,
-          "title": "使用 Claude Code 的自定义 Sub Agent 完善博文写作体验",
-          "imageUrl": "https://ospy.shan333.cn/blog/writing-with-ai/agent-gen-banner.jpg"
-        },
-        {
-          "id": "https://yeshan333.github.io/2025/07/27/claude-code-subagent-for-tech-writing/",
-          "author": null,
-          "description": "使用 Claude Code 的自定义 Sub Agent 完善博客写作体验, 生成文章 banner",
-          "link": "https://yeshan333.github.io/2025/07/27/claude-code-subagent-for-tech-writing/",
-          "publishedOn": "2025-07-27T14:44:39.000Z",
-          "wordCount": 2729,
-          "title": "使用 Claude Code 的自定义 Sub Agent 完善博文写作体验",
-          "imageUrl": "https://ospy.shan333.cn/blog/writing-with-ai/agent-gen-banner.jpg"
-        },
-        {
-          "id": "https://shansan.top/2025/07/27/migrate-theme-to-stellar-with-claude-code/",
-          "author": null,
-          "description": "使用 Claude Code 和 Qwen3 Coder 将博客主题从 Volantis 成功迁移到了 Stellar 🎉",
-          "link": "https://shansan.top/2025/07/27/migrate-theme-to-stellar-with-claude-code/",
-          "publishedOn": "2025-07-27T02:24:40.000Z",
-          "wordCount": 5637,
-          "title": "使用 Claude Code 和 Qwen3 Coder 将博客主题成功迁移到了 Stellar 🎉",
-          "imageUrl": "https://ospy.shan333.cn/blog/migrate-theme/claude-talk-history.jpg"
-        },
-        {
-          "id": "https://yeshan333.github.io/2025/07/27/migrate-theme-to-stellar-with-claude-code/",
-          "author": null,
-          "description": "使用 Claude Code 和 Qwen3 Coder 将博客主题从 Volantis 成功迁移到了 Stellar 🎉",
-          "link": "https://yeshan333.github.io/2025/07/27/migrate-theme-to-stellar-with-claude-code/",
-          "publishedOn": "2025-07-27T02:24:40.000Z",
-          "wordCount": 5636,
-          "title": "使用 Claude Code 和 Qwen3 Coder 将博客主题成功迁移到了 Stellar 🎉",
-          "imageUrl": "https://ospy.shan333.cn/blog/migrate-theme/claude-talk-history.jpg"
         }
       ]
     },
