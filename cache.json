@@ -26,16 +26,6 @@
           "wordCount": 7202,
           "title": "使用 iflow-cli-action 在 GitHub 与 Qwen3-Coder、Kimi K2 一起快速提升你的生产力",
           "imageUrl": "https://ospy.shan333.cn/blog/iflow-cli-action/iflow-action-usage-demo.gif"
-        },
-        {
-          "id": "https://shansan.top/2025/08/09/gen-slides-like-docs-site-with-iflow-cli/",
-          "author": null,
-          "description": "使用 iFLOW-CLI GitHub Action 给 GitHub 仓库生成幻灯片风格的文档站点",
-          "link": "https://shansan.top/2025/08/09/gen-slides-like-docs-site-with-iflow-cli/",
-          "publishedOn": "2025-08-09T23:40:21.000Z",
-          "wordCount": 3260,
-          "title": "使用 iFLOW-CLI GitHub Action 和 Qwen3-Coder 给 GitHub 仓库生成幻灯片风格的文档站点",
-          "imageUrl": "https://ospy.shan333.cn/blog/iflow-cli-action/iflow-action-usage-demo.gif"
         }
       ]
     },
