@@ -16,18 +16,7 @@
       "title": "ShanSan",
       "feedUrl": "https://shansan.top/rss2.xml",
       "siteUrl": "https://shansan.top/",
-      "articles": [
-        {
-          "id": "https://shansan.top/2025/08/16/the-next-level-of-developer-productivity-with-iflow-cli-action/",
-          "author": null,
-          "description": "使用 iflow-cli-action 在 GitHub 与 Qwen3-Coder、Kimi K2 一起快速提升你的生产力",
-          "link": "https://shansan.top/2025/08/16/the-next-level-of-developer-productivity-with-iflow-cli-action/",
-          "publishedOn": "2025-08-16T22:04:15.000Z",
-          "wordCount": 7202,
-          "title": "使用 iflow-cli-action 在 GitHub 与 Qwen3-Coder、Kimi K2 一起快速提升你的生产力",
-          "imageUrl": "https://ospy.shan333.cn/blog/iflow-cli-action/iflow-action-usage-demo.gif"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "阮一峰的网络日志",

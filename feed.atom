@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-15T00:58:04.867Z</updated>
+    <updated>2025-09-22T00:59:31.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[使用 iflow-cli-action 在 GitHub 与 Qwen3-Coder、Kimi K2 一起快速提升你的生产力]]></title>
-        <id>https://shansan.top/2025/08/16/the-next-level-of-developer-productivity-with-iflow-cli-action/</id>
-        <link href="https://shansan.top/2025/08/16/the-next-level-of-developer-productivity-with-iflow-cli-action/"/>
-        <updated>2025-08-16T22:04:15.000Z</updated>
-        <summary type="html"><![CDATA[使用 iflow-cli-action 在 GitHub 与 Qwen3-Coder、Kimi K2 一起快速提升你的生产力]]></summary>
-        <author>
-            <name>ShanSan</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 193 期）：前端与后端，谁更难？]]></title>
         <id>http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html</id>
