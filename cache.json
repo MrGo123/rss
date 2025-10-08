@@ -16,7 +16,18 @@
       "title": "ShanSan",
       "feedUrl": "https://shansan.top/rss2.xml",
       "siteUrl": "https://shansan.top/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://shansan.top/2025/09/28/my-mac-tools/",
+          "author": null,
+          "description": "我的 MacOS 常用软件清单",
+          "link": "https://shansan.top/2025/09/28/my-mac-tools/",
+          "publishedOn": "2025-09-28T11:24:38.000Z",
+          "wordCount": 2232,
+          "title": "我的 MacOS 常用软件清单",
+          "imageUrl": "https://gallery.shansan.top/file/1759380807585_image.png"
+        }
+      ]
     },
     {
       "title": "阮一峰的网络日志",
