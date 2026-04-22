@@ -16,7 +16,18 @@
       "title": "ShanSan",
       "feedUrl": "https://shansan.top/rss2.xml",
       "siteUrl": "https://shansan.top/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://shansan.top/2026/04/19/Software-Testing-Weekly-Visual-Interpretation/",
+          "author": "ShanSan",
+          "description": "【连载】Software Testing Weekly 图文解读 with VLM",
+          "link": "https://shansan.top/2026/04/19/Software-Testing-Weekly-Visual-Interpretation/",
+          "publishedOn": "2026-04-19T00:45:59.000Z",
+          "wordCount": 2882,
+          "title": "【连载】Software Testing Weekly 图文解读 with VLM",
+          "imageUrl": "https://gallery.shansan.top/file/1776530914786_image.png"
+        }
+      ]
     },
     {
       "title": "阮一峰的网络日志",
