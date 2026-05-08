@@ -18,6 +18,16 @@
       "siteUrl": "https://shansan.top/",
       "articles": [
         {
+          "id": "https://shansan.top/2026/05/02/cluacov-branch-coverage/",
+          "author": "ShanSan",
+          "description": "深入剖析 cluacov 的两套分支覆盖率方案——基于行级调试钩子的近似实现与基于指令级计数钩子的精确实现，涵盖 Lua 字节码、调试钩子、Proto 元数据生命周期与 GC 安全设计。",
+          "link": "https://shansan.top/2026/05/02/cluacov-branch-coverage/",
+          "publishedOn": "2026-05-02T03:59:00.000Z",
+          "wordCount": 5035,
+          "title": "【Draft】cluacov 的分支覆盖率统计：从行级近似到指令级精确",
+          "imageUrl": "https://blog-cloudflare-imgbed.pages.dev/file/img/cluacov-branch-coverage/1777718191373_01-architecture-comparison.png"
+        },
+        {
           "id": "https://shansan.top/2026/04/22/blog-sanitizers-deep-dive/",
           "author": "ShanSan",
           "description": "<script src=\"/assets/js/APlayer.min.js\" cla",
