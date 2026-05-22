@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-15T02:14:14.037Z</updated>
+    <updated>2026-05-22T02:33:37.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Your New Tab：把常用的 AI 搜索放进新标签页]]></title>
+        <id>https://shansan.top/2026/05/17/your-new-tab-ai-search-hub-promo/</id>
+        <link href="https://shansan.top/2026/05/17/your-new-tab-ai-search-hub-promo/"/>
+        <updated>2026-05-17T17:13:00.000Z</updated>
+        <summary type="html"><![CDATA[指挥 Claude 和 Codex 折腾了一个开源浏览器扩展 Your New Tab，把新标签页改成 AI 搜索入口，一次输入后可以发给 Google AI Search、Grok Search、Metaso、X Search 等服务。]]></summary>
+        <author>
+            <name>ShanSan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Draft】cluacov 的分支覆盖率统计：从行级近似到指令级精确]]></title>
         <id>https://shansan.top/2026/05/02/cluacov-branch-coverage/</id>
@@ -22,16 +32,6 @@
         <link href="https://shansan.top/2026/04/22/blog-sanitizers-deep-dive/"/>
         <updated>2026-04-22T16:10:00.000Z</updated>
         <summary type="html"><![CDATA[<script src="/assets/js/APlayer.min.js" cla]]></summary>
-        <author>
-            <name>ShanSan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【连载】Software Testing Weekly 图文解读 with VLM]]></title>
-        <id>https://shansan.top/2026/04/19/Software-Testing-Weekly-Visual-Interpretation/</id>
-        <link href="https://shansan.top/2026/04/19/Software-Testing-Weekly-Visual-Interpretation/"/>
-        <updated>2026-04-19T00:45:59.000Z</updated>
-        <summary type="html"><![CDATA[【连载】Software Testing Weekly 图文解读 with VLM]]></summary>
         <author>
             <name>ShanSan</name>
         </author>

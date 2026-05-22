@@ -18,6 +18,16 @@
       "siteUrl": "https://shansan.top/",
       "articles": [
         {
+          "id": "https://shansan.top/2026/05/17/your-new-tab-ai-search-hub-promo/",
+          "author": "ShanSan",
+          "description": "指挥 Claude 和 Codex 折腾了一个开源浏览器扩展 Your New Tab，把新标签页改成 AI 搜索入口，一次输入后可以发给 Google AI Search、Grok Search、Metaso、X Search 等服务。",
+          "link": "https://shansan.top/2026/05/17/your-new-tab-ai-search-hub-promo/",
+          "publishedOn": "2026-05-17T17:13:00.000Z",
+          "wordCount": 3058,
+          "title": "Your New Tab：把常用的 AI 搜索放进新标签页",
+          "imageUrl": "https://raw.githubusercontent.com/vibe-ideas/your-new-tab/main/demo.gif"
+        },
+        {
           "id": "https://shansan.top/2026/05/02/cluacov-branch-coverage/",
           "author": "ShanSan",
           "description": "深入剖析 cluacov 的两套分支覆盖率方案——基于行级调试钩子的近似实现与基于指令级计数钩子的精确实现，涵盖 Lua 字节码、调试钩子、Proto 元数据生命周期与 GC 安全设计。",
@@ -36,16 +46,6 @@
           "wordCount": 4243,
           "title": "Sanitizer 全景：从编译插桩到硬件标签的内存安全检测演进",
           "imageUrl": "https://blog-cloudflare-imgbed.pages.dev/file/1776845490541_01-project-overview.png"
-        },
-        {
-          "id": "https://shansan.top/2026/04/19/Software-Testing-Weekly-Visual-Interpretation/",
-          "author": "ShanSan",
-          "description": "【连载】Software Testing Weekly 图文解读 with VLM",
-          "link": "https://shansan.top/2026/04/19/Software-Testing-Weekly-Visual-Interpretation/",
-          "publishedOn": "2026-04-19T00:45:59.000Z",
-          "wordCount": 2882,
-          "title": "【连载】Software Testing Weekly 图文解读 with VLM",
-          "imageUrl": "https://gallery.shansan.top/file/1776530914786_image.png"
         }
       ]
     },
