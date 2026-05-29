@@ -36,16 +36,6 @@
           "wordCount": 5035,
           "title": "【Draft】cluacov 的分支覆盖率统计：从行级近似到指令级精确",
           "imageUrl": "https://blog-cloudflare-imgbed.pages.dev/file/img/cluacov-branch-coverage/1777718191373_01-architecture-comparison.png"
-        },
-        {
-          "id": "https://shansan.top/2026/04/22/blog-sanitizers-deep-dive/",
-          "author": "ShanSan",
-          "description": "<script src=\"/assets/js/APlayer.min.js\" cla",
-          "link": "https://shansan.top/2026/04/22/blog-sanitizers-deep-dive/",
-          "publishedOn": "2026-04-22T16:10:00.000Z",
-          "wordCount": 4243,
-          "title": "Sanitizer 全景：从编译插桩到硬件标签的内存安全检测演进",
-          "imageUrl": "https://blog-cloudflare-imgbed.pages.dev/file/1776845490541_01-project-overview.png"
         }
       ]
     },
