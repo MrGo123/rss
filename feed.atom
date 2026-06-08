@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-01T02:46:29.005Z</updated>
+    <updated>2026-06-08T02:44:38.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【转载】AI 软件工程范式革命的思考]]></title>
+        <id>https://shansan.top/2026/06/06/ai-software-engineering-paradigm-revolution/</id>
+        <link href="https://shansan.top/2026/06/06/ai-software-engineering-paradigm-revolution/"/>
+        <updated>2026-06-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【转载】AI 软件工程范式革命的思考]]></summary>
+        <author>
+            <name>ShanSan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Your New Tab：把常用的 AI 搜索放进新标签页]]></title>
         <id>https://shansan.top/2026/05/17/your-new-tab-ai-search-hub-promo/</id>
