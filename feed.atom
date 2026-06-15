@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-08T02:44:38.418Z</updated>
+    <updated>2026-06-15T02:50:06.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 400 期）：rsync 的争论]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html"/>
+        <updated>2026-06-11T23:26:08.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。（[通知] 下周端午假期，周刊休息。）...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深入 Go Race Detector（Go 数据竞争检测器）：从编译器插桩到 ThreadSanitizer 运行时]]></title>
+        <id>https://shansan.top/2026/06/10/deep-dive-go-race-detector/</id>
+        <link href="https://shansan.top/2026/06/10/deep-dive-go-race-detector/"/>
+        <updated>2026-06-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Go race detector, ThreadSanitizer, data race, happens-before, shadow memory, vector clock]]></summary>
+        <author>
+            <name>ShanSan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emscripten 的 WebAssembly 编译实现解析]]></title>
+        <id>https://shansan.top/2026/06/09/emscripten-wasm-compilation-deep-dive/</id>
+        <link href="https://shansan.top/2026/06/09/emscripten-wasm-compilation-deep-dive/"/>
+        <updated>2026-06-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Emscripten 的 WebAssembly 编译实现解析]]></summary>
+        <author>
+            <name>ShanSan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【转载】AI 软件工程范式革命的思考]]></title>
         <id>https://shansan.top/2026/06/06/ai-software-engineering-paradigm-revolution/</id>
@@ -17,6 +47,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 399 期）：中国 AI 大厂访问记]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html"/>
+        <updated>2026-06-05T00:07:45.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 398 期）：Token 费用难以负担]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html"/>
+        <updated>2026-05-29T00:08:39.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Your New Tab：把常用的 AI 搜索放进新标签页]]></title>
         <id>https://shansan.top/2026/05/17/your-new-tab-ai-search-hub-promo/</id>
         <link href="https://shansan.top/2026/05/17/your-new-tab-ai-search-hub-promo/"/>
@@ -24,46 +74,6 @@
         <summary type="html"><![CDATA[指挥 Claude 和 Codex 折腾了一个开源浏览器扩展 Your New Tab，把新标签页改成 AI 搜索入口，一次输入后可以发给 Google AI Search、Grok Search、Metaso、X Search 等服务。]]></summary>
         <author>
             <name>ShanSan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 193 期）：前端与后端，谁更难？]]></title>
-        <id>http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html"/>
-        <updated>2022-01-21T00:48:38.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。（[通知] 下周欢度春节，周刊暂停，2月11日恢复。）...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 192 期）：最大的机会来自新技术]]></title>
-        <id>http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html"/>
-        <updated>2022-01-14T00:39:50.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 191 期）：一个程序员的财务独立之路]]></title>
-        <id>http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html"/>
-        <updated>2022-01-07T00:34:18.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 190 期）：产品化思维]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html"/>
-        <updated>2021-12-31T00:32:53.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>
