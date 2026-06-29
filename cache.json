@@ -65,6 +65,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html",
+          "publishedOn": "2026-06-26T00:05:38.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 401 期）：如何赚到10亿美元",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周端午假期，周刊休息。）...",
@@ -82,16 +92,6 @@
           "publishedOn": "2026-06-05T00:07:45.000Z",
           "wordCount": null,
           "title": "科技爱好者周刊（第 399 期）：中国 AI 大厂访问记",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html",
-          "publishedOn": "2026-05-29T00:08:39.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 398 期）：Token 费用难以负担",
           "imageUrl": null
         }
       ]
