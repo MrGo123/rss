@@ -65,6 +65,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2026/06/anthropic.html",
+          "author": null,
+          "description": "下面是 Anthropic 公司创始人 Dario Amodei 的言论。...",
+          "link": "http://www.ruanyifeng.com/blog/2026/06/anthropic.html",
+          "publishedOn": "2026-06-30T03:04:08.000Z",
+          "wordCount": null,
+          "title": "Dario Amodei：AI 开源是伪命题",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",

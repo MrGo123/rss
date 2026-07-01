@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-29T02:38:22.535Z</updated>
+    <updated>2026-07-01T02:38:57.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dario Amodei：AI 开源是伪命题]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/06/anthropic.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/06/anthropic.html"/>
+        <updated>2026-06-30T03:04:08.000Z</updated>
+        <summary type="html"><![CDATA[下面是 Anthropic 公司创始人 Dario Amodei 的言论。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 401 期）：如何赚到10亿美元]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html</id>
