@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-08T01:51:02.355Z</updated>
+    <updated>2026-07-15T01:27:27.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[深入 vLLM：从网关请求到 GPU 批处理的推理引擎实现]]></title>
+        <id>https://shansan.top/2026/07/12/vllm-inference-engine-deep-dive/</id>
+        <link href="https://shansan.top/2026/07/12/vllm-inference-engine-deep-dive/"/>
+        <updated>2026-07-12T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[vLLM, inference engine, PagedAttention, KV Cache, scheduler, OpenAI API, GPU serving]]></summary>
+        <author>
+            <name>ShanSan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html"/>
+        <updated>2026-07-10T00:05:31.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html</id>
@@ -62,36 +82,6 @@
         <link href="https://shansan.top/2026/06/19/learn-with-ai-friends/"/>
         <updated>2026-06-19T21:55:32.000Z</updated>
         <summary type="html"><![CDATA[记录一次用 AI 辅助学习 Godot SRPG 单关原型、游戏开发 playground 和 3D 制作管线的实践，重点关注如何把 AI 当作导师理解完整制作流程。]]></summary>
-        <author>
-            <name>ShanSan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 400 期）：rsync 的争论]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html"/>
-        <updated>2026-06-11T23:26:08.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。（[通知] 下周端午假期，周刊休息。）...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入 Go Race Detector（Go 数据竞争检测器）：从编译器插桩到 ThreadSanitizer 运行时]]></title>
-        <id>https://shansan.top/2026/06/10/deep-dive-go-race-detector/</id>
-        <link href="https://shansan.top/2026/06/10/deep-dive-go-race-detector/"/>
-        <updated>2026-06-10T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Go race detector, ThreadSanitizer, data race, happens-before, shadow memory, vector clock]]></summary>
-        <author>
-            <name>ShanSan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emscripten 的 WebAssembly 编译实现解析]]></title>
-        <id>https://shansan.top/2026/06/09/emscripten-wasm-compilation-deep-dive/</id>
-        <link href="https://shansan.top/2026/06/09/emscripten-wasm-compilation-deep-dive/"/>
-        <updated>2026-06-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Emscripten 的 WebAssembly 编译实现解析]]></summary>
         <author>
             <name>ShanSan</name>
         </author>

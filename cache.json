@@ -18,6 +18,16 @@
       "siteUrl": "https://shansan.top/",
       "articles": [
         {
+          "id": "https://shansan.top/2026/07/12/vllm-inference-engine-deep-dive/",
+          "author": null,
+          "description": "vLLM, inference engine, PagedAttention, KV Cache, scheduler, OpenAI API, GPU serving",
+          "link": "https://shansan.top/2026/07/12/vllm-inference-engine-deep-dive/",
+          "publishedOn": "2026-07-12T10:30:00.000Z",
+          "wordCount": 5462,
+          "title": "深入 vLLM：从网关请求到 GPU 批处理的推理引擎实现",
+          "imageUrl": null
+        },
+        {
           "id": "https://shansan.top/2026/06/19/learn-with-ai-friends/",
           "author": null,
           "description": "记录一次用 AI 辅助学习 Godot SRPG 单关原型、游戏开发 playground 和 3D 制作管线的实践，重点关注如何把 AI 当作导师理解完整制作流程。",
@@ -25,26 +35,6 @@
           "publishedOn": "2026-06-19T21:55:32.000Z",
           "wordCount": 3466,
           "title": "AI 时代快速了解自己感兴趣的计算机辅助的“制作工艺”管线",
-          "imageUrl": null
-        },
-        {
-          "id": "https://shansan.top/2026/06/10/deep-dive-go-race-detector/",
-          "author": null,
-          "description": "Go race detector, ThreadSanitizer, data race, happens-before, shadow memory, vector clock",
-          "link": "https://shansan.top/2026/06/10/deep-dive-go-race-detector/",
-          "publishedOn": "2026-06-10T12:00:00.000Z",
-          "wordCount": 4219,
-          "title": "深入 Go Race Detector（Go 数据竞争检测器）：从编译器插桩到 ThreadSanitizer 运行时",
-          "imageUrl": null
-        },
-        {
-          "id": "https://shansan.top/2026/06/09/emscripten-wasm-compilation-deep-dive/",
-          "author": null,
-          "description": "Emscripten 的 WebAssembly 编译实现解析",
-          "link": "https://shansan.top/2026/06/09/emscripten-wasm-compilation-deep-dive/",
-          "publishedOn": "2026-06-09T00:00:00.000Z",
-          "wordCount": 8944,
-          "title": "Emscripten 的 WebAssembly 编译实现解析",
           "imageUrl": null
         }
       ]
@@ -54,6 +44,16 @@
       "feedUrl": "https://www.ruanyifeng.com/blog/atom.xml",
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
+        {
+          "id": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html",
+          "publishedOn": "2026-07-10T00:05:31.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功",
+          "imageUrl": null
+        },
         {
           "id": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html",
           "author": null,
@@ -82,16 +82,6 @@
           "publishedOn": "2026-06-26T00:05:38.000Z",
           "wordCount": null,
           "title": "科技爱好者周刊（第 401 期）：如何赚到10亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周端午假期，周刊休息。）...",
-          "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html",
-          "publishedOn": "2026-06-11T23:26:08.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 400 期）：rsync 的争论",
           "imageUrl": null
         }
       ]
