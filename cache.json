@@ -35,6 +35,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html",
+          "publishedOn": "2026-07-24T00:12:16.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 405 期）：资源，社会公平与算力",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -72,16 +82,6 @@
           "publishedOn": "2026-06-30T03:04:08.000Z",
           "wordCount": null,
           "title": "Dario Amodei：AI 开源是伪命题",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html",
-          "publishedOn": "2026-06-26T00:05:38.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 401 期）：如何赚到10亿美元",
           "imageUrl": null
         }
       ]
