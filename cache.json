@@ -35,6 +35,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html",
+          "publishedOn": "2026-08-07T00:08:27.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 407 期）：国家为什么需要开源软件？",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -72,16 +82,6 @@
           "publishedOn": "2026-07-10T00:05:31.000Z",
           "wordCount": null,
           "title": "科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n内蒙古乌兰察布的\"草原方舟\"，内部是一个文化空间，举办艺术展览、文化交流、商业活动等。（via）\n我在智念 AI 的日子（小说）\n下面是一篇老外写的超短篇小说，也可能是 AI 写的，我不确定，但觉得很有趣，分享给大家。\n为了易读，我做了一些修改，把内容\"中国化\"了。\n1、\n十四个月之前，我加入了一家叫做\"智念 AI\"的公司。\n入职不久，公司进行新员工培训。首席执行官对我们说，公司的使命是为用户打造 AI 时代的个人品牌，帮助用户重新建立\"基于 AI 的认知\"。\n现在想起来，虽然我已经在这家公司呆了14个月，依然无法解释这段话的含义。\n2、\n首席执行官还向我们展示了一幅画。那是一个漫步者走在一片云雾里，向着远方凝视，远方有一个数据分析软件 Grafana 的仪表板。不用说，这幅画也是 AI 生成的。首席执行官解释说，我们这些人就是那个漫游者，那片云雾就是云端，里面有各种传统的 SaaS 产品。\n3、\n进入公司办公区，你首先会注意到墙上有一台65英寸电视机，实时显示 Token 消耗排行榜。\n目前，排名第一的是老张。他每周的 Token 费用，简直堪比一个太平洋小岛的 GDP。\n我看过老张的电脑屏幕，那是一个 Tmux 软件分隔出的窗格布局，里面同时运行着六个编程代理。他用《西游记》地名为这些代理起了别名，因为他在 GitHub 上看到有人这么做，很喜欢这种做法：盘丝洞表示前端，黑风山表示后端，火云洞是数据库，其他地名还有流沙河、车迟国和无底洞。\n4、\n有一次，我晚上加班回家，发现钥匙忘记在公司，就回去取。公司已经没人了，但是我隐约听到洗手间有人在哭。\n走近了，发现那是老张。我猜想，他是对着\"聆聆\"…",
-          "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html",
-          "publishedOn": "2026-07-02T23:33:49.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）",
           "imageUrl": null
         }
       ]
