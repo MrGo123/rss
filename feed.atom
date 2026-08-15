@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-08T00:57:07.234Z</updated>
+    <updated>2026-08-15T00:42:06.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html"/>
+        <updated>2026-08-13T23:54:49.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 407 期）：国家为什么需要开源软件？]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html</id>
@@ -41,26 +51,6 @@
         <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html"/>
         <updated>2026-07-16T23:51:19.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入 vLLM：从网关请求到 GPU 批处理的推理引擎实现]]></title>
-        <id>https://shansan.top/2026/07/12/vllm-inference-engine-deep-dive/</id>
-        <link href="https://shansan.top/2026/07/12/vllm-inference-engine-deep-dive/"/>
-        <updated>2026-07-12T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[vLLM, inference engine, PagedAttention, KV Cache, scheduler, OpenAI API, GPU serving]]></summary>
-        <author>
-            <name>ShanSan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html"/>
-        <updated>2026-07-10T00:05:31.000Z</updated>
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
