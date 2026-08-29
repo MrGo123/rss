@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-22T00:41:45.319Z</updated>
+    <updated>2026-08-29T04:53:02.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html"/>
+        <updated>2026-08-27T23:56:43.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 409 期）：程序员的职业未来]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html</id>
@@ -41,16 +51,6 @@
         <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html"/>
         <updated>2026-07-31T00:08:55.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 405 期）：资源，社会公平与算力]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html"/>
-        <updated>2026-07-24T00:12:16.000Z</updated>
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>

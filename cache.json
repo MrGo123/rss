@@ -24,6 +24,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
+          "publishedOn": "2026-08-27T23:56:43.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -61,16 +71,6 @@
           "publishedOn": "2026-07-31T00:08:55.000Z",
           "wordCount": null,
           "title": "科技爱好者周刊（第 406 期）：道可，道非，常道",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html",
-          "publishedOn": "2026-07-24T00:12:16.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 405 期）：资源，社会公平与算力",
           "imageUrl": null
         }
       ]
