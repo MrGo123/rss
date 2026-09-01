@@ -16,7 +16,18 @@
       "title": "ShanSan",
       "feedUrl": "https://shansan.top/rss2.xml",
       "siteUrl": "https://shansan.top/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://shansan.top/2026/08/29/xrepotest-deep-dive/",
+          "author": null,
+          "description": "XRepoTest, repository-level unit test generation, LLM benchmark, invocation rate, multilingual testing",
+          "link": "https://shansan.top/2026/08/29/xrepotest-deep-dive/",
+          "publishedOn": "2026-08-29T18:00:00.000Z",
+          "wordCount": 3183,
+          "title": "深入 XRepoTest：如何把 LLM 单元测试生成拉回真实仓库",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "阮一峰的网络日志",
@@ -61,16 +72,6 @@
           "publishedOn": "2026-08-07T00:08:27.000Z",
           "wordCount": null,
           "title": "科技爱好者周刊（第 407 期）：国家为什么需要开源软件？",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html",
-          "publishedOn": "2026-07-31T00:08:55.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 406 期）：道可，道非，常道",
           "imageUrl": null
         }
       ]
