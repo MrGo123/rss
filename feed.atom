@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T02:44:49.921Z</updated>
+    <updated>2026-09-08T02:11:50.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html"/>
+        <updated>2026-09-03T23:59:05.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[深入 XRepoTest：如何把 LLM 单元测试生成拉回真实仓库]]></title>
         <id>https://shansan.top/2026/08/29/xrepotest-deep-dive/</id>
@@ -41,16 +51,6 @@
         <id>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html"/>
         <updated>2026-08-13T23:54:49.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 407 期）：国家为什么需要开源软件？]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html"/>
-        <updated>2026-08-07T00:08:27.000Z</updated>
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
