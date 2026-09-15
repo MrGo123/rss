@@ -35,6 +35,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
+          "publishedOn": "2026-09-11T00:11:50.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -62,16 +72,6 @@
           "publishedOn": "2026-08-20T23:53:54.000Z",
           "wordCount": null,
           "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html",
-          "publishedOn": "2026-08-13T23:54:49.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识",
           "imageUrl": null
         }
       ]
