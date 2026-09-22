@@ -35,6 +35,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五开始的中秋和十一假期，周刊休息。）...",
+          "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
+          "publishedOn": "2026-09-18T00:03:02.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 413 期）：再见了，React Native",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -62,16 +72,6 @@
           "publishedOn": "2026-08-27T23:56:43.000Z",
           "wordCount": null,
           "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
-          "publishedOn": "2026-08-20T23:53:54.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
           "imageUrl": null
         }
       ]
