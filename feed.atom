@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-22T02:31:45.729Z</updated>
+    <updated>2026-09-29T03:24:21.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
@@ -31,26 +31,6 @@
         <id>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html"/>
         <updated>2026-09-03T23:59:05.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入 XRepoTest：如何把 LLM 单元测试生成拉回真实仓库]]></title>
-        <id>https://shansan.top/2026/08/29/xrepotest-deep-dive/</id>
-        <link href="https://shansan.top/2026/08/29/xrepotest-deep-dive/"/>
-        <updated>2026-08-29T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[XRepoTest, repository-level unit test generation, LLM benchmark, invocation rate, multilingual testing]]></summary>
-        <author>
-            <name>ShanSan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html"/>
-        <updated>2026-08-27T23:56:43.000Z</updated>
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>

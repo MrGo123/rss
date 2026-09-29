@@ -16,18 +16,7 @@
       "title": "ShanSan",
       "feedUrl": "https://shansan.top/rss2.xml",
       "siteUrl": "https://shansan.top/",
-      "articles": [
-        {
-          "id": "https://shansan.top/2026/08/29/xrepotest-deep-dive/",
-          "author": null,
-          "description": "XRepoTest, repository-level unit test generation, LLM benchmark, invocation rate, multilingual testing",
-          "link": "https://shansan.top/2026/08/29/xrepotest-deep-dive/",
-          "publishedOn": "2026-08-29T18:00:00.000Z",
-          "wordCount": 3183,
-          "title": "深入 XRepoTest：如何把 LLM 单元测试生成拉回真实仓库",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "阮一峰的网络日志",
@@ -62,16 +51,6 @@
           "publishedOn": "2026-09-03T23:59:05.000Z",
           "wordCount": null,
           "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
-          "publishedOn": "2026-08-27T23:56:43.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
           "imageUrl": null
         }
       ]
