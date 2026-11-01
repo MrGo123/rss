@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-29T03:37:04.029Z</updated>
+    <updated>2026-11-01T03:25:06.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 413 期）：再见了，React Native]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html"/>
-        <updated>2026-09-18T00:03:02.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五开始的中秋和十一假期，周刊休息。）...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 412 期）：禁止 issue，只用 PR]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html"/>
-        <updated>2026-09-11T00:11:50.000Z</updated>
+        <title type="html"><![CDATA[科技爱好者周刊（第 417 期）：不要让 AI 代表你]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html"/>
+        <updated>2026-10-30T00:13:03.000Z</updated>
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html"/>
-        <updated>2026-09-03T23:59:05.000Z</updated>
+        <title type="html"><![CDATA[科技爱好者周刊（第 416 期）：编程已经面目全非]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html"/>
+        <updated>2026-10-23T00:06:16.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 415 期）：3D 版《看不见的城市》]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html"/>
+        <updated>2026-10-16T00:02:56.000Z</updated>
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
