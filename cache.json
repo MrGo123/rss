@@ -24,6 +24,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html",
+          "publishedOn": "2026-11-13T00:08:29.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -51,16 +61,6 @@
           "publishedOn": "2026-10-23T00:06:16.000Z",
           "wordCount": null,
           "title": "科技爱好者周刊（第 416 期）：编程已经面目全非",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html",
-          "publishedOn": "2026-10-16T00:02:56.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 415 期）：3D 版《看不见的城市》",
           "imageUrl": null
         }
       ]

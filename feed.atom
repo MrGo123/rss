@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MrGo123.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-08T03:31:21.323Z</updated>
+    <updated>2026-11-15T03:56:32.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MrGo123.github.io/rss/index.html"/>
     <link rel="self" href="https://MrGo123.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 419 期）：机房来了，写字楼走了]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html"/>
+        <updated>2026-11-13T00:08:29.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 418 期）：如果科技停止在21世纪初]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html</id>
@@ -31,16 +41,6 @@
         <id>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html"/>
         <updated>2026-10-23T00:06:16.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 415 期）：3D 版《看不见的城市》]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html"/>
-        <updated>2026-10-16T00:02:56.000Z</updated>
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
